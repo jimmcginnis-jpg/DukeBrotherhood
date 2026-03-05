@@ -1,7 +1,16 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
+import data from '../data/players.json';
 
 export default function Layout({ children, title, description, canonical }) {
+  const router = useRouter();
+  const donePlayers = data.players.filter(p => p.status === 'done');
+
+  const goToRandomPlayer = () => {
+    const random = donePlayers[Math.floor(Math.random() * donePlayers.length)];
+    router.push(`/players/${random.slug}/`);
+  };
   const fullTitle = title
     ? `${title} | Duke's Brotherhood: Where Are They Now?`
     : "Duke's Brotherhood: Where Are They Now?";
@@ -45,7 +54,14 @@ export default function Layout({ children, title, description, canonical }) {
             </div>
           </Link>
 
-          <div className="flex gap-6 font-mono text-xs tracking-wider uppercase">
+          <div className="flex gap-6 items-center font-mono text-xs tracking-wider uppercase">
+            <button
+              onClick={goToRandomPlayer}
+              className="bg-duke-gold text-duke-navyDark px-3 py-1.5 hover:bg-duke-goldLight transition-colors cursor-pointer"
+              title="Random Player Generator — inspired by Wilco"
+            >
+              &#9861; Random Player
+            </button>
             <Link href="/players/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
               All Players
             </Link>
