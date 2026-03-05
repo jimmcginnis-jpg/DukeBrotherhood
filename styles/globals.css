@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Space+Mono:wght@400;700&display=swap');
+
+/* ============================================================
+   DUKE'S BROTHERHOOD — Global Styles
+   Navy: #00009C  |  Gold: #CBB677  |  Cream: #FAF8F3
+   ============================================================ */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'EB Garamond', Georgia, serif;
+  background-color: #FAF8F3;
+  color: #1a1a2e;
+}
+
+/* Bio content formatting */
+.bio-content p {
+  margin-bottom: 1.25rem;
+  line-height: 1.85;
+  font-size: 1.125rem;
+}
+
+.bio-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Tab system */
+.tab-button {
+  @apply px-4 py-2 text-sm font-mono tracking-wider uppercase transition-all duration-300 border-b-2;
+}
+
+.tab-button.active {
+  @apply border-duke-gold text-duke-navy font-bold;
+}
+
+.tab-button:not(.active) {
+  @apply border-transparent text-gray-500 hover:text-duke-navy hover:border-duke-gold/40;
+}
+
+/* Player card hover */
+.player-card {
+  @apply transition-all duration-300;
+}
+
+.player-card:hover {
+  @apply shadow-lg -translate-y-1;
+}
+
+/* Era section divider */
+.era-divider {
+  background: linear-gradient(90deg, transparent, #CBB677, transparent);
+  height: 1px;
+}
+
+/* Fade-in animation */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Status badges */
+.badge-done {
+  @apply bg-duke-navy text-white;
+}
+
+.badge-soon {
+  @apply bg-duke-gold text-duke-navyDark;
+}
+
+.badge-coming {
+  @apply bg-gray-200 text-gray-600;
+}

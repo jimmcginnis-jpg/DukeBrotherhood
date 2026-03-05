@@ -1,0 +1,131 @@
+import { useState } from 'react';
+import Link from 'next/link';
+import Layout from '../../components/Layout';
+import data from '../../data/players.json';
+
+export default function PlayersIndex({ eras, players }) {
+  const [filterEra, setFilterEra] = useState('all');
+  const [filterStatus, setFilterStatus] = useState('all');
+
+  const filtered = players.filter(p => {
+    if (filterEra !== 'all' && p.era !== filterEra) return false;
+    if (filterStatus !== 'all' && p.status !== filterStatus) return false;
+    return true;
+  });
+
+  return (
+    <Layout
+      title="All Players"
+      description="Complete roster of Duke's Brotherhood — every significant player across eight eras of Duke basketball."
+      canonical="/players/"
+    >
+      <section className="bg-duke-slate text-white py-12">
+        <div className="max-w-5xl mx-auto px-4">
+          <h1 className="font-display text-4xl font-bold mb-4">All Players</h1>
+          <p className="font-body text-duke-goldLight text-lg">
+            {players.filter(p => p.status === 'done').length} profiles complete
+            &bull; {players.length} total players
+          </p>
+        </div>
+      </section>
+
+      <section className="max-w-5xl mx-auto px-4 py-8">
+        {/* Filters */}
+        <div className="flex flex-wrap gap-4 mb-8">
+          <div>
+            <label className="font-mono text-xs text-gray-500 uppercase tracking-wider block mb-1">Era</label>
+            <select
+              value={filterEra}
+              onChange={e => setFilterEra(e.target.value)}
+              className="border border-gray-300 px-3 py-2 font-body text-sm bg-white"
+            >
+              <option value="all">All Eras</option>
+              {eras.map(era => (
+                <option key={era.key} value={era.key}>
+                  {era.num}. {era.name} ({era.years})
+                </option>
+              ))}
+            </select>
+          </div>
+          <div>
+            <label className="font-mono text-xs text-gray-500 uppercase tracking-wider block mb-1">Status</label>
+            <select
+              value={filterStatus}
+              onChange={e => setFilterStatus(e.target.value)}
+              className="border border-gray-300 px-3 py-2 font-body text-sm bg-white"
+            >
+              <option value="all">All</option>
+              <option value="done">Complete</option>
+              <option value="soon">Priority Next</option>
+              <option value="coming">Coming Soon</option>
+            </select>
+          </div>
+        </div>
+
+        {/* Player Grid */}
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {filtered.map(player => {
+            const era = eras.find(e => e.key === player.era);
+            const isDone = player.status === 'done';
+            return (
+              <Link
+                key={player.id}
+                href={isDone ? `/players/${player.slug}/` : '#'}
+                className={`player-card block p-4 border ${
+                  isDone
+                    ? 'bg-white border-gray-200 hover:border-duke-gold cursor-pointer'
+                    : 'bg-gray-50 border-gray-100 cursor-default opacity-70'
+                }`}
+              >
+                <div className="flex justify-between items-start mb-1">
+                  <span className="font-mono text-xs text-duke-gold">{era?.name}</span>
+                  <span className={`font-mono text-[10px] px-2 py-0.5 rounded-full ${
+                    player.status === 'done' ? 'badge-done' :
+                    player.status === 'soon' ? 'badge-soon' : 'badge-coming'
+                  }`}>
+                    {player.status === 'done' ? 'Complete' :
+                     player.status === 'soon' ? 'Priority Next' : 'Coming Soon'}
+                  </span>
+                </div>
+                <h3 className="font-display text-lg text-duke-navy">{player.name}</h3>
+                <div className="font-mono text-xs text-gray-400 mt-1">
+                  {player.pos} &bull; {player.height} &bull; {player.years}
+                </div>
+                {isDone && player.tagline && (
+                  <p className="font-body text-sm text-gray-500 italic mt-2 line-clamp-2">
+                    {player.tagline}
+                  </p>
+                )}
+              </Link>
+            );
+          })}
+        </div>
+
+        {filtered.length === 0 && (
+          <p className="text-center text-gray-500 py-12 font-body">
+            No players match the current filters.
+          </p>
+        )}
+      </section>
+    </Layout>
+  );
+}
+
+export async function getStaticProps() {
+  // Pass minimal data for listing (not full bios — those are on individual pages)
+  const players = data.players.map(p => ({
+    id: p.id,
+    slug: p.slug,
+    era: p.era,
+    name: p.name,
+    pos: p.pos,
+    years: p.years,
+    height: p.height,
+    tagline: p.tagline,
+    status: p.status,
+  }));
+
+  return {
+    props: { eras: data.eras, players },
+  };
+}
