@@ -117,17 +117,33 @@ export default function Methodology() {
             sites, and we link to source material where available so readers can go deeper.
           </p>
 
-          <h2 className="font-display text-2xl text-duke-navy mt-8 mb-3">Corrections</h2>
+          <h2 className="font-display text-2xl text-duke-navy mt-8 mb-3">Corrections &amp; Contact</h2>
           <p>
             We take accuracy seriously. If you find an error in a profile &mdash; a wrong
-            date, a misattributed quote, a factual inaccuracy &mdash; please contact us.
+            date, a misattributed quote, a factual inaccuracy &mdash; we want to hear about it.
             We will correct it promptly and note the correction. These stories matter to the
             players and families involved, and getting them right is our responsibility.
+          </p>
+          <div className="bg-duke-cream border border-duke-gold p-6 my-4 text-center">
+            <p className="font-display text-duke-navy text-lg font-semibold mb-2">
+              Have a correction, a story tip, or a memory to share?
+            </p>
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeoKBfk-yt_EugBh61OVTvhqzxiSvHZRApTaDrwIwt-S7HIfA/viewform?usp=publish-editor"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-duke-navy text-duke-gold font-display font-bold px-6 py-3 mt-2 hover:bg-duke-slate transition-colors"
+            >
+              Contact Us &rarr;
+            </a>
+            <p className="text-sm text-gray-500 mt-2 italic">Opens a Google Form in a new tab</p>
+          </div>
+          <p>
           </p>
 
           <h2 className="font-display text-2xl text-duke-navy mt-8 mb-3">A Note on Completeness</h2>
           <p>
-            This is a living project. As of March 2026, we have completed {58} of {82} profiles
+            This is a living project. As of March 2026, we have completed {63} of {85} profiles
             across eight eras of Duke basketball. New profiles are added regularly, and existing
             profiles are updated as players&rsquo; careers and lives evolve. The &ldquo;Where Is
             He Now&rdquo; section of each profile reflects the most recent information available
