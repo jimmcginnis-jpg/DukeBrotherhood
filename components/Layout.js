@@ -68,6 +68,9 @@ export default function Layout({ children, title, description, canonical }) {
             <Link href="/eras/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
               Eras
             </Link>
+            <Link href="/lists/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
+              Lists
+            </Link>
             <Link href="/about/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
               About
             </Link>
@@ -83,7 +86,7 @@ export default function Layout({ children, title, description, canonical }) {
       {/* FOOTER */}
       <footer className="bg-duke-slate text-duke-goldLight py-12 mt-16">
         <div className="max-w-6xl mx-auto px-4">
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-4 gap-8">
             <div>
               <h3 className="font-display text-duke-gold text-lg mb-3">Duke&rsquo;s Brotherhood</h3>
               <p className="font-body text-sm leading-relaxed opacity-80">
@@ -102,6 +105,19 @@ export default function Layout({ children, title, description, canonical }) {
                 <Link href="/eras/resurgence/" className="block hover:text-duke-gold transition-colors">VI. Resurgence (2010–15)</Link>
                 <Link href="/eras/superteam/" className="block hover:text-duke-gold transition-colors">VII. Superteam Era (2016–22)</Link>
                 <Link href="/eras/scheyer/" className="block hover:text-duke-gold transition-colors">VIII. The Scheyer Era (2022–)</Link>
+              </div>
+            </div>
+            <div>
+              <h3 className="font-display text-duke-gold text-lg mb-3">Lists</h3>
+              <div className="space-y-1 text-sm">
+                <Link href="/lists/all-players/" className="block hover:text-duke-gold transition-colors">All 86 Players</Link>
+                <Link href="/lists/currently-in-nba/" className="block hover:text-duke-gold transition-colors">Currently in the NBA</Link>
+                <Link href="/lists/lottery-picks/" className="block hover:text-duke-gold transition-colors">NBA Lottery Picks</Link>
+                <Link href="/lists/mcdonalds-all-americans/" className="block hover:text-duke-gold transition-colors">McDonald&rsquo;s All-Americans</Link>
+                <Link href="/lists/coaches/" className="block hover:text-duke-gold transition-colors">Players Who Became Coaches</Link>
+                <Link href="/lists/top-nba-scorers/" className="block hover:text-duke-gold transition-colors">Top NBA Scorers</Link>
+                <Link href="/lists/draft-history/" className="block hover:text-duke-gold transition-colors">Draft History</Link>
+                <Link href="/lists/" className="block hover:text-duke-gold transition-colors font-medium mt-2">All Lists &rarr;</Link>
               </div>
             </div>
             <div>
