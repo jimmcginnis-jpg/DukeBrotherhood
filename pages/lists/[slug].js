@@ -37,12 +37,14 @@ function ListTable({ headers, rows }) {
             <tr key={ri} className={ri % 2 === 1 ? 'bg-gray-50' : ''}>
               {row.map((cell, ci) => (
                 <td key={ci} className="px-3 py-2 border-b border-gray-200 whitespace-nowrap">
-                  {cell.link ? (
+                  {cell && typeof cell === 'object' && cell.link ? (
                     <Link href={cell.link} className="text-[#001A57] hover:text-[#C5A258] font-medium">
                       {cell.text}
                     </Link>
+                  ) : cell && typeof cell === 'object' && cell.text ? (
+                    cell.text
                   ) : (
-                    cell.text || cell
+                    String(cell != null ? cell : '—')
                   )}
                 </td>
               ))}
