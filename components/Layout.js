@@ -72,6 +72,9 @@ export default function Layout({ children, title, description, canonical }) {
             <Link href="/lists/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
               Lists
             </Link>
+            <Link href="/viz/height/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
+              Viz
+            </Link>
             <Link href="/about/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
               About
             </Link>
