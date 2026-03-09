@@ -1,11 +1,19 @@
 import { useState } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import Layout from '../../components/Layout';
 import data from '../../data/players.json';
 
 export default function PlayersIndex({ eras, players }) {
+  const router = useRouter();
   const [filterEra, setFilterEra] = useState('all');
   const [filterStatus, setFilterStatus] = useState('all');
+
+  const donePlayers = players.filter(p => p.status === 'done');
+  const goToRandomPlayer = () => {
+    const random = donePlayers[Math.floor(Math.random() * donePlayers.length)];
+    router.push(`/players/${random.slug}/`);
+  };
 
   const filtered = players.filter(p => {
     if (filterEra !== 'all' && p.era !== filterEra) return false;
@@ -26,6 +34,13 @@ export default function PlayersIndex({ eras, players }) {
             {players.filter(p => p.status === 'done').length} profiles complete
             &bull; {players.length} total players
           </p>
+          <button
+            onClick={goToRandomPlayer}
+            className="mt-4 bg-duke-gold text-duke-navyDark px-4 py-2 font-mono text-xs tracking-wider uppercase hover:bg-duke-goldLight transition-colors cursor-pointer"
+            title="Random Player Generator — inspired by Wilco"
+          >
+            &#9861; Random Player
+          </button>
         </div>
       </section>
 
