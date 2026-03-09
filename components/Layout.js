@@ -88,6 +88,9 @@ export default function Layout({ children, title, description, canonical }) {
             <Link href="/eras/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
               Eras
             </Link>
+            <Link href="/teams/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
+              Teams
+            </Link>
             <Link href="/lists/" className="text-duke-goldLight hover:text-duke-gold transition-colors">
               Lists
             </Link>
@@ -134,6 +137,9 @@ export default function Layout({ children, title, description, canonical }) {
             </Link>
             <Link href="/eras/" onClick={() => setMobileMenuOpen(false)} className="block text-duke-goldLight hover:text-duke-gold transition-colors py-1">
               Eras
+            </Link>
+            <Link href="/teams/" onClick={() => setMobileMenuOpen(false)} className="block text-duke-goldLight hover:text-duke-gold transition-colors py-1">
+              Teams
             </Link>
             <Link href="/lists/" onClick={() => setMobileMenuOpen(false)} className="block text-duke-goldLight hover:text-duke-gold transition-colors py-1">
               Lists
