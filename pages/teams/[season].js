@@ -4,6 +4,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import Layout from '../../components/Layout';
+import LinkedText from '../../components/LinkedText';
 import teams from '../../data/teams.json';
 import playerData from '../../data/players.json';
 
@@ -154,7 +155,9 @@ function SeasonTab({ team }) {
       <div className="prose max-w-none">
         <h3 className="font-display text-xl text-duke-navy font-bold mb-3">Season Overview</h3>
         {team.overview.split('\n').map((para, i) => (
-          <p key={i} className="font-body text-gray-700 leading-relaxed mb-4">{para}</p>
+          <p key={i} className="font-body text-gray-700 leading-relaxed mb-4">
+            <LinkedText text={para} />
+          </p>
         ))}
       </div>
     </div>
@@ -221,7 +224,9 @@ function GthcTab({ games }) {
             </div>
             <div className="font-mono text-xs text-gray-500 mb-2">{game.location}</div>
             {game.story && (
-              <p className="font-body text-sm text-gray-700 leading-relaxed">{game.story}</p>
+              <p className="font-body text-sm text-gray-700 leading-relaxed">
+                <LinkedText text={game.story} />
+              </p>
             )}
           </div>
         ))}
@@ -300,7 +305,9 @@ function GameCard({ game, isBracket }) {
         {game.date && <span className="font-mono text-xs text-gray-400 hidden md:block">{formatDate(game.date)}</span>}
       </div>
       {game.story && (
-        <p className="font-body text-sm text-gray-600 leading-relaxed mt-2 ml-20">{game.story}</p>
+        <p className="font-body text-sm text-gray-600 leading-relaxed mt-2 ml-20">
+          <LinkedText text={game.story} />
+        </p>
       )}
     </div>
   );
