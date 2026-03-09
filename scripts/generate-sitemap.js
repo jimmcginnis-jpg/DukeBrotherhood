@@ -8,6 +8,7 @@ const path = require('path');
 const playersData = JSON.parse(
   fs.readFileSync(path.join(__dirname, '..', 'data', 'players.json'), 'utf8')
 );
+const DATA_DIR = path.join(__dirname, '..', 'data');
 const players = playersData.players;
 
 const BASE_URL = 'https://www.dukebrotherhood.com';
@@ -24,6 +25,17 @@ urls.push({ loc: '/viz', priority: '0.7', changefreq: 'monthly' });
 urls.push({ loc: '/viz/height', priority: '0.7', changefreq: 'monthly' });
 urls.push({ loc: '/viz/map', priority: '0.7', changefreq: 'monthly' });
 urls.push({ loc: '/search', priority: '0.6', changefreq: 'monthly' });
+
+// Teams pages
+let teamsData;
+try { teamsData = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'teams.json'), 'utf8')); } catch(e) {}
+if (teamsData && teamsData.seasons) {
+  urls.push({ loc: '/teams', priority: '0.8', changefreq: 'monthly' });
+  teamsData.seasons.forEach(s => {
+    urls.push({ loc: `/teams/${s.season}`, priority: '0.7', changefreq: 'monthly' });
+  });
+}
+
 urls.push({ loc: '/about', priority: '0.5', changefreq: 'monthly' });
 urls.push({ loc: '/methodology', priority: '0.4', changefreq: 'monthly' });
 
