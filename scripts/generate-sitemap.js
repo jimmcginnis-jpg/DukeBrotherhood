@@ -21,6 +21,7 @@ urls.push({ loc: '/players', priority: '0.9', changefreq: 'weekly' });
 urls.push({ loc: '/eras', priority: '0.8', changefreq: 'monthly' });
 urls.push({ loc: '/lists', priority: '0.9', changefreq: 'weekly' });
 urls.push({ loc: '/viz/height', priority: '0.7', changefreq: 'monthly' });
+urls.push({ loc: '/search', priority: '0.6', changefreq: 'monthly' });
 urls.push({ loc: '/about', priority: '0.5', changefreq: 'monthly' });
 urls.push({ loc: '/methodology', priority: '0.4', changefreq: 'monthly' });
 
