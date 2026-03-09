@@ -1,6 +1,7 @@
 import Layout from '../components/Layout';
+import data from '../data/players.json';
 
-export default function About() {
+export default function About({ totalPlayers, profiledCount, eraCount }) {
   return (
     <Layout
       title="About This Project"
@@ -28,7 +29,7 @@ export default function About() {
             defined careers and lives.
           </p>
           <p>
-            The project currently includes {80} players across {8} eras, with {51} full profiles
+            The project currently includes {totalPlayers} players across {eraCount} eras, with {profiledCount} full profiles
             complete and more in development. This is a living document that grows over time.
           </p>
           <p className="text-sm text-gray-500 italic">
@@ -40,4 +41,14 @@ export default function About() {
       </section>
     </Layout>
   );
+}
+
+export async function getStaticProps() {
+  return {
+    props: {
+      totalPlayers: data.players.length,
+      profiledCount: data.players.filter(p => p.status === 'done').length,
+      eraCount: data.eras.length,
+    },
+  };
 }
