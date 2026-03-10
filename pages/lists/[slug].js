@@ -43,6 +43,8 @@ function ListTable({ headers, rows }) {
                     <Link href={cell.link} className="text-[#001A57] hover:text-[#C5A258] font-medium">
                       {cell.text}
                     </Link>
+                  ) : cell && typeof cell === 'object' && cell.stub ? (
+                    <span className="text-gray-400">{cell.text}</span>
                   ) : cell && typeof cell === 'object' && cell.text ? (
                     cell.text
                   ) : (
@@ -112,15 +114,18 @@ function getDraftHistory() {
 
 // Helper to make a player cell with link
 function pLink(p) {
-  return { text: p.name, link: `/players/${p.slug}` };
+  if (p.status === 'done') {
+    return { text: p.name, link: `/players/${p.slug}` };
+  }
+  return { text: p.name, stub: true };
 }
 
 // ── List configurations ──
 const listConfigs = {
   'all-players': {
-    title: `The ${profiledCount} Brotherhood Players (1981–Present)`,
-    subtitle: "Every player profiled in Duke's Brotherhood series, organized by era.",
-    meta: `The ${profiledCount} players profiled in Duke's Brotherhood: Where Are They Now? — organized by era from 1981 to present.`,
+    title: `All ${players.length} Brotherhood Players (1981–Present)`,
+    subtitle: `${profiledCount} profiled with full narratives · ${players.length - profiledCount} more coming soon`,
+    meta: `All ${players.length} Duke Brotherhood players across 8 eras — ${profiledCount} profiled with full narratives, the rest coming soon.`,
   },
   'currently-in-nba': {
     title: 'Brotherhood Players Currently in the NBA',
@@ -169,8 +174,8 @@ const listConfigs = {
   },
   'by-the-numbers': {
     title: 'The Brotherhood: By the Numbers',
-    subtitle: `Key stats and milestones across the ${profiledCount} players profiled.`,
-    meta: `Stats and milestones from Duke's Brotherhood — ${profiledCount} players, 8 eras, 40+ years.`,
+    subtitle: `Key stats and milestones across all ${players.length} players — ${profiledCount} profiled so far.`,
+    meta: `Stats and milestones from Duke's Brotherhood — ${players.length} players, 8 eras, 40+ years.`,
   },
 };
 
@@ -188,23 +193,42 @@ export async function getStaticProps({ params }) {
 
 // ── Render functions for each list ──
 function RenderAllPlayers() {
-  return eraOrder.map(era => {
-    const eraPlayers = players.filter(p => p.era === era);
-    return (
-      <div key={era} className="mb-8">
-        <h2 className="text-2xl font-bold text-[#001A57] mb-3">{eraNames[era]}</h2>
-        <ListTable
-          headers={['Player', 'Pos', 'Years', 'Drafted', 'NBA PPG', 'Now']}
-          rows={eraPlayers.map(p => [
-            pLink(p), p.pos, p.years,
-            p.drafted || 'Undrafted',
-            p.nba && p.nba.ppg ? `${p.nba.ppg} (${p.nba.games}g)` : '—',
-            (p.now || '').substring(0, 45),
-          ])}
-        />
+  return (
+    <>
+      <div className="flex items-center gap-6 text-sm mb-6 pb-4 border-b border-gray-200">
+        <span className="flex items-center gap-2">
+          <span className="inline-block w-3 h-3 rounded-full bg-[#001A57]"></span>
+          <span className="font-medium text-[#001A57]">Profiled ({profiledCount})</span>
+        </span>
+        <span className="flex items-center gap-2">
+          <span className="inline-block w-3 h-3 rounded-full bg-gray-300"></span>
+          <span className="text-gray-400">Coming Soon ({players.length - profiledCount})</span>
+        </span>
       </div>
-    );
-  });
+      {eraOrder.map(era => {
+        const eraPlayers = players.filter(p => p.era === era);
+        const eraProfiled = eraPlayers.filter(p => p.status === 'done').length;
+        const eraStubs = eraPlayers.length - eraProfiled;
+        return (
+          <div key={era} className="mb-8">
+            <h2 className="text-2xl font-bold text-[#001A57] mb-1">{eraNames[era]}</h2>
+            <p className="text-sm text-gray-500 mb-3">
+              {eraPlayers.length} players · <span className="text-[#001A57] font-medium">{eraProfiled} profiled</span>{eraStubs > 0 && <> · <span className="text-gray-400">{eraStubs} coming soon</span></>}
+            </p>
+            <ListTable
+              headers={['Player', 'Pos', 'Years', 'Drafted', 'NBA PPG', 'Now']}
+              rows={eraPlayers.map(p => [
+                pLink(p), p.pos, p.years,
+                p.drafted || 'Undrafted',
+                p.nba && p.nba.ppg ? `${p.nba.ppg} (${p.nba.games}g)` : '—',
+                (p.now || '').substring(0, 45),
+              ])}
+            />
+          </div>
+        );
+      })}
+    </>
+  );
 }
 
 function RenderCurrentlyInNBA() {
@@ -365,7 +389,8 @@ function RenderByTheNumbers() {
   const drafted = getDraftHistory();
 
   const stats = [
-    ['Total Players Profiled', `${profiledCount}`],
+    ['Total Brotherhood Players', `${players.length}`],
+    ['Players Profiled', `${profiledCount}`],
     ['Eras Covered', '8 (1981–present)'],
     ['NBA Draft Picks', `${drafted.length}`],
     ['Lottery Picks (Top 14)', `${lottery.length}`],
