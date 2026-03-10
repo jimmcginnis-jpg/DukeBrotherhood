@@ -6,8 +6,10 @@ import playersData from '../../data/players.json';
 
 const profiledCount = playersData.players.filter(p => p.status === 'done').length;
 
+const totalPlayers = playersData.players.length;
+
 const lists = [
-  { slug: 'all-players', title: `The ${profiledCount} Brotherhood Players (1981–Present)`, desc: "Every player profiled in Duke's Brotherhood series, organized by era." },
+  { slug: 'all-players', title: `All ${totalPlayers} Brotherhood Players (1981–Present)`, desc: `${profiledCount} profiled with full narratives · ${totalPlayers - profiledCount} more coming soon.` },
   { slug: 'currently-in-nba', title: 'Brotherhood Players Currently in the NBA', desc: `Active in the 2025–26 NBA season, among the ${profiledCount} players profiled.` },
   { slug: 'number-one-picks', title: '#1 Overall NBA Draft Picks Among the Brotherhood', desc: 'Five Brotherhood players were selected first overall — more than any program in history.' },
   { slug: 'lottery-picks', title: `NBA Lottery Picks Among the ${profiledCount} Brotherhood Players`, desc: 'Every Brotherhood player drafted in the top 14, from Johnny Dawkins (1986) to Cooper Flagg (2025).' },
@@ -17,7 +19,7 @@ const lists = [
   { slug: 'nba-iron-men', title: 'Brotherhood Iron Men: 500+ NBA Games', desc: 'Brotherhood players who logged 500 or more NBA games.' },
   { slug: 'undrafted', title: 'Undrafted Brotherhood Players', desc: 'Not every Brotherhood member went to the NBA. Their stories are just as compelling.' },
   { slug: 'draft-history', title: 'Brotherhood NBA Draft History (1986–2025)', desc: `Every drafted player among the ${profiledCount} Brotherhood profiles, year by year.` },
-  { slug: 'by-the-numbers', title: 'The Brotherhood: By the Numbers', desc: `Key stats and milestones across the ${profiledCount} players profiled.` },
+  { slug: 'by-the-numbers', title: 'The Brotherhood: By the Numbers', desc: `Key stats and milestones across all ${totalPlayers} players — ${profiledCount} profiled so far.` },
 ];
 
 export default function ListsIndex() {
@@ -25,7 +27,7 @@ export default function ListsIndex() {
     <>
       <Head>
         <title>Lists &amp; Rankings | Duke&apos;s Brotherhood: Where Are They Now?</title>
-        <meta name="description" content={`Explore lists across the ${profiledCount} Brotherhood players: current NBA rosters, lottery picks, McDonald's All-Americans, coaches, top scorers, and more.`} />
+        <meta name="description" content={`Explore lists across the ${totalPlayers} Brotherhood players (${profiledCount} profiled): current NBA rosters, lottery picks, McDonald's All-Americans, coaches, top scorers, and more.`} />
       </Head>
 
       <div className="max-w-4xl mx-auto px-4 py-12">
@@ -37,7 +39,7 @@ export default function ListsIndex() {
 
         <h1 className="text-4xl font-bold text-[#001A57] mb-2">Lists &amp; Rankings</h1>
         <p className="text-lg text-gray-600 mb-10">
-          Slice the Brotherhood data every way that matters — all generated from the {profiledCount} players profiled in this series.
+          Slice the Brotherhood data every way that matters — {profiledCount} players profiled across all {totalPlayers} in the series.
         </p>
 
         <div className="grid gap-4">
