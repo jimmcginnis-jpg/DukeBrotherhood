@@ -1,12 +1,541 @@
 {
   "seasons": [
     {
+      "season": "1981-82",
+      "era": "foundation",
+      "record": "10-17",
+      "accRecord": "4-10",
+      "coach": "Mike Krzyzewski",
+      "ranking": {
+        "preseason": null,
+        "final": null
+      },
+      "accTournament": "First Round loss",
+      "ncaaTournament": "Did not qualify",
+      "tagline": "Rock bottom. Coach K’s second season, a 10-17 disaster — and the year that almost ended the experiment.",
+      "overview": "Mike Krzyzewski’s second season at Duke was a catastrophe by any measure. The Blue Devils went 10-17 overall and 4-10 in the ACC, finishing sixth in an eight-team conference. The cupboard left by Bill Foster was nearly bare: Gene Banks and Kenny Dennard had graduated, leaving junior Vince Taylor as the lone proven talent. Krzyzewski had no recruits in his first class and was coaching holdovers from a different system.\n\nThe team lost to Wagner at Cameron Indoor Stadium in early January — a result so humiliating that Krzyzewski referenced it for years as a reminder of competitive vulnerability. The season spiraled from there. Duke lost nine of its last eleven games, including an 84-66 blowout at Chapel Hill where Dean Smith’s Tar Heels — featuring freshman Michael Jordan, Sam Perkins, and James Worthy — were on their way to a national championship.\n\nThe ACC Tournament was the final indignity: Wake Forest destroyed Duke 88-53, a 35-point annihilation that remains one of the most lopsided results in tournament history. Duke did not qualify for the NCAA Tournament or the NIT. Fans were restless. The “Fire Krzyzewski” sentiment was real.\n\nBut behind the scenes, something was happening. Krzyzewski had identified the players who would change everything. That spring, he signed Johnny Dawkins, Mark Alarie, Jay Bilas, and David Henderson — the 1982 recruiting class that would become the foundation of the dynasty. They would go 11-17 as freshmen. They would go 24-10 as sophomores. And by senior year, they would take Duke to the national championship game.\n\nThe 1981-82 season was the darkness before the dawn. Without it, there is no Brotherhood.",
+      "unc": [
+        {
+          "date": "1982-01-09",
+          "location": "Cameron Indoor Stadium, Durham",
+          "result": "L",
+          "score": "56-61",
+          "dukeRank": null,
+          "uncRank": 8,
+          "story": "Dean Smith brought his talented Tar Heels into Cameron and escaped with a five-point win. UNC featured a freshman named Michael Jordan alongside Sam Perkins and James Worthy — a squad that would win the national championship three months later. Duke competed but lacked the talent to close."
+        },
+        {
+          "date": "1982-02-24",
+          "location": "Carmichael Auditorium, Chapel Hill",
+          "result": "L",
+          "score": "66-84",
+          "dukeRank": null,
+          "uncRank": 1,
+          "story": "#1 North Carolina hammered Duke by 18 at Chapel Hill. James Worthy and Sam Perkins dominated inside while freshman Michael Jordan added to the onslaught. It was a stark illustration of the talent gap between the two programs — a gap that Krzyzewski was about to close with his incoming recruiting class."
+        }
+      ],
+      "march": {
+        "accTourney": [
+          {
+            "round": "First Round",
+            "date": "1982-03-05",
+            "opponent": "Wake Forest",
+            "result": "L",
+            "score": "53-88",
+            "story": "A 35-point demolition. Wake Forest annihilated Duke in one of the most lopsided ACC Tournament results in history. The Blue Devils’ season ended not with a whimper but with a humiliation. It was the low-water mark of the Krzyzewski era — and the last time Duke would be this irrelevant."
+          }
+        ],
+        "ncaaTourney": []
+      },
+      "theGame": {
+        "title": "The Wagner Game",
+        "date": "1982-01-04",
+        "location": "Cameron Indoor Stadium, Durham",
+        "opponent": "Wagner",
+        "result": "L",
+        "score": "48-56",
+        "dukeRank": null,
+        "opponentRank": null,
+        "headline": "The night Cameron went silent.",
+        "story": "Wagner College. A small school from Staten Island with no basketball pedigree and no business beating anyone in the ACC. But on a January night in Cameron Indoor Stadium, the Seahawks walked into Durham and beat Duke 56-48.\n\nIt was the lowest moment of the Krzyzewski era — a loss so jarring, so embarrassing, that K referenced it for decades afterward as a reminder of what happens when competitive focus slips. Duke was already struggling through a miserable season, but losing to Wagner at home was different. This was the kind of loss that gets coaches fired.\n\nThe crowd was sparse. The team was listless. The holdovers from Bill Foster’s era were playing out the string in a system they didn’t fully believe in yet. Vince Taylor, the team’s best player, couldn’t carry the load alone. The supporting cast was thin, undermanned, and overmatched even by a team from the Northeast Conference.\n\nKrzyzewski didn’t sugarcoat it. He told his players that this kind of performance was unacceptable — that if they were going to wear the Duke uniform, they had to compete on every possession, against every opponent. The speech didn’t save the season. But the lesson endured. Years later, when Duke was winning national championships, K would still invoke Wagner as the standard for what not to tolerate.",
+        "performances": [
+          {
+            "player": "Vince Taylor",
+            "line": "Team-high scoring in a losing effort"
+          }
+        ],
+        "significance": "Krzyzewski cited the Wagner loss for the rest of his career as a cautionary tale about complacency. It became part of Duke’s institutional memory — proof that no opponent is beneath you, and that effort is non-negotiable. Without nights like this one, the culture that produced five national championships might never have crystallized."
+      },
+      "sources": [
+        {
+          "title": "1981-82 Duke Schedule & Results",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1982-schedule.html"
+        },
+        {
+          "title": "1981-82 Duke Roster & Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1982.html"
+        },
+        {
+          "title": "1981-82 Duke Schedule - GoDuke",
+          "url": "https://goduke.com/sports/mens-basketball/schedule/1981-82"
+        },
+        {
+          "title": "Looking Back: Krzyzewski’s First Season - Duke Basketball Report",
+          "url": "https://www.dukebasketballreport.com/2021/6/24/22548268/mike-krzyzewskis-first-year-at-duke-part-i-gene-banks-kenny-dennard-dean-smith-acc-basketball"
+        },
+        {
+          "title": "1981-82 UNC Schedule & Results (National Champions)",
+          "url": "https://www.sports-reference.com/cbb/schools/north-carolina/men/1982-schedule.html"
+        },
+        {
+          "title": "Carolina-Duke Rivalry - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carolina%E2%80%93Duke_rivalry"
+        }
+      ]
+    },
+    {
+      "season": "1982-83",
+      "era": "foundation",
+      "record": "11-17",
+      "accRecord": "3-11",
+      "coach": "Mike Krzyzewski",
+      "ranking": {
+        "preseason": null,
+        "final": null
+      },
+      "accTournament": "First Round loss",
+      "ncaaTournament": "Did not qualify",
+      "tagline": "The freshmen arrive. Dawkins, Alarie, Bilas, and Henderson walk into an ACC of giants — and get baptized.",
+      "overview": "On paper, the 1982-83 season looked a lot like the one before: another losing record, another seventh-place finish in the ACC, another early tournament exit. Duke went 11-17 overall and 3-11 in conference play. But this season was fundamentally different because of who was wearing the uniform for the first time.\n\nJohnny Dawkins, Mark Alarie, Jay Bilas, and David Henderson — the recruiting class that Krzyzewski had identified as his foundation — arrived as freshmen and were thrown immediately into the fire. The ACC in 1982-83 was a murderers’ row: Virginia had three-time National Player of the Year Ralph Sampson. North Carolina had a sophomore named Michael Jordan alongside Sam Perkins. NC State had Jim Valvano and was about to win the national championship. Georgia Tech had Mark Price. Maryland had Len Bias. There was no mercy for freshmen.\n\nDawkins showed flashes immediately, averaging double figures as a freshman and making the ACC All-Freshman team. Alarie and Henderson contributed off the bench. Bilas battled in the post against players who outweighed him by 30 pounds. They were all learning — learning K’s system, learning the ACC, learning what it took to compete at this level. The lessons were painful.\n\nThe season ended where it began: in humiliation. Virginia, led by Sampson, destroyed Duke 109-66 in the first round of the ACC Tournament — a 43-point annihilation that remains the most lopsided result in tournament history. It was Ralph Sampson’s last ACC Tournament game, and he made it a statement.\n\nDuke did not qualify for any postseason tournament. The “Fire Krzyzewski” movement gained momentum. But K knew something the critics didn’t: his freshmen were going to be very, very good. The next year, with Tommy Amaker arriving to run point, Duke would go 24-10 and reach the NCAA Tournament for the first time under Krzyzewski. The 11-17 season was the last losing record of K’s career.",
+      "unc": [
+        {
+          "date": "1983-01-22",
+          "location": "Carmichael Auditorium, Chapel Hill",
+          "result": "L",
+          "score": "72-105",
+          "dukeRank": null,
+          "uncRank": 10,
+          "story": "A massacre at Carmichael. Michael Jordan scored 32 points as the Tar Heels buried Duke by 33. The freshmen — Dawkins, Alarie, Bilas, Henderson — got their first taste of what it meant to play at Chapel Hill against a team loaded with future NBA talent. The score was a mismatch; the education was invaluable."
+        },
+        {
+          "date": "1983-03-05",
+          "location": "Cameron Indoor Stadium, Durham",
+          "result": "L",
+          "score": "77-105",
+          "dukeRank": null,
+          "uncRank": 9,
+          "story": "Jordan scored 32 again — identical to his first game against Duke — as UNC hammered the Blue Devils at Cameron in the regular-season finale. A three-point shooting exhibition turned the game into a rout. For the Duke freshmen, it was the second time in two months they’d been dismantled by the same player. Jordan was a sophomore. They were learning what greatness looked like."
+        }
+      ],
+      "march": {
+        "accTourney": [
+          {
+            "round": "First Round",
+            "date": "1983-03-10",
+            "opponent": "Virginia",
+            "result": "L",
+            "score": "66-109",
+            "story": "The worst loss in ACC Tournament history. Ralph Sampson’s Virginia demolished Duke by 43 points in what became a defining humiliation. Sampson, playing his final ACC Tournament game, was dominant. The Blue Devils were overwhelmed from the opening tip. For Krzyzewski, it was the nadir — the moment that hardened his resolve to build something that could never be humiliated like this again. He later said the 109-66 loss was the fire that forged the program."
+          }
+        ],
+        "ncaaTourney": []
+      },
+      "theGame": {
+        "title": "The Sampson Demolition",
+        "date": "1983-03-10",
+        "location": "The Omni, Atlanta",
+        "opponent": "Virginia",
+        "result": "L",
+        "score": "66-109",
+        "dukeRank": null,
+        "opponentRank": 2,
+        "headline": "The most lopsided loss in ACC Tournament history. The fire that forged the dynasty.",
+        "story": "Ralph Sampson was 7-foot-4. He was a three-time National Player of the Year. And on March 10, 1983, in the first round of the ACC Tournament at The Omni in Atlanta, he decided to make an example of Duke.\n\nVirginia’s 109-66 demolition of the Blue Devils remains the most decisive result in ACC Tournament history — a 43-point margin that reduced a proud program to rubble. Sampson dominated the paint. The Cavaliers ran their offense with ruthless efficiency. Duke’s freshmen — Johnny Dawkins, Mark Alarie, Jay Bilas, David Henderson — were powerless to stop it.\n\nBilas, who would later become one of the most prominent basketball analysts in the country, was matched up against Sampson in the post. It was a mismatch of historic proportions. Alarie fought but was overmatched. Dawkins could score but couldn’t stop the flood. Henderson competed but had no help. Vince Taylor, the lone holdover with any real talent, watched his Duke career end in a blowout.\n\nIn the locker room afterward, Krzyzewski didn’t rage. He didn’t throw chairs. He looked at his freshmen and told them to remember how this felt. Remember the humiliation. Remember what it’s like to be on the wrong end of a 43-point loss in front of the entire conference. And then he told them they would never feel this way again.\n\nThey didn’t. The next year, Duke went 24-10. The year after that, 23-8. The year after that, 37-3 and a trip to the national championship game. The 109-66 loss was the low point from which everything else was measured — the darkest night before the longest dawn in Duke basketball history.",
+        "performances": [
+          {
+            "player": "Johnny Dawkins",
+            "line": "Freshman guard, competing in his first ACC Tournament"
+          },
+          {
+            "player": "Jay Bilas",
+            "line": "Matched up against 7’4 Ralph Sampson in the post"
+          },
+          {
+            "player": "Mark Alarie",
+            "line": "Freshman forward, fighting against Virginia’s size"
+          },
+          {
+            "player": "David Henderson",
+            "line": "Freshman wing, first taste of ACC Tournament pressure"
+          }
+        ],
+        "significance": "Krzyzewski cited the Virginia 109-66 loss alongside the Wagner game as the two defining humiliations that built Duke’s championship culture. If Wagner taught the team about effort, the Sampson game taught them about talent. Duke would never again be this outmanned — K made sure of it. Every elite recruit who came to Durham afterward was, in some sense, an answer to the question that Ralph Sampson posed on that March night in Atlanta."
+      },
+      "sources": [
+        {
+          "title": "1982-83 Duke Schedule & Results",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1983-schedule.html"
+        },
+        {
+          "title": "1982-83 Duke Roster & Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1983.html"
+        },
+        {
+          "title": "1982-83 Duke Schedule - GoDuke",
+          "url": "https://goduke.com/sports/mens-basketball/schedule/1982-83"
+        },
+        {
+          "title": "1982-83 Duke Season - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1982%E2%80%9383_Duke_Blue_Devils_men%27s_basketball_team"
+        },
+        {
+          "title": "1982-83 UNC Season - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1982%E2%80%9383_North_Carolina_Tar_Heels_men%27s_basketball_team"
+        },
+        {
+          "title": "1986: All the Pieces Come Together - GoDuke",
+          "url": "https://goduke.com/news/2016/2/8/210690218"
+        },
+        {
+          "title": "The Godfathers of Duke Basketball - ESPN",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/11659705/duke-blue-devils-1982-recruiting-class-laid-groundwork-mike-krzyzewski-success"
+        },
+        {
+          "title": "Angry Sampson, Va. Rout Duke - Washington Post",
+          "url": "https://www.washingtonpost.com/archive/sports/1983/03/12/angry-sampson-va-rout-duke/8e02f641-5ebf-4833-8961-555fcca99521/"
+        },
+        {
+          "title": "Carolina-Duke Rivalry - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carolina%E2%80%93Duke_rivalry"
+        }
+      ]
+    },
+    {
+      "season": "1983-84",
+      "era": "foundation",
+      "record": "24-10",
+      "accRecord": "7-7",
+      "coach": "Mike Krzyzewski",
+      "ranking": {
+        "preseason": null,
+        "final": 14
+      },
+      "accTournament": "Runner-Up",
+      "ncaaTournament": "Second Round (first-round bye, lost to Washington)",
+      "tagline": "The turnaround. Amaker arrives, Duke goes from 11 wins to 24, and they upset Michael Jordan’s #1 UNC in the ACC Tournament.",
+      "overview": "Everything changed the moment Tommy Amaker walked onto campus. The McDonald’s All-American point guard from Falls Church, Virginia, was the missing piece — the floor general who could run Krzyzewski’s system, defend relentlessly, and free Johnny Dawkins to become a scorer. With Amaker handling the ball, Dawkins exploded as a sophomore, becoming the ACC’s second-leading scorer. Mark Alarie and David Henderson grew into dependable starters. Jay Bilas anchored the post.\n\nThe results were immediate and dramatic. A team that had gone 11-17 the year before opened the season with seven straight wins — the longest winning streak of Krzyzewski’s young career. Duke finished 24-10 overall, 7-7 in ACC play, and earned K’s first-ever NCAA Tournament bid. The 13-win improvement from the previous season was staggering.\n\nBut the signature moment came in the ACC Tournament semifinals. #1-ranked North Carolina, led by junior Michael Jordan and senior Sam Perkins, had gone 14-0 in ACC play — the first team to run the table in conference in a decade. Duke was unranked and a massive underdog. Dawkins and Amaker led the Blue Devils to a 40-32 halftime lead, and though UNC stormed back to tie it, David Henderson hit four clutch free throws down the stretch to seal a 77-75 upset. It was the Tar Heels’ only conference loss all season.\n\nKrzyzewski later called it the game that put Duke basketball on the map. The loss crushed UNC’s momentum; they would fall to Indiana in the Sweet Sixteen. Duke lost to Maryland in the ACC Tournament final and then fell to Washington in the second round of the NCAA Tournament, but the trajectory had fundamentally shifted. Duke was no longer an afterthought. The climb from 109-66 to this — upsetting the #1 team in the country — had taken exactly one year.",
+      "unc": [
+        {
+          "date": "1984-01-14",
+          "location": "Cameron Indoor Stadium, Durham",
+          "result": "L",
+          "score": "70-78",
+          "dukeRank": null,
+          "uncRank": 1,
+          "story": "#1 UNC won at Cameron, but this wasn’t the blowout of previous years. Duke competed for 40 minutes against Jordan, Perkins, and Daugherty. Dawkins scored aggressively and Amaker controlled the tempo. The gap was closing."
+        },
+        {
+          "date": "1984-03-03",
+          "location": "Carmichael Auditorium, Chapel Hill",
+          "result": "L",
+          "score": "83-96",
+          "dukeRank": 16,
+          "uncRank": 1,
+          "story": "A double-overtime classic. Mark Alarie had Duke up with 20 seconds left in regulation after a three-point play, but Matt Doherty raced the length of the court and hit a 15-footer with one second remaining to force overtime. Jordan opened the second OT with an alley-oop and a free throw, then carried UNC to the 96-83 win. It was the final home game for Jordan, Perkins, and Doherty — and UNC completed a 14-0 ACC regular season. But Duke had proven it could play with anyone."
+        },
+        {
+          "date": "1984-03-10",
+          "location": "Greensboro Coliseum, Greensboro",
+          "result": "W",
+          "score": "77-75",
+          "dukeRank": 16,
+          "uncRank": 1,
+          "story": "THE upset. In the ACC Tournament semifinals, unranked Duke stunned #1 North Carolina 77-75. Dawkins and Amaker built a 40-32 halftime lead. UNC stormed back with a 12-2 run to tie it, and the game went back and forth until David Henderson hit four free throws down the stretch to seal it. Jordan led all scorers with 22, but Doherty’s inbounds pass went awry in the final seconds. It was UNC’s only conference loss all season. Krzyzewski later said this was the game that launched the program."
+        }
+      ],
+      "march": {
+        "accTourney": [
+          {
+            "round": "Quarterfinal",
+            "date": "1984-03-09",
+            "opponent": "Virginia",
+            "result": "W",
+            "score": "78-72",
+            "story": "With Ralph Sampson graduated, Virginia was no longer the monster that had delivered the 109-66 humiliation a year earlier. Duke won comfortably, a small measure of revenge and a sign of how quickly the balance of power was shifting."
+          },
+          {
+            "round": "Semifinal",
+            "date": "1984-03-10",
+            "opponent": "North Carolina",
+            "result": "W",
+            "score": "77-75",
+            "story": "The program-defining upset. Duke knocked off #1 UNC and Michael Jordan — handing the Tar Heels their only conference loss all season. Henderson’s free throws sealed it."
+          },
+          {
+            "round": "Final",
+            "date": "1984-03-11",
+            "opponent": "Maryland",
+            "result": "L",
+            "score": "62-74",
+            "story": "Len Bias and Maryland were too much in the final. Duke ran out of gas after the emotional UNC upset. But reaching the ACC Tournament championship game for the first time under K was progress that would have seemed impossible 12 months earlier."
+          }
+        ],
+        "ncaaTourney": [
+          {
+            "round": "Bye",
+            "date": "1984-03-17",
+            "opponent": "First Round Bye",
+            "result": "W",
+            "score": "Bye",
+            "story": "Duke earned a first-round bye as a #3 seed — K’s first NCAA Tournament appearance."
+          },
+          {
+            "round": "R32",
+            "date": "1984-03-18",
+            "opponent": "Washington",
+            "seed": 6,
+            "result": "L",
+            "score": "78-80",
+            "story": "A heartbreaking two-point loss to Washington in Pullman ended Duke’s first NCAA Tournament run under Krzyzewski. The Blue Devils had come so far — from 109-66 to the tournament in one year — but fell just short. The sting of losing would fuel an even better 1984-85 season."
+          }
+        ]
+      },
+      "theGame": {
+        "title": "Slaying the Dragon: Duke 77, #1 UNC 75",
+        "date": "1984-03-10",
+        "location": "Greensboro Coliseum, Greensboro, NC",
+        "opponent": "North Carolina",
+        "result": "W",
+        "score": "77-75",
+        "dukeRank": 16,
+        "opponentRank": 1,
+        "headline": "The game that launched the program. Duke upsets Michael Jordan’s undefeated-in-conference UNC.",
+        "story": "North Carolina entered the 1984 ACC Tournament semifinals as the #1 team in the country with a perfect 14-0 conference record — the first team to run the ACC table in a decade. Junior Michael Jordan was the consensus National Player of the Year. Senior Sam Perkins was a first-team All-American. Sophomore Brad Daugherty was a future #1 NBA draft pick. Dean Smith’s squad was arguably the best team in North Carolina basketball history.\n\nDuke was unranked. They had gone 7-7 in the ACC. Nobody gave them a chance.\n\nBut Tommy Amaker and Johnny Dawkins had other plans. Amaker locked down UNC’s guards while Dawkins attacked relentlessly. The Blue Devils built a 40-32 halftime lead with disciplined offense and suffocating defense. The Greensboro Coliseum crowd — heavily pro-Carolina — went quiet.\n\nUNC stormed back. A 12-2 run to open the second half tied the game at 44. Jordan started asserting himself, driving to the basket and pulling up for mid-range jumpers. The game turned into a dogfight, with neither team able to build a lead larger than three.\n\nWith the game hanging in the balance, David Henderson stepped to the free-throw line and calmly sank four consecutive free throws. Mark Alarie played the game of his sophomore life. Jay Bilas battled Perkins and Daugherty to a standstill in the paint. Down the stretch, Duke played like seniors, not sophomores.\n\nJordan scored 22 to lead all scorers. Matt Doherty had 20 and 10 for UNC. But with three seconds left and UNC trailing 77-75, Doherty’s inbounds pass went awry. The buzzer sounded. Duke had upset the #1 team in America.\n\nKrzyzewski called it the most important game of his career at that point. More than a decade later, he still referenced it as the moment the program changed. “The ‘84 ACC Tournament semifinals,” he told ESPN in 2014, was when Duke’s four-decade run of excellence truly began.\n\nFor Michael Jordan, it was his final ACC Tournament game. He would leave Chapel Hill after the season, drafted third overall by the Chicago Bulls. He never got the chance to avenge the loss.",
+        "performances": [
+          {
+            "player": "Johnny Dawkins",
+            "line": "Led Duke’s offensive attack as a sophomore"
+          },
+          {
+            "player": "Tommy Amaker",
+            "line": "Defensive lockdown, controlled tempo as a freshman"
+          },
+          {
+            "player": "David Henderson",
+            "line": "Four clutch free throws in the closing minutes"
+          },
+          {
+            "player": "Mark Alarie",
+            "line": "28 points — game of his Duke career to that point"
+          },
+          {
+            "player": "Jay Bilas",
+            "line": "Battled Perkins and Daugherty in the post"
+          }
+        ],
+        "significance": "This was Duke’s announcement to college basketball: we belong. A year earlier, they’d lost to Virginia 109-66. Now they were beating the #1 team in the country in a conference tournament semifinal. The upset handed Michael Jordan’s UNC its only conference loss all season and launched Duke’s run of 37 consecutive years reaching the NCAA Tournament (broken only by K’s medical absence in 1995). Krzyzewski called it the foundational win — the proof that his system, his recruits, and his vision could compete at the highest level."
+      },
+      "sources": [
+        {
+          "title": "1983-84 Duke Schedule & Results",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1984-schedule.html"
+        },
+        {
+          "title": "1983-84 Duke Roster & Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1984.html"
+        },
+        {
+          "title": "1983-84 Duke Schedule - GoDuke",
+          "url": "https://goduke.com/sports/mens-basketball/schedule/1983-84"
+        },
+        {
+          "title": "1983-84 UNC Season - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1983%E2%80%9384_North_Carolina_Tar_Heels_men%27s_basketball_team"
+        },
+        {
+          "title": "Tommy Amaker - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tommy_Amaker"
+        },
+        {
+          "title": "Tommy Amaker - Duke Athletics Hall of Fame",
+          "url": "https://goduke.com/honors/duke-athletics-hall-of-fame/tommy-amaker/40"
+        },
+        {
+          "title": "1986: All the Pieces Come Together - GoDuke",
+          "url": "https://goduke.com/news/2016/2/8/210690218"
+        },
+        {
+          "title": "The Godfathers of Duke Basketball - ESPN",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/11659705/duke-blue-devils-1982-recruiting-class-laid-groundwork-mike-krzyzewski-success"
+        },
+        {
+          "title": "The Best That Never Was? (1984 UNC) - Tar Heel Blog",
+          "url": "https://www.tarheelblog.com/2014/2/10/5396220/the-best-that-never-was"
+        },
+        {
+          "title": "K’s First ACC Tournament Win Over UNC - Duke Basketball Report",
+          "url": "https://www.dukebasketballreport.com/2020/1/9/21058012/you-tube-gold-duke-unc-1984-acc-tournament-blue-devils-basketball-michael-jordan-johnny-dawkins"
+        }
+      ]
+    },
+    {
+      "season": "1984-85",
+      "era": "foundation",
+      "record": "23-8",
+      "accRecord": "8-6",
+      "coach": "Mike Krzyzewski",
+      "ranking": {
+        "preseason": null,
+        "final": 14
+      },
+      "accTournament": "Semifinal loss",
+      "ncaaTournament": "Second Round (#3 seed, lost to Boston College 74-73)",
+      "tagline": "The penultimate year. K’s first tournament win, Dawkins ascendant, and a one-point heartbreaker to close the chapter.",
+      "overview": "The 1984-85 Blue Devils returned virtually their entire roster — 93.8% of minutes played and 96.8% of scoring from the breakout 24-10 season. Johnny Dawkins was now a junior and the ACC’s most electrifying scorer. Tommy Amaker had settled in as one of the conference’s elite point guards. Mark Alarie, Jay Bilas, and David Henderson were all juniors growing into the players who would carry Duke to the championship game a year later. Freshmen Billy King and Kevin Strickland added depth off the bench.\n\nDuke went 23-8 overall and 8-6 in the ACC, finishing in the upper half of one of the most loaded conferences in college basketball history. The ACC in 1984-85 was a gauntlet: North Carolina had Brad Daugherty and Kenny Smith. Maryland had Len Bias in his junior season — a player Krzyzewski would later call one of the two most talented opponents he ever faced, alongside Michael Jordan. Georgia Tech had Mark Price and John Salley. NC State still had Valvano’s program humming.\n\nIn the NCAA Tournament, Duke earned a #3 seed in the Midwest Region and beat Pepperdine 75-62 in the first round — Krzyzewski’s first-ever tournament victory. But the second round brought heartbreak: #11-seeded Boston College stunned the Blue Devils 74-73 in Houston. One point. One possession. A season that had built toward something greater ended on a single missed shot.\n\nThe sting was real but temporary. The core was coming back for one more year — the seniors’ last chance. The France trip that summer, where the team bonded overseas, would set the stage for the 37-3 masterpiece that followed. As Johnny Dawkins later said, the foreign tour between junior and senior year was where the 1986 team was truly forged.",
+      "unc": [
+        {
+          "date": "1985-01-26",
+          "location": "Cameron Indoor Stadium, Durham",
+          "result": "W",
+          "score": "93-77",
+          "dukeRank": null,
+          "uncRank": 13,
+          "story": "Duke dominated at Cameron, winning by 16 over a ranked UNC squad. Dawkins was magnificent, and the Cameron crowd was electric. With Jordan gone to the NBA, the Tar Heels were still talented — Brad Daugherty and Kenny Smith led the way — but the balance of power on Tobacco Road was shifting. Duke was no longer the little brother."
+        },
+        {
+          "date": "1985-03-02",
+          "location": "Carmichael Auditorium, Chapel Hill",
+          "result": "L",
+          "score": "72-78",
+          "dukeRank": null,
+          "uncRank": 13,
+          "story": "UNC got the split at home, winning by six in Chapel Hill. Dean Smith’s squad used Daugherty’s size inside and controlled the tempo. The rivalry was now a genuine two-way fight — a far cry from the 105-72 and 105-77 massacres of two years earlier."
+        }
+      ],
+      "march": {
+        "accTourney": [
+          {
+            "round": "Quarterfinal",
+            "date": "1985-03-08",
+            "opponent": "NC State",
+            "result": "W",
+            "score": "75-60",
+            "story": "Duke handled Valvano’s Wolfpack comfortably in the quarterfinals."
+          },
+          {
+            "round": "Semifinal",
+            "date": "1985-03-09",
+            "opponent": "Georgia Tech",
+            "result": "L",
+            "score": "68-71",
+            "story": "Mark Price and Georgia Tech edged Duke by three. The Yellow Jackets were in their Bobby Cremins golden era, and this team would go on to win the ACC Tournament. A tough loss, but Duke had bigger ambitions in the NCAA bracket."
+          }
+        ],
+        "ncaaTourney": [
+          {
+            "round": "R64",
+            "date": "1985-03-15",
+            "opponent": "Pepperdine",
+            "seed": 14,
+            "result": "W",
+            "score": "75-62",
+            "story": "K’s first NCAA Tournament victory. After going 1-2 in two previous tournament appearances (a loss to Washington in ’84 and a bye that year), Duke dispatched Pepperdine comfortably in Houston. The Blue Devils were in the tournament to stay — this began a streak that would last decades."
+          },
+          {
+            "round": "R32",
+            "date": "1985-03-17",
+            "opponent": "Boston College",
+            "seed": 11,
+            "result": "L",
+            "score": "73-74",
+            "story": "Heartbreak by a single point. #11-seeded Boston College caught Duke in a dogfight at the Hofheinz Pavilion in Houston and escaped 74-73. It was the kind of loss that haunts a program — one possession, one shot, one point separating Duke from the Sweet Sixteen. The sting fueled an entire offseason. Every player on that roster came back the next year and went 37-3."
+          }
+        ]
+      },
+      "theGame": {
+        "title": "Dueling with Len Bias",
+        "date": "1985-01-19",
+        "location": "Cameron Indoor Stadium, Durham",
+        "opponent": "Maryland",
+        "result": "W",
+        "score": "79-71",
+        "dukeRank": null,
+        "opponentRank": null,
+        "headline": "Duke vs. the most talented opponent K ever faced not named Jordan.",
+        "story": "Krzyzewski would later say that in 40 years of coaching at Duke, only two opposing players stood out as truly transcendent: Michael Jordan and Len Bias. Jordan had graduated to the NBA by now. But Bias — the 6-foot-8 Maryland forward with the vertical leap of a guard and the power of a center — was in the middle of his junior season and ascending toward superstardom.\n\nWhen Maryland came to Cameron Indoor in January 1985, Bias was the most physically gifted player on the floor. He could score from anywhere: explosive dunks in transition, silky mid-range pull-ups, and an emerging three-point shot. He was the kind of athlete who made you hold your breath every time he touched the ball.\n\nBut Duke had something Maryland didn’t: a system. Krzyzewski’s motion offense, anchored by Dawkins’ scoring and Amaker’s floor generalship, distributed the ball and created open looks. Jay Bilas and Mark Alarie took turns guarding Bias, forcing him into contested jumpers and limiting his transition opportunities. David Henderson provided the defensive energy that disrupted Maryland’s rhythm.\n\nDuke won 79-71 — a complete team effort against a team with arguably the most talented individual player in the conference. It was a preview of the formula that would define K’s dynasty: depth, discipline, and defense beating individual brilliance.\n\nBias would continue to terrorize the ACC for another season. The following year, he scored a career-high 41 points against Duke in a losing effort — a performance K called the greatest by a visiting player he ever witnessed. Six months after that game, Bias was drafted second overall by the Boston Celtics. He died of a cocaine overdose two days later, on June 19, 1986. He was 22 years old.\n\nThe tragedy of Len Bias hangs over the 1980s ACC like a shadow. Every time Duke played Maryland in that era, they were playing against a generational talent whose story would end before it truly began.",
+        "performances": [
+          {
+            "player": "Johnny Dawkins",
+            "line": "Led Duke scoring against Bias’s Maryland"
+          },
+          {
+            "player": "Jay Bilas",
+            "line": "Physical defense on Bias in the post"
+          },
+          {
+            "player": "Tommy Amaker",
+            "line": "Floor management, tempo control against Maryland’s athletes"
+          },
+          {
+            "player": "Mark Alarie",
+            "line": "Shared defensive duties on Bias"
+          }
+        ],
+        "significance": "Krzyzewski has said repeatedly that Michael Jordan and Len Bias were the two most talented opponents he ever coached against. This game represented Duke’s ability to beat supreme individual talent with team basketball — the fundamental principle of the Brotherhood. The tragic dimension of Bias’s story adds a layer of poignancy that transcends any box score."
+      },
+      "sources": [
+        {
+          "title": "1984-85 Duke Schedule & Results",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1985-schedule.html"
+        },
+        {
+          "title": "1984-85 Duke Roster & Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1985.html"
+        },
+        {
+          "title": "1984-85 Duke Schedule - GoDuke",
+          "url": "https://goduke.com/sports/mens-basketball/schedule/1984-85"
+        },
+        {
+          "title": "1984-85 Duke Season - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1984%E2%80%9385_Duke_Blue_Devils_men%27s_basketball_team"
+        },
+        {
+          "title": "1985 NCAA Tournament Bracket & Results - NCAA.com",
+          "url": "https://www.ncaa.com/news/basketball-men/article/2020-05-08/1985-ncaa-tournament-bracket-scores-stats-records"
+        },
+        {
+          "title": "Duke vs. Boston College Box Score, March 17, 1985",
+          "url": "https://www.sports-reference.com/cbb/boxscores/1985-03-17-boston-college.html"
+        },
+        {
+          "title": "K Named the 2 Greatest ACC Players He’s Ever Seen - The Spun",
+          "url": "https://thespun.com/acc/duke-blue-devils/coach-k-named-the-2-greatest-acc-players-hes-ever-seen"
+        },
+        {
+          "title": "The Legend of Len Bias - Testudo Times",
+          "url": "https://www.testudotimes.com/features/2020/5/14/21240019/len-bias-maryland-terps-mens-basketball-bracket-madness-legend-career-life-death"
+        },
+        {
+          "title": "YouTube Gold: The Glory and Tragedy of Len Bias - Duke Basketball Report",
+          "url": "https://www.dukebasketballreport.com/2022/10/1/23381659/youtube-gold-a-len-bias-documentary-red-auerbach-lefty-driesell"
+        },
+        {
+          "title": "Turning Points: The 1985 Pre-Season NIT - Duke Basketball Report",
+          "url": "https://www.dukebasketballreport.com/2021/6/11/22525455/turning-points-the-1985-pre-season-nit-johnny-dawkins-david-henderson-kansas-st-johns-louisville-acc"
+        }
+      ]
+    },
+    {
       "season": "1985-86",
       "era": "foundation",
       "record": "37-3",
       "accRecord": "12-2",
       "coach": "Mike Krzyzewski",
-      "ranking": { "preseason": 6, "final": 2 },
+      "ranking": {
+        "preseason": 6,
+        "final": 2
+      },
       "accTournament": "Champions",
       "ncaaTournament": "National Runner-Up (#1 seed, East)",
       "tagline": "The year Duke arrived. 37 wins, Dawkins' coronation, and one half short of a happy ending.",
@@ -33,19 +562,157 @@
       ],
       "march": {
         "accTourney": [
-          { "round": "Quarterfinal", "date": "1986-03-07", "opponent": "Wake Forest", "result": "W", "score": "68-60", "story": "" },
-          { "round": "Semifinal", "date": "1986-03-08", "opponent": "Virginia", "result": "W", "score": "67-57", "story": "" },
-          { "round": "Final", "date": "1986-03-09", "opponent": "Georgia Tech", "result": "W", "score": "68-67", "story": "A one-point nail-biter gave Duke its first ACC Tournament title under Krzyzewski. Dawkins was named tournament MVP." }
+          {
+            "round": "Quarterfinal",
+            "date": "1986-03-07",
+            "opponent": "Wake Forest",
+            "result": "W",
+            "score": "68-60",
+            "story": ""
+          },
+          {
+            "round": "Semifinal",
+            "date": "1986-03-08",
+            "opponent": "Virginia",
+            "result": "W",
+            "score": "67-57",
+            "story": ""
+          },
+          {
+            "round": "Final",
+            "date": "1986-03-09",
+            "opponent": "Georgia Tech",
+            "result": "W",
+            "score": "68-67",
+            "story": "A one-point nail-biter gave Duke its first ACC Tournament title under Krzyzewski. Dawkins was named tournament MVP."
+          }
         ],
         "ncaaTourney": [
-          { "round": "R64", "date": "1986-03-14", "opponent": "Mississippi Valley State", "seed": 16, "result": "W", "score": "85-78", "story": "" },
-          { "round": "R32", "date": "1986-03-16", "opponent": "Old Dominion", "seed": 8, "result": "W", "score": "89-61", "story": "" },
-          { "round": "Sweet 16", "date": "1986-03-21", "opponent": "DePaul", "seed": 12, "result": "W", "score": "74-67", "story": "" },
-          { "round": "Elite 8", "date": "1986-03-23", "opponent": "Navy", "seed": 7, "result": "W", "score": "71-50", "story": "David Robinson's Navy team was no match. Duke cruised to the Final Four." },
-          { "round": "Final Four", "date": "1986-03-29", "opponent": "Kansas", "seed": 1, "result": "W", "score": "71-67", "story": "A war. Dawkins scored 24 and Henderson added 20 as Duke outlasted Larry Brown's Jayhawks. The Blue Devils were headed to the championship game." },
-          { "round": "Championship", "date": "1986-03-31", "opponent": "Louisville", "seed": 2, "result": "L", "score": "69-72", "story": "Dawkins scored 24 points — he'd averaged 25.5 for the entire tournament — but Louisville freshman Pervis Ellison had 25 and 11 to carry the Cardinals. Duke ran out of gas in the final ten minutes. 'I've never rewatched that game,' Dawkins said 30 years later. 'There's a good chance I won't ever get over it.'" }
+          {
+            "round": "R64",
+            "date": "1986-03-14",
+            "opponent": "Mississippi Valley State",
+            "seed": 16,
+            "result": "W",
+            "score": "85-78",
+            "story": ""
+          },
+          {
+            "round": "R32",
+            "date": "1986-03-16",
+            "opponent": "Old Dominion",
+            "seed": 8,
+            "result": "W",
+            "score": "89-61",
+            "story": ""
+          },
+          {
+            "round": "Sweet 16",
+            "date": "1986-03-21",
+            "opponent": "DePaul",
+            "seed": 12,
+            "result": "W",
+            "score": "74-67",
+            "story": ""
+          },
+          {
+            "round": "Elite 8",
+            "date": "1986-03-23",
+            "opponent": "Navy",
+            "seed": 7,
+            "result": "W",
+            "score": "71-50",
+            "story": "David Robinson's Navy team was no match. Duke cruised to the Final Four."
+          },
+          {
+            "round": "Final Four",
+            "date": "1986-03-29",
+            "opponent": "Kansas",
+            "seed": 1,
+            "result": "W",
+            "score": "71-67",
+            "story": "A war. Dawkins scored 24 and Henderson added 20 as Duke outlasted Larry Brown's Jayhawks. The Blue Devils were headed to the championship game."
+          },
+          {
+            "round": "Championship",
+            "date": "1986-03-31",
+            "opponent": "Louisville",
+            "seed": 2,
+            "result": "L",
+            "score": "69-72",
+            "story": "Dawkins scored 24 points — he'd averaged 25.5 for the entire tournament — but Louisville freshman Pervis Ellison had 25 and 11 to carry the Cardinals. Duke ran out of gas in the final ten minutes. 'I've never rewatched that game,' Dawkins said 30 years later. 'There's a good chance I won't ever get over it.'"
+          }
         ]
-      }
+      },
+      "theGame": {
+        "title": "The Kansas War",
+        "date": "1986-03-29",
+        "location": "Reunion Arena, Dallas",
+        "opponent": "Kansas",
+        "result": "W",
+        "score": "71-67",
+        "dukeRank": 1,
+        "opponentRank": 1,
+        "headline": "The war that put Duke in the championship game for the first time.",
+        "story": "Duke and Kansas entered the 1986 Final Four semifinal as co-#1 seeds, two powerhouses on a collision course. Larry Brown’s Jayhawks featured a young Danny Manning and a deep, physical roster. Krzyzewski had his senior class — Johnny Dawkins, Mark Alarie, Jay Bilas, David Henderson — playing the best basketball of their lives.\n\nThe game was a war from the opening tip. Kansas matched Duke’s intensity possession for possession. Neither team could pull away. The lead changed hands repeatedly in the second half, with neither side building a cushion larger than four points.\n\nDawkins was magnificent. He scored 24 points with the poise of a player who had waited four years for this moment. Henderson added 20, including several critical baskets down the stretch. Tommy Amaker controlled the tempo, dishing out assists and making the defensive plays that kept Kansas from finding a rhythm.\n\nIn the final minutes, Duke’s experience showed. The seniors had been through the fire — the 11-17 freshman year, the slow climb back, the heartbreaks along the way. They didn’t flinch. Free throws sealed it: Duke 71, Kansas 67.\n\nThe Blue Devils were headed to the national championship game for the first time in program history. The celebration was euphoric. K’s seniors had delivered on the promise they’d made four years earlier when they committed to a struggling program. Two nights later, they would fall to Louisville — but this was the night Duke basketball arrived.",
+        "performances": [
+          {
+            "player": "Johnny Dawkins",
+            "line": "24 points"
+          },
+          {
+            "player": "David Henderson",
+            "line": "20 points"
+          },
+          {
+            "player": "Tommy Amaker",
+            "line": "Floor general, multiple assists and key defensive plays"
+          },
+          {
+            "player": "Mark Alarie",
+            "line": "Led Duke with 7 rebounds"
+          }
+        ],
+        "significance": "This was the game that proved Duke belonged on the biggest stage. Beating a #1-seeded Kansas team in the Final Four — with a senior class that had gone 11-17 as freshmen — validated everything Krzyzewski had been building. The 1986 team lost the championship two nights later, but this win against Kansas is the moment the Brotherhood was born."
+      },
+      "sources": [
+        {
+          "title": "1985-86 Duke Schedule & Results",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1986-schedule.html"
+        },
+        {
+          "title": "1985-86 Duke Roster & Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1986.html"
+        },
+        {
+          "title": "1985-86 Duke Schedule - GoDuke",
+          "url": "https://goduke.com/sports/mens-basketball/schedule/1985-86"
+        },
+        {
+          "title": "1985-86 Duke Season - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/1985%E2%80%9386_Duke_Blue_Devils_men%27s_basketball_team"
+        },
+        {
+          "title": "The 1986 Blue Devils Set the Stage for 30 Years - NCAA.com",
+          "url": "https://www.ncaa.com/news/basketball-men/article/2016-02-17/duke-basketball-1986-blue-devils-set-stage-30-years-success"
+        },
+        {
+          "title": "1986: All the Pieces Come Together - GoDuke",
+          "url": "https://goduke.com/news/2016/2/8/210690218"
+        },
+        {
+          "title": "The Godfathers of Duke Basketball - ESPN",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/11659705/duke-blue-devils-1982-recruiting-class-laid-groundwork-mike-krzyzewski-success"
+        },
+        {
+          "title": "Turning Points: The 1985 Pre-Season NIT - Duke Basketball Report",
+          "url": "https://www.dukebasketballreport.com/2021/6/11/22525455/turning-points-the-1985-pre-season-nit-johnny-dawkins-david-henderson-kansas-st-johns-louisville-acc"
+        },
+        {
+          "title": "1985-86 College Basketball Season Archive",
+          "url": "https://archive.506sports.com/wiki/1985-86_College_Basketball_Season"
+        }
+      ]
     },
     {
       "season": "1990-91",
@@ -53,7 +720,10 @@
       "record": "32-7",
       "accRecord": "11-3",
       "coach": "Mike Krzyzewski",
-      "ranking": { "preseason": 7, "final": 1 },
+      "ranking": {
+        "preseason": 7,
+        "final": 1
+      },
       "accTournament": "Semifinal loss",
       "ncaaTournament": "National Champions (#2 seed, Midwest)",
       "tagline": "The breakthrough. Duke's first national championship, and the end of the UNLV ghost.",
@@ -80,17 +750,129 @@
       ],
       "march": {
         "accTourney": [
-          { "round": "Semifinal", "date": "1991-03-10", "opponent": "Virginia", "result": "L", "score": "74-78", "story": "An early exit from the ACC Tournament. It didn't matter — Duke was saving its best for March." }
+          {
+            "round": "Semifinal",
+            "date": "1991-03-10",
+            "opponent": "Virginia",
+            "result": "L",
+            "score": "74-78",
+            "story": "An early exit from the ACC Tournament. It didn't matter — Duke was saving its best for March."
+          }
         ],
         "ncaaTourney": [
-          { "round": "R64", "date": "1991-03-15", "opponent": "Northeast Louisiana", "seed": 15, "result": "W", "score": "102-73", "story": "" },
-          { "round": "R32", "date": "1991-03-17", "opponent": "Iowa", "seed": 7, "result": "W", "score": "85-70", "story": "" },
-          { "round": "Sweet 16", "date": "1991-03-22", "opponent": "Connecticut", "seed": 11, "result": "W", "score": "81-67", "story": "" },
-          { "round": "Elite 8", "date": "1991-03-24", "opponent": "St. John's", "seed": 6, "result": "W", "score": "78-61", "story": "" },
-          { "round": "Final Four", "date": "1991-03-30", "opponent": "UNLV", "seed": 1, "result": "W", "score": "79-77", "story": "The upset of the decade. Undefeated, defending champion UNLV — the team that had beaten Duke by 30 in the previous year's title game — fell 79-77. Laettner hit critical free throws, and Duke's defense held UNLV scoreless in the final minute. The ghosts were gone." },
-          { "round": "Championship", "date": "1991-04-01", "opponent": "Kansas", "seed": 3, "result": "W", "score": "72-65", "story": "Duke's first national championship. Laettner scored 18, Hurley had 12 assists, and the Blue Devils controlled the game from start to finish. Krzyzewski had his title. The dynasty was born." }
+          {
+            "round": "R64",
+            "date": "1991-03-15",
+            "opponent": "Northeast Louisiana",
+            "seed": 15,
+            "result": "W",
+            "score": "102-73",
+            "story": ""
+          },
+          {
+            "round": "R32",
+            "date": "1991-03-17",
+            "opponent": "Iowa",
+            "seed": 7,
+            "result": "W",
+            "score": "85-70",
+            "story": ""
+          },
+          {
+            "round": "Sweet 16",
+            "date": "1991-03-22",
+            "opponent": "Connecticut",
+            "seed": 11,
+            "result": "W",
+            "score": "81-67",
+            "story": ""
+          },
+          {
+            "round": "Elite 8",
+            "date": "1991-03-24",
+            "opponent": "St. John's",
+            "seed": 6,
+            "result": "W",
+            "score": "78-61",
+            "story": ""
+          },
+          {
+            "round": "Final Four",
+            "date": "1991-03-30",
+            "opponent": "UNLV",
+            "seed": 1,
+            "result": "W",
+            "score": "79-77",
+            "story": "The upset of the decade. Undefeated, defending champion UNLV — the team that had beaten Duke by 30 in the previous year's title game — fell 79-77. Laettner hit critical free throws, and Duke's defense held UNLV scoreless in the final minute. The ghosts were gone."
+          },
+          {
+            "round": "Championship",
+            "date": "1991-04-01",
+            "opponent": "Kansas",
+            "seed": 3,
+            "result": "W",
+            "score": "72-65",
+            "story": "Duke's first national championship. Laettner scored 18, Hurley had 12 assists, and the Blue Devils controlled the game from start to finish. Krzyzewski had his title. The dynasty was born."
+          }
         ]
-      }
+      },
+      "theGame": {
+        "title": "The UNLV Upset",
+        "date": "1991-03-30",
+        "location": "Hoosier Dome, Indianapolis",
+        "opponent": "UNLV",
+        "result": "W",
+        "score": "79-77",
+        "dukeRank": 2,
+        "opponentRank": 1,
+        "headline": "The upset of the decade. The end of the 45-game winning streak. The exorcism.",
+        "story": "A year earlier, UNLV had annihilated Duke 103-73 in the national championship game — the most lopsided title-game loss in NCAA history. Jerry Tarkanian’s Runnin’ Rebels entered the 1991 Final Four undefeated at 34-0, riding a 45-game winning streak, and were heavy favorites to become the first team to repeat as champions since UCLA in 1973.\n\nDuke was not supposed to be here. The Blue Devils had lost to UNC in the ACC Tournament and entered the NCAA bracket as a #2 seed. But Christian Laettner, Bobby Hurley, and the freshman Grant Hill had something the 1990 team didn’t: belief. Krzyzewski spent the days before the game convincing his players they could win — not by outrunning UNLV, but by controlling tempo, making them play Duke’s game.\n\nThe strategy worked. Duke slowed the pace, forced UNLV into halfcourt sets, and contested every shot. Laettner was brilliant, hitting big shots throughout and converting critical free throws down the stretch. Bobby Hurley, just a sophomore, ran the offense with a veteran’s composure.\n\nWith under three minutes to play, UNLV held a 76-71 lead. The Rebels appeared ready to complete the repeat. Then Duke went on an 8-0 run. Hurley hit a three. Laettner converted inside. The defense locked down. Suddenly, impossibly, Duke led 79-77.\n\nUNLV’s Larry Johnson missed a last-second shot. The buzzer sounded. The Hoosier Dome erupted. Players collapsed on the court. Krzyzewski bear-hugged his assistants. The 45-game winning streak was over. The ghosts of 103-73 were gone.\n\nTwo nights later, Duke would beat Kansas 72-65 for the program’s first national championship. But this was the game — the one that changed the trajectory of college basketball and confirmed Duke as the sport’s preeminent program.",
+        "performances": [
+          {
+            "player": "Christian Laettner",
+            "line": "28 points, critical late free throws"
+          },
+          {
+            "player": "Bobby Hurley",
+            "line": "Key three-pointer in the 8-0 run, composed floor leadership"
+          },
+          {
+            "player": "Grant Hill",
+            "line": "Defensive anchor, held UNLV’s wings in check"
+          },
+          {
+            "player": "Thomas Hill",
+            "line": "Tough defense on Anderson Hunt"
+          }
+        ],
+        "significance": "This is the single most important game in Duke basketball history. It transformed the program from “great team that can’t win the big one” into a dynasty. The 103-73 loss the year before had been existential — proof that Duke couldn’t compete with the best. The 79-77 win erased that narrative forever. Every Duke championship that followed — 1992, 2001, 2010, 2015 — traces its lineage to this night in Indianapolis."
+      },
+      "sources": [
+        {
+          "title": "1990-91 Duke Schedule & Results",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1991-schedule.html"
+        },
+        {
+          "title": "1990-91 Duke Roster & Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/duke/men/1991.html"
+        },
+        {
+          "title": "1990-91 Duke Schedule - GoDuke",
+          "url": "https://goduke.com/sports/mens-basketball/schedule/1990-91"
+        },
+        {
+          "title": "Coach K’s Most Memorable Victories - CollegeInsider",
+          "url": "https://www.collegeinsider.com/contributor/column182/coach-ks-19-most-memorable-victories-and-7-forgettable-losses"
+        },
+        {
+          "title": "Carolina-Duke Rivalry - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carolina%E2%80%93Duke_rivalry"
+        },
+        {
+          "title": "Mike Krzyzewski Biography - Britannica",
+          "url": "https://www.britannica.com/biography/Mike-Krzyzewski"
+        }
+      ]
     }
   ]
 }
