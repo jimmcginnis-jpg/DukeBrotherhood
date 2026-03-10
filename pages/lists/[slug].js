@@ -6,6 +6,8 @@ import Link from 'next/link';
 import playersData from '../../data/players.json';
 
 const players = playersData.players;
+const profiledPlayers = players.filter(p => p.status === 'done');
+const profiledCount = profiledPlayers.length;
 
 const eraNames = {
   foundation: 'I. Foundation (1981–85)',
@@ -116,13 +118,13 @@ function pLink(p) {
 // ── List configurations ──
 const listConfigs = {
   'all-players': {
-    title: 'The 86 Brotherhood Players (1981–Present)',
+    title: `The ${profiledCount} Brotherhood Players (1981–Present)`,
     subtitle: "Every player profiled in Duke's Brotherhood series, organized by era.",
-    meta: "The 86 players profiled in Duke's Brotherhood: Where Are They Now? — organized by era from 1981 to present.",
+    meta: `The ${profiledCount} players profiled in Duke's Brotherhood: Where Are They Now? — organized by era from 1981 to present.`,
   },
   'currently-in-nba': {
     title: 'Brotherhood Players Currently in the NBA',
-    subtitle: 'Active in the 2025–26 NBA season, among the 86 players profiled.',
+    subtitle: `Active in the 2025–26 NBA season, among the ${profiledCount} players profiled.`,
     meta: 'Brotherhood players currently active in the 2025-26 NBA season with stats and teams.',
   },
   'number-one-picks': {
@@ -131,24 +133,24 @@ const listConfigs = {
     meta: 'The five Duke Brotherhood players selected #1 overall in the NBA Draft.',
   },
   'lottery-picks': {
-    title: 'NBA Lottery Picks Among the 86 Brotherhood Players',
+    title: `NBA Lottery Picks Among the ${profiledCount} Brotherhood Players`,
     subtitle: 'Every Brotherhood player drafted in the top 14, from Johnny Dawkins (1986) to Cooper Flagg (2025).',
     meta: 'Duke Brotherhood players selected in the NBA lottery with draft position, team, and career stats.',
   },
   'mcdonalds-all-americans': {
     title: "McDonald's All-Americans Among the Brotherhood",
     subtitle: "Brotherhood players who earned McDonald's All-American honors before arriving at Duke.",
-    meta: "McDonald's All-Americans among the 86 Duke Brotherhood players profiled.",
+    meta: `McDonald's All-Americans among the ${profiledCount} Duke Brotherhood players profiled.`,
   },
   'coaches': {
     title: 'Brotherhood Players Who Became Coaches',
-    subtitle: 'From NBA head coaches to college builders — coaching paths among the 86 players profiled.',
+    subtitle: `From NBA head coaches to college builders — coaching paths among the ${profiledCount} players profiled.`,
     meta: 'Duke Brotherhood players who became coaches, including JJ Redick, Quin Snyder, Tommy Amaker, and Jon Scheyer.',
   },
   'top-nba-scorers': {
     title: 'Top NBA Scorers Among the Brotherhood',
-    subtitle: 'Career PPG leaders among the 86 Brotherhood players (min. 50 games).',
-    meta: "Highest NBA scorers among Duke's 86 Brotherhood players, ranked by career PPG.",
+    subtitle: `Career PPG leaders among the ${profiledCount} Brotherhood players (min. 50 games).`,
+    meta: `Highest NBA scorers among Duke's ${profiledCount} Brotherhood players, ranked by career PPG.`,
   },
   'nba-iron-men': {
     title: 'Brotherhood Iron Men: 500+ NBA Games',
@@ -162,13 +164,13 @@ const listConfigs = {
   },
   'draft-history': {
     title: 'Brotherhood NBA Draft History (1986–2025)',
-    subtitle: 'Every drafted player among the 86 Brotherhood profiles, year by year.',
-    meta: 'NBA draft history for the 86 Duke Brotherhood players profiled, from 1986 to 2025.',
+    subtitle: `Every drafted player among the ${profiledCount} Brotherhood profiles, year by year.`,
+    meta: `NBA draft history for the ${profiledCount} Duke Brotherhood players profiled, from 1986 to 2025.`,
   },
   'by-the-numbers': {
     title: 'The Brotherhood: By the Numbers',
-    subtitle: 'Key stats and milestones across the 86 players profiled.',
-    meta: "Stats and milestones from Duke's Brotherhood — 86 players, 8 eras, 40+ years.",
+    subtitle: `Key stats and milestones across the ${profiledCount} players profiled.`,
+    meta: `Stats and milestones from Duke's Brotherhood — ${profiledCount} players, 8 eras, 40+ years.`,
   },
 };
 
@@ -363,18 +365,18 @@ function RenderByTheNumbers() {
   const drafted = getDraftHistory();
 
   const stats = [
-    ['Total Players Profiled', '86'],
+    ['Total Players Profiled', `${profiledCount}`],
     ['Eras Covered', '8 (1981–present)'],
     ['NBA Draft Picks', `${drafted.length}`],
     ['Lottery Picks (Top 14)', `${lottery.length}`],
-    ['#1 Overall Picks', '5'],
+    ['#1 Overall Picks', `${players.filter(p => p.status === 'done' && p.nba && p.nba.draftPick === 1).length}`],
     ['Currently Active in NBA', `${currentNBA.length}`],
     ['Players with 500+ NBA Games', `${ironMen.length}`],
     ["McDonald's All-Americans", `${mcD.length}`],
     ['Players Who Became Coaches', `${coaches.length}`],
     ['Undrafted Players', `${undrafted.length}`],
     ['Highest Career PPG', scorers[0] ? `${scorers[0].name} (${scorers[0].nba.ppg})` : '—'],
-    ['Most NBA Games', 'Grant Hill (1,026)'],
+    ['Most NBA Games', ironMen[0] ? `${ironMen[0].name} (${ironMen[0].nba.games})` : '—'],
   ];
 
   return (
