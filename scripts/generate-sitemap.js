@@ -24,6 +24,8 @@ urls.push({ loc: '/lists', priority: '0.9', changefreq: 'weekly' });
 urls.push({ loc: '/viz', priority: '0.7', changefreq: 'monthly' });
 urls.push({ loc: '/viz/height', priority: '0.7', changefreq: 'monthly' });
 urls.push({ loc: '/viz/map', priority: '0.7', changefreq: 'monthly' });
+urls.push({ loc: '/viz/nba', priority: '0.7', changefreq: 'monthly' });
+urls.push({ loc: '/viz/nba-teams', priority: '0.7', changefreq: 'monthly' });
 urls.push({ loc: '/search', priority: '0.6', changefreq: 'monthly' });
 
 // Teams pages
