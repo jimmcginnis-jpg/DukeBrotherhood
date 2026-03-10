@@ -887,29 +887,79 @@
       "era": "foundation",
       "name": "Dan Meagher",
       "pos": "Forward",
-      "years": "1979–84",
+      "years": "1981–85",
       "classOf": "",
       "height": "6'7\"",
-      "tagline": "",
-      "status": "stub",
-      "now": "",
-      "drafted": "",
-      "stat": "",
-      "bio": {},
+      "tagline": "The Canadian who ate glass.",
+      "status": "done",
+      "now": "Financial services, Miami, FL",
+      "drafted": "6th Rd, 126th — Chicago Bulls",
+      "stat": "118 games, 6.4 ppg, 4.0 rpg; 1984 Olympian; 1983 World University Games Gold",
+      "bio": {
+        "road": "Dan Meagher grew up in St. Catharines, Ontario — a small industrial city on the Canadian side of the Niagara Peninsula, about as far from the ACC as a basketball player could get. Born in Kingston, Ontario, in 1962, he came of age in a country where hockey was king and basketball was an afterthought. But Meagher was built differently: 6-foot-7, 215 pounds, with the physicality of a hockey enforcer and the competitive fire to match.\n\nHe was good enough to attract attention from American schools, and in 1981, he made the improbable decision to cross the border and play for Mike Krzyzewski at Duke. This was Krzyzewski’s first season. There was no dynasty, no Cameron Crazies mystique, no legacy to sell. Duke was a program in transition, and K was an unknown from West Point. Meagher was, in a very real sense, one of the first recruits to bet on Krzyzewski — a Canadian kid who chose Duke before there was any reason to choose Duke.\n\nHe arrived on campus the same year as Vince Taylor and the holdovers from the Foster era. He would still be there when Johnny Dawkins, Mark Alarie, Jay Bilas, and David Henderson arrived as freshmen. He was the bridge between two eras — the only player who lived through the entire dark period and emerged on the other side when the light began to break through.",
+        "duke": "Meagher was not the most talented player on any Duke team he played for. He was, by universal consensus, the toughest. Tommy Amaker described him as “literally crazy.” Krzyzewski called him “inspirational — tough mentally and physically.” Dean Smith, after Duke upset his #1-ranked Tar Heels in the 1984 ACC Tournament, publicly singled out Meagher with barely concealed contempt: “Meagher learned to play under those international rules. He’s playing a different game out there.” Coming from Smith, it was the highest compliment a Duke player could receive.\n\nThe Washington Post wrote that if Meagher played football, he would be the guy who ate glass to get his teammates psyched up. He dove on every loose ball, traded elbows without hesitation, and was the bane of every opposing team’s existence. As a freshman, he rarely played under control and had, as the Post memorably noted, the shooting touch of a hockey goalie. But K saw something in his attitude that statistics couldn’t capture.\n\nHis defining moment came during the 1984-85 season. Duke had lost four consecutive ACC games, their record had dropped to 14-5, and the season was slipping away. On the five-hour bus ride to Clemson, Krzyzewski called a team meeting and told the players he still believed in them. When K finished, Meagher stood up and told his teammates he didn’t consider himself a loser and he wasn’t willing to accept losing. The speech galvanized the team. Duke won that Clemson game and went on to finish third in the ACC and earn an NCAA Tournament bid. Everyone on the roster later pointed to Meagher’s bus speech as the turning point of the season.\n\nHe was named team captain in 1984 — regarded as one of the toughest players in the entire Atlantic Coast Conference. Over 118 games across four seasons, he averaged 6.4 points, 4.0 rebounds, and 1.2 assists on 46.1% shooting. The numbers were modest. The impact was enormous.",
+        "after": "The Chicago Bulls drafted Meagher in the 6th round of the 1985 draft, 126th overall, but he never played in the NBA. Instead, he built an eight-year professional career overseas, playing in European leagues where his physicality and toughness translated perfectly.\n\nBut the most extraordinary chapter of Meagher’s basketball life was international. He represented Canada in the 1984 Summer Olympics in Los Angeles, where Canada finished fourth — agonizingly close to a medal. The bronze-medal game was tied 18 times with 12 lead changes, and Canada was within one point with less than a minute remaining. It was the only time in over 80 years that Canada had a legitimate chance at an Olympic basketball medal. In the semifinal against the United States, Meagher was Canada’s second-leading scorer with 11 points.\n\nA year earlier, Meagher had been part of something even more historic: the 1983 World University Games team that won gold — the only time Canada has ever won a gold medal in an international basketball tournament. In the semifinal, Canada defeated a United States team featuring future NBA Hall of Famers Charles Barkley and Karl Malone.\n\nMeagher continued representing Canada in the 1986 and 1990 FIBA World Championships. In 1986, he led Canada in scoring against the United States with 19 points. In 1990, he led Canada against the Soviet Union with 15 points. His international career spanned nearly a decade.",
+        "now": "Dan Meagher settled in Miami, Florida, after his playing career ended. As of 2007, he was working as a senior financial analyst for Burger King, living with his wife and daughter Sofia. He was inducted into the St. Catharines Sports Hall of Fame in recognition of his basketball career.\n\nHis story is uniquely Duke. He arrived before the dynasty, played through the darkest years, helped light the fuse on the turnaround, and left just before the explosion. He was the first international recruit of the Krzyzewski era — a Canadian pioneer on a team of Americans, bringing a toughness that had nothing to do with nationality and everything to do with character. When Dean Smith called him dirty, every Duke fan in America smiled.\n\nAs the Washington Post wrote in January 1985: “Danny Meagher is literally crazy.” He was. And Duke was better for it."
+      },
       "seasons": [
-        "1979-80",
-        "1980-81",
         "1981-82",
         "1982-83",
-        "1983-84"
+        "1983-84",
+        "1984-85"
       ],
-      "nba": null,
-      "sources": [],
+      "nba": {
+        "draftYear": 1985,
+        "draftRound": 6,
+        "draftPick": 126,
+        "draftTeam": "Chicago Bulls",
+        "careerYears": null,
+        "games": 0,
+        "ppg": 0,
+        "rpg": 0,
+        "apg": 0,
+        "teams": [],
+        "highlights": [],
+        "lastSeason": null,
+        "undrafted": false,
+        "overseas": "8 seasons professionally overseas; represented Canada in 1984 Olympics, 1983 World University Games (gold), 1986 and 1990 FIBA World Championships",
+        "coaching": "",
+        "postCareer": "Senior financial analyst, Burger King (Miami); inducted into St. Catharines Sports Hall of Fame"
+      },
+      "sources": [
+        {
+          "title": "Dan Meagher — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dan_Meagher"
+        },
+        {
+          "title": "Dan Meagher College Stats — Sports Reference",
+          "url": "https://www.sports-reference.com/cbb/players/dan-meagher-1.html"
+        },
+        {
+          "title": "Dan Meagher — Basketball Reference",
+          "url": "https://www.basketball-reference.com/players/m/meaghda01.html"
+        },
+        {
+          "title": "Dan Meagher — GoDuke Official Bio",
+          "url": "https://goduke.com/sports/mens-basketball/roster/dan-meagher/22899"
+        },
+        {
+          "title": "Dan Meagher — St. Catharines Sports Hall of Fame",
+          "url": "https://scshof.com/dan-meagher/"
+        },
+        {
+          "title": "Basketball Fun Again at Duke — Washington Post, Jan 1985",
+          "url": "https://www.washingtonpost.com/archive/sports/1985/01/14/basketball-fun-again-at-duke/b6c8fa2e-d107-415d-ab77-792b186ba675/"
+        },
+        {
+          "title": "Featherston Catches Up With Former Duke Stars — GoDuke 2007",
+          "url": "https://goduke.com/news/2007/8/1/1146572.aspx"
+        }
+      ],
       "hometown": "St. Catharines, Ontario",
       "jersey": "45",
       "highSchool": "",
       "rsci": "",
-      "weight": "205"
+      "weight": "215"
     },
     {
       "id": "richard_ford",
@@ -11870,7 +11920,7 @@
     {
       "id": "spencer_hubbard",
       "slug": "spencer-hubbard",
-      "era": "superteam",
+      "era": "scheyer",
       "name": "Spencer Hubbard",
       "pos": "Guard",
       "years": "2020–25",
@@ -13211,7 +13261,7 @@
       "pos": "Center",
       "years": "2024–25",
       "classOf": "",
-      "height": "",
+      "height": "7'2\"",
       "tagline": "",
       "status": "stub",
       "now": "",
