@@ -9480,23 +9480,96 @@
       "years": "2009–13",
       "classOf": "",
       "height": "6'11\"",
-      "tagline": "",
-      "status": "stub",
-      "now": "",
-      "drafted": "",
-      "stat": "",
-      "bio": {},
+      "tagline": "The Ivy League kid who won a national championship, married a Cowher, played for the Lakers, and found his best basketball in Japan.",
+      "status": "done",
+      "now": "Professional basketball, Fukui Blowinds (Japan B.League)",
+      "drafted": "2nd Rd, 48th — Los Angeles Lakers",
+      "stat": "126 games at Duke (7.5 ppg, 37.9% 3PT); 2010 champion; 163 NBA games; 22+ ppg in Japan",
+      "bio": {
+        "road": "Ryan Matthew Kelly was born in Carmel, New York, and raised in Raleigh, North Carolina, in a family where athletics and academics were inseparable. His father Chris played basketball at Yale from 1981 to 1985 and then professionally in France for three years. His mother Doreen played volleyball at the University of Pennsylvania and toured South America with Athletes In Action. She later served as Head of School at Ravenscroft.\n\nAt Ravenscroft School, Kelly set career records in points (2,065), rebounds (950), and blocks (379). As a senior he averaged 25.2 points, 10.2 rebounds, and 2.8 blocks, earning North Carolina Gatorade Player of the Year, McDonald’s All-American honors, and Parade All-America First Team. He chose Duke over UNC, Wake Forest, Vanderbilt, Notre Dame, and Georgetown. “When I went to Duke and played pickup, it was as if I was already on the team. I was coming for somebody’s minutes.”",
+        "duke": "Kelly arrived in 2009 and won a national championship as a freshman, appearing in 35 games off the bench for the team that beat Butler 61-59. By sophomore year he was a key rotation player, winning Maui Invitational MVP in 2011. His junior year was his best statistically (11.8 ppg, 5.4 rpg) but a foot injury cost him the ACC and NCAA Tournaments — Duke lost to Lehigh without him in one of the biggest upsets in tournament history.\n\nHe returned for his senior year because staying four years was always the plan. He led the 2012-13 team to the ACC title and Elite Eight, was named team captain for the second time, and earned his fourth ACC All-Academic selection. Over 126 games: 7.5 ppg, 3.7 rpg, 46.0% FG, 37.9% from three. A four-year player in the one-and-done era.",
+        "after": "The Lakers drafted Kelly 48th overall in 2013. His rookie year was his best: 59 games, 25 starts, 8.0 ppg, career-high 26 against Cleveland. He spent three seasons with the Lakers and one with the Hawks (163 total games, ~.3M earned). After the NBA, he played a season in Spain with Real Betis (13.4 ppg), then moved to Japan’s B.League in 2018.\n\nIn Japan, Kelly became a star. He averaged 21.1 points and 10.2 rebounds in his first season with the Shibuya Sun Rockers, then 22.3 points in his second. The stretch-four who was a role player in the NBA became a dominant force in Japanese basketball. He spent six seasons with the Sun Rockers before moving to Fukui Blowinds, where he continues to play at age 34.",
+        "now": "Ryan Kelly is 34 years old and in his seventh season of professional basketball in Japan. He is married to Lindsay Cowher — the daughter of NFL legend and CBS broadcaster Bill Cowher. They have three children. His younger brother Sean was a walk-on at Duke during the 2014-15 national championship season.\n\nHis Brotherhood story is about the long game. In the one-and-done era, he stayed four years, got his degree, won a championship, captained two teams, made the NBA, played in Spain, and found his best basketball on the other side of the world. He took charges at Duke. He averaged 22 points in Japan. He married into NFL royalty. And he did it all with the Ivy League values his parents instilled."
+      },
       "seasons": [
         "2009-10",
         "2010-11",
         "2011-12",
         "2012-13"
       ],
-      "nba": null,
-      "sources": [],
+      "nba": {
+        "draftYear": 2013,
+        "draftRound": 2,
+        "draftPick": 48,
+        "draftTeam": "Los Angeles Lakers",
+        "careerYears": "2013-17",
+        "games": 163,
+        "ppg": 6,
+        "rpg": 3.1,
+        "apg": 1.3,
+        "teams": [
+          {
+            "team": "Los Angeles Lakers",
+            "seasons": [
+              "2013-14",
+              "2014-15",
+              "2015-16"
+            ]
+          },
+          {
+            "team": "Atlanta Hawks",
+            "seasons": [
+              "2016-17"
+            ]
+          }
+        ],
+        "highlights": [
+          "2010 NCAA Champion (freshman)",
+          "Maui Invitational MVP (2011)",
+          "Career-high 26 pts vs Cleveland (Feb 2014)",
+          "4x ACC All-Academic Team",
+          "2x Team Captain",
+          "22.3 ppg in Japan B.League (2019-20)"
+        ],
+        "lastSeason": "2016-17",
+        "undrafted": false,
+        "overseas": "Real Betis (Spain, 2017-18); Shibuya Sun Rockers (Japan B.League, 2018-24); Fukui Blowinds (Japan B.League, 2024-present)",
+        "coaching": "",
+        "postCareer": "Active — professional basketball in Japan"
+      },
+      "sources": [
+        {
+          "title": "Ryan Kelly — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ryan_Kelly_(basketball)"
+        },
+        {
+          "title": "Ryan Kelly College Stats — Sports Reference",
+          "url": "https://www.sports-reference.com/cbb/players/ryan-kelly-3.html"
+        },
+        {
+          "title": "Ryan Kelly — Basketball Reference",
+          "url": "https://www.basketball-reference.com/players/k/kellyry01.html"
+        },
+        {
+          "title": "Ryan Kelly — GoDuke Official Bio",
+          "url": "https://goduke.com/sports/mens-basketball/roster/ryan-kelly/4367"
+        },
+        {
+          "title": "From Duke to Japan: Ryan Kelly — The Next Prospect",
+          "url": "https://thenextprospect.org/from-duke-to-japan-and-every-stop-along-the-way-ryan-kelly-has-committed-himself-to-being-the-best-version-of-himself-through-hard-work/"
+        },
+        {
+          "title": "Everything You Need to Know About Ryan Kelly — Bleacher Report",
+          "url": "https://bleacherreport.com/articles/1928418-everything-you-need-to-know-about-los-angeles-lakers-forward-ryan-kelly"
+        },
+        {
+          "title": "Gary Trent Sr. — Wikipedia (Kelly family context)",
+          "url": "https://en.wikipedia.org/wiki/Gary_Trent"
+        }
+      ],
       "jersey": "34",
       "hometown": "Raleigh, NC",
-      "highSchool": "Ravenscroft",
+      "highSchool": "Ravenscroft School",
       "rsci": "14",
       "weight": "230"
     },
@@ -9735,23 +9808,107 @@
       "years": "2013–15",
       "classOf": "",
       "height": "6'8\"",
-      "tagline": "",
-      "status": "stub",
-      "now": "",
-      "drafted": "",
-      "stat": "",
-      "bio": {},
+      "tagline": "Parade National Player of the Year. 23 games at Duke. AAC Player of the Year at SMU. NBA playoff warrior. European champion.",
+      "status": "done",
+      "now": "Professional basketball, Crvena zvezda (Serbia)",
+      "drafted": "2nd Rd, 37th — Boston Celtics",
+      "stat": "23 games at Duke (2.0 ppg); AAC POY at SMU (19.0 ppg); NBA: 198 games, guarded Giannis in playoffs",
+      "bio": {
+        "road": "His full name is Jesusemilore Talodabijesu Ojeleye. His mother Joy created it, beginning with the name Jesus, as she did for all three of her children. His parents, Ernest and Joy, emigrated from Nigeria to Ottawa, Kansas — a small town of 12,000 people about 45 minutes south of Kansas City. Ernest is a doctor. Joy poured her faith into her children’s names and their upbringing.\n\nAt Ottawa High School, Ojeleye set state records for career points (2,763) and single-season points (952). In 2013, Parade Magazine named him the National High School Player of the Year. He was a McDonald’s All-American and the most decorated player in Kansas high school history. He chose Duke, joining a 2013-14 roster loaded with Jabari Parker, Rodney Hood, and Quinn Cook. Seven players from that team would eventually reach the NBA.",
+        "duke": "The Parade National Player of the Year played 5.0 minutes per game as a freshman, averaging 1.6 points. He appeared in 19 games and never started. His sophomore year started the same way. After appearing in just six games, Ojeleye transferred mid-season in 2014-15. The team he left would go on to win the national championship.\n\nThe departure was not clean. His mother later described heated meetings with Krzyzewski. His father said an assistant called to disparage Semi’s work ethic. Semi himself was gracious: “I wasn’t prepared, mentally or physically. If I could do it over again, I’d still go there. It was a great opportunity playing for Coach K. It definitely made me the person I am today.”\n\nHis mother saw it differently: “He would have toiled away in obscurity. The dream would have been completely dead.”",
+        "after": "At SMU under Larry Brown’s staff, Ojeleye sat out an additional redshirt year — meaning he hadn’t played a meaningful game in nearly three years. He used the time to transform his body and his shot. When he finally played in 2016-17, he averaged 19.0 points and 6.9 rebounds, was named AAC Player of the Year, and led SMU to a 30-5 record.\n\nThe Boston Celtics drafted him 37th overall. As a rookie, he guarded Giannis Antetokounmpo in a first-round playoff series. In Game 7, Giannis shot 7-for-17 under his pressure. Boston won. He spent four seasons with the Celtics, had brief stops with Milwaukee and the Clippers, then moved to Europe in 2022. At Virtus Bologna in Italy, he was named Supercup MVP. He has since played in Spain and Serbia.",
+        "now": "Semi Ojeleye is 31 years old and still playing professional basketball with Crvena zvezda in Belgrade, Serbia. His nicknames tell you everything about the body he built: “Muscles Jesus,” “The Ox,” “Thor,” “The Man Made of Granite.”\n\nHis Brotherhood story is the road that forked. The Parade National Player of the Year who played 23 games at Duke and never started. Who transferred, sat out three years, reinvented himself, got drafted, guarded Giannis, won a championship in Italy, and is still playing professionally a decade after leaving Durham.\n\nNot every Duke story is a triumph in Durham. Some players need to leave to find themselves. Semi Ojeleye is proof that the name on the front of the jersey isn’t always where the story happens — but it’s always where the story starts."
+      },
       "seasons": [
         "2013-14",
         "2014-15"
       ],
-      "nba": null,
-      "sources": [],
-      "jersey": "20",
+      "nba": {
+        "draftYear": 2017,
+        "draftRound": 2,
+        "draftPick": 37,
+        "draftTeam": "Boston Celtics",
+        "careerYears": "2017-22",
+        "games": 198,
+        "ppg": 3.4,
+        "rpg": 2.2,
+        "apg": 0.4,
+        "teams": [
+          {
+            "team": "Boston Celtics",
+            "seasons": [
+              "2017-18",
+              "2018-19",
+              "2019-20",
+              "2020-21"
+            ]
+          },
+          {
+            "team": "Milwaukee Bucks",
+            "seasons": [
+              "2021-22"
+            ]
+          },
+          {
+            "team": "Los Angeles Clippers",
+            "seasons": [
+              "2021-22"
+            ]
+          }
+        ],
+        "highlights": [
+          "Guarded Giannis in 2018 playoff Game 7 (7-17 shooting)",
+          "23 playoff games with Celtics",
+          "Italian Supercup MVP (Virtus Bologna, 2022)",
+          "AAC Player of the Year (SMU, 2017)",
+          "2013 Parade National HS Player of the Year",
+          "State records: career points (2,763) and single-season (952) in Kansas"
+        ],
+        "lastSeason": "2021-22",
+        "undrafted": false,
+        "overseas": "Virtus Bologna (Italy, 2022-23; EuroLeague, Supercup MVP), Valencia (Spain, 2023-24), Crvena zvezda (Serbia, 2024-present)",
+        "coaching": "",
+        "postCareer": "Active — professional basketball in Europe"
+      },
+      "sources": [
+        {
+          "title": "Semi Ojeleye — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Semi_Ojeleye"
+        },
+        {
+          "title": "Semi Ojeleye College Stats — Sports Reference",
+          "url": "https://www.sports-reference.com/cbb/players/semi-ojeleye-1.html"
+        },
+        {
+          "title": "Semi Ojeleye — Basketball Reference",
+          "url": "https://www.basketball-reference.com/players/o/ojelese01.html"
+        },
+        {
+          "title": "Despite Obstacles, Ojeleye Appreciates Journey — NBA.com",
+          "url": "https://www.nba.com/news/semi-ojeleye-duke-smu-forward-appreciates-journey-nba-draft"
+        },
+        {
+          "title": "Family, Faith Pave Ojeleye’s Path to Celtics — Boston Herald",
+          "url": "https://www.bostonherald.com/2018/05/01/family-faith-pave-semi-ojeleyes-path-to-home-with-celtics/"
+        },
+        {
+          "title": "Ojeleye’s Parents Had Negative Experiences with Duke — NBC Sports",
+          "url": "https://www.nbcsports.com/college-basketball/news/semi-ojeleye-parents-negative-experiences-duke"
+        },
+        {
+          "title": "Report: Krzyzewski Screamed at Former Player’s Family — 247Sports",
+          "url": "https://247sports.com/nba/boston-celtics/Article/Boston-Celtics-Semi-Ojeleye-faced-explosive-divorce-from-Duke-basketball-and-Mike-Krzyzewski-117971651/"
+        },
+        {
+          "title": "Semi Ojeleye — NBA.com Player Profile",
+          "url": "https://www.nba.com/player/1628400/semi-ojeleye/rotowire"
+        }
+      ],
+      "jersey": "17",
       "hometown": "Ottawa, KS",
-      "highSchool": "Ottawa HS",
+      "highSchool": "Ottawa High School",
       "rsci": "32",
-      "weight": "230"
+      "weight": "235"
     },
     {
       "id": "matt_jones",
@@ -11381,21 +11538,109 @@
       "years": "2017–18",
       "classOf": "",
       "height": "6'6\"",
-      "tagline": "",
-      "status": "stub",
-      "now": "",
-      "drafted": "",
-      "stat": "",
-      "bio": {},
+      "tagline": "Raised in NBA locker rooms. Trained at 3 a.m. by his father. A second-round pick who became a $54 million man.",
+      "status": "done",
+      "now": "Guard, Milwaukee Bucks",
+      "drafted": "2nd Rd, 37th — Sacramento (traded to Portland)",
+      "stat": "14.5 ppg at Duke (40.2% 3PT); 7 NBA seasons, $70M+ career earnings",
+      "bio": {
+        "road": "Gary Dajuan Trent Jr. was born in Columbus, Ohio, on January 18, 1999, into a basketball family that had already lived the entire arc of the American hoops dream. His father, Gary Trent Sr., grew up in grinding poverty in Columbus — his mother dropping him off for his first job at 3:17 a.m. The elder Trent fought his way to Ohio University, where he earned the nickname \"The Shaq of the MAC,\" was named conference Player of the Year three times, and was drafted 11th overall by the Milwaukee Bucks in 1995. He played nine NBA seasons.\n\nGary Jr. grew up in NBA locker rooms. He was around Kevin Garnett as a child. His father began training him at age five. At six, he dribbled a basketball for a mile around a track. At seven, he was scoring 30 points per game in youth league. By high school, he was waking his father at 1 a.m. to shoot — after already completing two or three workouts that day.\n\nAt Apple Valley High School in Minnesota, Trent paired with Tre Jones and won a state championship. He transferred to Prolific Prep for his senior year, averaging 31.8 points. Ranked #8 nationally by ESPN and the #1 shooting guard, he committed to Duke on November 10, 2016.",
+        "duke": "Trent arrived at Duke for the 2017-18 season as part of a loaded freshman class that included Marvin Bagley III, Wendell Carter Jr., and Trevon Duval. He set a Duke freshman record with 97 made three-pointers, shooting 40.2% from beyond the arc — best in the ACC. He led the team in free-throw shooting at 87.6% and averaged 14.5 points starting all 37 games.\n\nHe scored a career-high 30 points against Miami and tied the Duke freshman record with six threes against Boston College. Duke reached the Elite Eight as a #2 seed before falling to Kansas in overtime. All five starters declared for the draft.",
+        "after": "Sacramento drafted Trent 37th overall and immediately traded him to Portland. His father’s words echoed: \"This 15-year internship just got you into the country club. Now you’ve got to work 100 times harder to stay.\"\n\nAfter a quiet rookie year, he shot 41.8% from three in year two. Toronto acquired him in March 2021 for Norman Powell, and Trent exploded: five consecutive 30-point games, a 44-point performance on 17-of-19 shooting against Cleveland, and a 42-point night against Houston. Toronto signed him to a three-year, $54 million deal. After three seasons with the Raptors, he signed with Milwaukee in 2024 and scored 37 points with nine threes in the 2025 playoffs.",
+        "now": "Gary Trent Jr. is 27 years old and in his eighth NBA season with the Milwaukee Bucks alongside Giannis Antetokounmpo and Damian Lillard. He has earned over $70 million in career salary and established himself as one of the premier three-point shooters of his generation.\n\nHis Duke connection runs deep: he played high school ball with Tre Jones, who followed him to Durham a year later. They won a state championship together in Minnesota and both became NBA players. His father’s advice before the Duke commitment endures: \"First, go to a basketball school. Secondly, don’t make it a basketball decision. This is a business decision.\"\n\nGary Trent Sr. once said: \"You cannot find a child in this draft who has logged more gym hours, more film hours, and more basketball conversation hours.\" Seven years in, the investment is still paying dividends."
+      },
       "seasons": [
         "2017-18"
       ],
-      "nba": null,
-      "sources": [],
+      "nba": {
+        "draftYear": 2018,
+        "draftRound": 2,
+        "draftPick": 37,
+        "draftTeam": "Sacramento Kings",
+        "careerYears": "2018-present",
+        "games": 420,
+        "ppg": 14,
+        "rpg": 3,
+        "apg": 1.8,
+        "teams": [
+          {
+            "team": "Portland Trail Blazers",
+            "seasons": [
+              "2018-19",
+              "2019-20",
+              "2020-21"
+            ]
+          },
+          {
+            "team": "Toronto Raptors",
+            "seasons": [
+              "2020-21",
+              "2021-22",
+              "2022-23",
+              "2023-24"
+            ]
+          },
+          {
+            "team": "Milwaukee Bucks",
+            "seasons": [
+              "2024-25",
+              "2025-26"
+            ]
+          }
+        ],
+        "highlights": [
+          "97 three-pointers as Duke freshman (record)",
+          "44 pts on 17-19 shooting vs Cleveland (Apr 2021)",
+          "$54M contract with Toronto (Aug 2021)",
+          "Five consecutive 30-point games (Jan-Feb 2022)",
+          "37 pts, 9 threes in 2025 playoff game (Bucks record)",
+          "Season-high 42 pts vs Houston (Feb 2022)",
+          "2nd-highest plus-minus in NBA history (+54) vs Golden State"
+        ],
+        "lastSeason": "2025-26",
+        "undrafted": false,
+        "overseas": "",
+        "coaching": "",
+        "postCareer": "Active — Milwaukee Bucks guard"
+      },
+      "sources": [
+        {
+          "title": "Gary Trent Jr. — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gary_Trent_Jr."
+        },
+        {
+          "title": "Gary Trent Jr. College Stats — Sports Reference",
+          "url": "https://www.sports-reference.com/cbb/players/gary-trent-jr-1.html"
+        },
+        {
+          "title": "Gary Trent Jr. — Basketball Reference",
+          "url": "https://www.basketball-reference.com/players/t/trentga02.html"
+        },
+        {
+          "title": "Gary Trent — GoDuke Official Bio",
+          "url": "https://goduke.com/sports/mens-basketball/roster/gary-trent/4437"
+        },
+        {
+          "title": "Duke-bound Gary Trent Jr. schooled by his father — Andscape",
+          "url": "https://andscape.com/features/duke-bound-gary-trent-jr-nba-father-gary-trent-sr/"
+        },
+        {
+          "title": "Countless hours in the gym with NBA father — Pioneer Press",
+          "url": "https://www.twincities.com/2018/06/19/gary-trent-jr/"
+        },
+        {
+          "title": "Gary Trent Sr. — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gary_Trent"
+        },
+        {
+          "title": "Gary Trent Jr. ready to carry father’s legacy — FOX Sports",
+          "url": "https://www.foxsports.com/stories/college-basketball/gary-trent-jr-ready-to-carry-fathers-legacy-into-college-basketball"
+        }
+      ],
       "jersey": "2",
       "hometown": "Columbus, OH",
-      "highSchool": "Prolific Prep",
-      "rsci": "14",
+      "highSchool": "Apple Valley HS (MN); Prolific Prep (CA)",
+      "rsci": "8",
       "weight": "209"
     },
     {
@@ -11795,20 +12040,93 @@
       "years": "2020–21",
       "classOf": "",
       "height": "6'9\"",
-      "tagline": "",
-      "status": "stub",
-      "now": "",
-      "drafted": "",
-      "stat": "",
-      "bio": {},
+      "tagline": "Thirteen games. $150 million. The Duke career that almost wasn’t — and the NBA career that proved everyone wrong.",
+      "status": "done",
+      "now": "Starting forward, Atlanta Hawks; 2026 NBA All-Star; $150M contract",
+      "drafted": "1st Rd, 20th — Atlanta Hawks",
+      "stat": "22.9 ppg, 10.5 rpg, 7.9 apg (2025-26); 2026 All-Star; 13 games at Duke",
+      "bio": {
+        "road": "Jalen Tyrese Johnson was born in Wausau, Wisconsin, and raised in Sun Prairie — a Milwaukee suburb about as far from the AAU circuit spotlight as you can get. But basketball was in the blood. His father Roderick played at UW-Milwaukee and Southeast Missouri State before spending two years as a professional in Poland. His mother Stacy also played college basketball at UW-Milwaukee. His brother Rod played at Chattanooga. The Johnsons were a basketball family, and Roderick became Jalen’s primary coach from childhood.\n\nAt Sun Prairie High School, Johnson was immediately dominant — averaging 15.2 points, 6.2 rebounds, and 2.1 assists as a freshman. By his junior year, after transferring to Nicolet High School in Glendale, Wisconsin, he was the state’s best player: Wisconsin AP Player of the Year, Wisconsin Gatorade Player of the Year, and a consensus five-star recruit ranked 13th nationally in the 2020 class. He led Nicolet to the school’s first-ever state basketball championship in 2019.\n\nThen the path got complicated. Johnson transferred to IMG Academy in Bradenton, Florida, for his senior season — the finishing school for elite recruits. But he left IMG mid-year without explanation, never playing a game for the academy. The move raised eyebrows. When he committed to Duke on July 4, 2019, he was still ranked as a top-five prospect nationally, but the narrative around him had shifted. He chose Duke anyway, joining a 2020 freshman class that arrived under the strangest possible circumstances: a global pandemic, no fans in Cameron Indoor, and a program about to have its worst season in decades.",
+        "duke": "Johnson’s Duke career lasted exactly 13 games. His debut against Coppin State on November 28, 2020, was staggering: 19 points, 19 rebounds, five assists, and four blocked shots. He became only the third Duke freshman ever to record a double-double in his first game. He earned ACC Freshman of the Week honors twice. On January 19, 2021, he dropped 24 points, 16 rebounds, and 7 assists against Pittsburgh.\n\nBut the 2020-21 Blue Devils were struggling. The team went 13-11 overall and 9-9 in the ACC — the worst season of Krzyzewski’s career. COVID protocols had emptied Cameron Indoor. Johnson’s minutes fluctuated: he played just eight minutes in his final game against NC State before the announcement came.\n\nOn February 15, 2021, Johnson announced he was leaving Duke mid-season to prepare for the NBA Draft. It was the first time a Duke player had ever opted out in the middle of a season. His 13-game stat line was tantalizing: 11.2 points, 6.1 rebounds, 2.2 assists on 52.3% shooting and 44.4% from three.",
+        "after": "The Atlanta Hawks selected Johnson 20th overall in the 2021 NBA Draft. His early years required patience. He appeared in just 22 games as a rookie, splitting time between the NBA roster and the G League. He averaged 2.4 points in limited minutes. In 2022-23, Johnson earned a more regular bench role, averaging 5.6 points in 70 games. Then came 2023-24 and the breakout: starting 52 of 56 games, he averaged 16.0 points, 8.7 rebounds, and 3.6 assists with 51.1% shooting. A torn labrum ended his season in January 2025, but in October 2024, Atlanta had already signed him to a five-year, $150 million extension. The kid who quit Duke after 13 games was now worth $30 million a year.",
+        "now": "The 2025-26 season has established Jalen Johnson as one of the best young players in basketball. He is averaging 22.9 points, 10.5 rebounds, and 7.9 assists per game. He has recorded 39 double-doubles and 8 triple-doubles, setting the Hawks franchise record. In February 2026, he was named to his first NBA All-Star team. On November 13, 2025, he recorded 31 points, 18 rebounds, 14 assists, and 7 steals against Utah. On December 18 — his 24th birthday — he scored a career-high 43 points against Charlotte.\n\nHe is 24 years old, locked into $150 million through 2030, playing alongside Trae Young in one of the most exciting two-man games in the NBA. He has founded the Jalen Johnson Foundation for youth mentorship. His brother Kobe also plays for the Hawks.\n\nJalen Johnson’s Brotherhood story is unlike anyone else’s. Thirteen games at Duke. A mid-season departure that was criticized and debated. And then: $150 million, an All-Star selection, and numbers that suggest he’s only beginning. The question Duke Basketball Report posed before the draft has been answered. What happens when 30-year-old men knock him on his ass? He gets up, scores 43 points, and signs for $150 million."
+      },
       "seasons": [
         "2020-21"
       ],
-      "nba": null,
-      "sources": [],
+      "nba": {
+        "draftYear": 2021,
+        "draftRound": 1,
+        "draftPick": 20,
+        "draftTeam": "Atlanta Hawks",
+        "careerYears": "2021-present",
+        "games": 250,
+        "ppg": 22.9,
+        "rpg": 10.5,
+        "apg": 7.9,
+        "teams": [
+          {
+            "team": "Atlanta Hawks",
+            "seasons": [
+              "2021-22",
+              "2022-23",
+              "2023-24",
+              "2024-25",
+              "2025-26"
+            ]
+          }
+        ],
+        "highlights": [
+          "2026 NBA All-Star",
+          "5-year $150M extension (Oct 2024)",
+          "Hawks franchise record: most triple-doubles in a season (8+)",
+          "31-18-14-7 game vs Utah Jazz (Nov 2025)",
+          "Career-high 43 pts vs Charlotte (Dec 2025)",
+          "Fastest triple-double in Hawks history vs Denver"
+        ],
+        "lastSeason": "2025-26",
+        "undrafted": false,
+        "overseas": "",
+        "coaching": "",
+        "postCareer": "Active — Atlanta Hawks starter; Jalen Johnson Foundation (youth mentorship)"
+      },
+      "sources": [
+        {
+          "title": "Jalen Johnson — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jalen_Johnson"
+        },
+        {
+          "title": "Jalen Johnson College Stats — Sports Reference",
+          "url": "https://www.sports-reference.com/cbb/players/jalen-johnson-24.html"
+        },
+        {
+          "title": "Jalen Johnson — Basketball Reference",
+          "url": "https://www.basketball-reference.com/players/j/johnsja05.html"
+        },
+        {
+          "title": "Jalen Johnson — GoDuke Official Bio",
+          "url": "https://goduke.com/sports/mens-basketball/roster/jalen-johnson/16343"
+        },
+        {
+          "title": "Jalen Johnson 2025-26 Stats — ESPN",
+          "url": "https://www.espn.com/nba/player/gamelog/_/id/4701230/jalen-johnson"
+        },
+        {
+          "title": "Hawks Sign Johnson to $150M Extension — NBA.com",
+          "url": "https://www.nba.com/news/hawks-jalen-johnson-extension"
+        },
+        {
+          "title": "Duke NBA Draft Preview: Jalen Johnson — Duke Basketball Report",
+          "url": "https://www.dukebasketballreport.com/2021/7/27/22593755/duke-nba-draft-preview-jalen-johnson-blue-devils-basketball"
+        },
+        {
+          "title": "Nicolet to NBA Star — North Shore Family Adventures",
+          "url": "https://www.northshorefamilyadventures.com/sports-guides/jalen-johnson-nicolet"
+        }
+      ],
       "jersey": "1",
-      "hometown": "Milwaukee, WI",
-      "highSchool": "Nicolet HS",
+      "hometown": "Sun Prairie, WI",
+      "highSchool": "Nicolet High School",
       "rsci": "11",
       "weight": "220"
     },
@@ -12774,24 +13092,79 @@
       "pos": "Forward",
       "years": "2022–24",
       "classOf": "",
-      "height": "",
-      "tagline": "",
-      "status": "stub",
-      "now": "",
+      "height": "6'9\"",
+      "tagline": "Scheyer’s first signature recruit. McDonald’s All-American. ACC Tournament champion. A story still being written.",
+      "status": "done",
+      "now": "Senior forward, Missouri Tigers; 2026 NBA Draft prospect",
       "drafted": "",
-      "stat": "",
-      "bio": {},
+      "stat": "68 games at Duke (10.3 ppg, 67 starts); All-SEC at Missouri (13.9 ppg); 2023 ACC Tourney champ",
+      "bio": {
+        "road": "Mark Mitchell Jr. grew up in Kansas City, Kansas. He attended Bishop Miege High School, where he averaged 21.6 points, 8.7 rebounds, 2.7 assists, and 1.8 blocks as a sophomore and won the Kansas Class 4A state championship. He transferred to Sunrise Christian Academy for his senior year, averaging 17.6 points and 6.3 rebounds and tying for the leading scorer at the 2022 McDonald’s All-American Game with 19 points.\n\nMitchell committed to Duke on December 10, 2021, choosing the Blue Devils over UCLA and Missouri. When he made his announcement, he said: “I’m joining the Brotherhood.” It was one of Jon Scheyer’s first major recruiting wins. Mitchell was the fifth ESPN 100 recruit in Duke’s 2022 class — the consensus #1 class in the country before Scheyer had coached his first game.\n\nHe arrived alongside Dereck Lively II, Dariq Whitehead, Kyle Filipowski, and Tyrese Proctor. It was the most scrutinized freshman class in Duke history — the first without Coach K — and Mitchell was the steady, physical presence that held it together.",
+        "duke": "Mitchell exceeded expectations as a freshman. Scheyer used him as a combo forward, and he shot 35% from three while finishing at the rim at 68%. He started 32 of 33 games, averaging 8.7 points and 4.9 rebounds. Duke’s opponents shot under 45% with Mitchell on the court and over 48% without him.\n\nThe signature moment came in March 2023: Duke won the ACC Tournament, beating Pittsburgh, Miami, and Virginia. It was Scheyer’s first ACC Tournament title and the first for a first-year Duke coach since 1964. Mitchell was the defensive anchor throughout.\n\nAs a sophomore in 2023-24, his interior game exploded — 79% at the rim. He averaged 11.8 points and 5.4 rebounds, starting all 35 games. Duke reached the Elite Eight before falling to NC State. Over two seasons: 67 of 68 starts, 700 points, 54 wins, one ACC Tournament title, two NCAA Tournament bids.",
+        "after": "In April 2024, Mitchell entered the transfer portal, chasing the offensive role he needed for NBA scouts. Missouri won the recruitment, reuniting him with childhood friend Tamar Bates. He averaged 13.9 points and 4.7 rebounds in 2024-25, shooting 50.5% and earning All-SEC Second Team honors — just the third Tiger to earn All-SEC honors in his first season on campus. He scored 25 against Oklahoma to reach 1,000 career points and dropped 21 on #4 Alabama.\n\nHe returned to Missouri for 2025-26 and is projected as a second-round pick in the 2026 NBA Draft.",
+        "now": "Mark Mitchell is 22 years old and in his fourth college season at Missouri, a 2026 NBA Draft prospect playing in the SEC. His career spans two blue-blood programs, an ACC Tournament championship, an Elite Eight, and an All-SEC selection.\n\nHis Brotherhood story is one of transition. He was Scheyer’s first signature recruit — the McDonald’s All-American who said “I’m joining the Brotherhood” on national television. He delivered two years of steady, winning basketball at Duke, then bet on himself with a transfer. The parallel to Semi Ojeleye — another Kansas kid, another Duke forward who needed a different stage — is striking.\n\nWhether Mitchell hears his name on draft night in 2026 or finds his path another way, his Duke chapter is already written. He was there for the first ACC Tournament title of the Scheyer era. He started 67 games. And he was the first recruit to say yes to a program reinventing itself without the greatest coach in college basketball history."
+      },
       "seasons": [
         "2022-23",
         "2023-24"
       ],
-      "nba": null,
-      "sources": [],
-      "jersey": "25",
+      "nba": {
+        "draftYear": null,
+        "draftRound": null,
+        "draftPick": null,
+        "draftTeam": null,
+        "careerYears": null,
+        "games": 0,
+        "ppg": 0,
+        "rpg": 0,
+        "apg": 0,
+        "teams": [],
+        "highlights": [],
+        "lastSeason": null,
+        "undrafted": false,
+        "overseas": "",
+        "coaching": "",
+        "postCareer": "Active college player — Missouri (2024-26); projected 2026 NBA Draft prospect"
+      },
+      "sources": [
+        {
+          "title": "Mark Mitchell — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mark_Mitchell_(basketball)"
+        },
+        {
+          "title": "Mark Mitchell College Stats — Sports Reference",
+          "url": "https://www.sports-reference.com/cbb/players/mark-mitchell-4.html"
+        },
+        {
+          "title": "Mark Mitchell — Missouri Tigers Bio",
+          "url": "https://mutigers.com/sports/mens-basketball/roster/mark-mitchell/29843"
+        },
+        {
+          "title": "Missouri Signs Top-10 Transfer Mark Mitchell",
+          "url": "https://mutigers.com/news/2024/4/29/mens-basketball-mens-basketball-signs-top-10-transfer-mark-mitchell"
+        },
+        {
+          "title": "Duke Lands Mark Mitchell — ESPN",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/32839237/duke-blue-devils-land-mark-mitchell-make-case-no-1-men-basketball-recruiting-class"
+        },
+        {
+          "title": "Mark Mitchell Makes His Decision — Duke Basketball Report",
+          "url": "https://www.dukebasketballreport.com/2021/12/10/22827437/duke-recruiting-mark-mitchell-brotherhood-jon-scheyer-derek-lively-dariq-whitehead-jaden-schutt-acc"
+        },
+        {
+          "title": "Making the Case for Mitchell in the 2026 Draft — SI Missouri",
+          "url": "https://www.si.com/college/missouri/basketball/making-the-case-for-mark-mitchell-in-the-2026-nba-draft"
+        },
+        {
+          "title": "Mark Mitchell 2026 Draft Profile — Tankathon",
+          "url": "https://www.tankathon.com/players/mark-mitchell"
+        }
+      ],
+      "jersey": "13",
       "hometown": "Kansas City, KS",
-      "highSchool": "Sunrise Christian",
-      "rsci": "22",
-      "weight": "220"
+      "highSchool": "Bishop Miege HS / Sunrise Christian Academy",
+      "rsci": "28",
+      "weight": "230"
     },
     {
       "id": "tyrese_proctor",
