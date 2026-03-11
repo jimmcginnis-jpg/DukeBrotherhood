@@ -13471,27 +13471,90 @@
       "era": "scheyer",
       "name": "Caleb Foster",
       "pos": "Guard",
-      "years": "2023–26",
+      "years": "2023–present",
       "classOf": "",
-      "height": "",
-      "tagline": "",
-      "status": "stub",
-      "now": "",
+      "height": "6'5\"",
+      "tagline": "Three high schools. Two broken feet. One unwavering commitment to Duke. The quiet kid from Harrisburg who became the Brotherhood’s elder statesman at 20.",
+      "status": "done",
+      "now": "Active — Junior guard, #1 Duke Blue Devils (recovering from right foot surgery, Mar 2026)",
       "drafted": "",
-      "stat": "",
-      "bio": {},
+      "stat": "96 career games (6.8 ppg, 38.5% 3PT); 2025-26: 8.5 ppg, 40.2% 3PT; 2x All-ACC Academic",
+      "bio": {
+        "road": "Caleb Foster grew up in Harrisburg, North Carolina, the son of Michael Foster, a state trooper who later retired to follow Caleb’s basketball journey. He attended Hickory Ridge High School before transferring to Oak Hill Academy, where legendary coach Steve Smith called him the best point guard nationally in the 2023 class. When Smith retired, Foster transferred again to Notre Dame High School in Sherman Oaks, California, where he earned MaxPreps California Player of the Year honors (21.4 ppg, 6.8 rpg, 3.9 apg). On the Nike EYBL circuit he averaged 28.3 points per game at the Kansas City session and 25.2 at the Peach Jam.\n\nFoster committed to Duke on September 16, 2021 as a sophomore, before arriving at Oak Hill. He was the first player in the 2023 class to commit to Jon Scheyer. He chose Duke over Auburn, Louisville, Tennessee, Virginia, Clemson, and others, and never wavered despite attending three high schools in three states.",
+        "duke": "Foster burst onto the scene as a freshman with 18 points (four threes) against Michigan State in the Champions Classic. He averaged 7.7 points over 27 games before a stress fracture in his right ankle ended his season in February 2024, forcing him to miss the ACC and NCAA Tournaments. Duke reached the Elite Eight without him.\n\nHis sophomore year (2024-25) was a test of character. He was moved to the bench in December when Sion James joined the starting lineup, and his minutes fluctuated as Duke built around Cooper Flagg and Kon Knueppel. But he refused to transfer or complain, contributing key minutes in Duke’s Elite Eight run. Scheyer praised his resilience.\n\nAs a junior in 2025-26, Foster became the connective tissue of the #1 team in America. He started 30 of 31 games, averaged career-bests across the board (8.5 ppg, 3.6 rpg, 2.8 apg, 40.2% 3PT), and posted 25 assists to 2 turnovers in Duke’s last six regular season games. He scored a career-high 20 at Louisville. He hosted The Brotherhood Podcast, helping ten freshmen bond into a team. Duke went 29-2 and won the ACC at 17-1.",
+        "after": "Foster’s story is still being written. He has not yet played a full March at Duke. A freshman ankle fracture took 2024. A reduced sophomore role limited his 2025 impact. On March 8, 2026, defending Seth Trimble in the regular season finale against UNC, Foster stepped on Trimble’s foot and fractured his right foot. He had surgery March 9 and is out indefinitely — Scheyer indicated a Final Four return is the earliest realistic possibility.\n\nWhether he plays again this season is uncertain. What is certain: Foster is the longest-tenured commitment in the Scheyer era, a three-year player in a one-and-done world, a two-time All-ACC Academic selection, and the quiet leader who held together a roster of freshmen and made them into the #1 team in America.",
+        "now": "Caleb Foster is 20 years old, recovering from right foot surgery performed March 9, 2026. He is racing the calendar toward a possible late-March or early-April return. Duke is the #1 overall seed and favorite to win the national championship. His father Michael sits beside him. His teammates are fighting to keep the season alive long enough for him to rejoin them.\n\nThe Brotherhood Podcast host. The first commitment of the Scheyer era. The kid from Harrisburg who dreamed of winning a national championship at Duke. March keeps trying to take that dream from him. He keeps fighting to get it back.\n\n[Profile current as of March 11, 2026]"
+      },
       "seasons": [
         "2023-24",
         "2024-25",
         "2025-26"
       ],
-      "nba": null,
-      "sources": [],
+      "nba": {
+        "draftYear": null,
+        "draftRound": null,
+        "draftPick": null,
+        "draftTeam": null,
+        "careerYears": null,
+        "games": 0,
+        "ppg": 0,
+        "rpg": 0,
+        "apg": 0,
+        "teams": [],
+        "highlights": [],
+        "lastSeason": null,
+        "undrafted": false,
+        "overseas": "",
+        "coaching": "",
+        "postCareer": "Active college player — Duke (2023-present); junior guard on #1-ranked Blue Devils"
+      },
+      "sources": [
+        {
+          "title": "Caleb Foster — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Caleb_Foster"
+        },
+        {
+          "title": "Caleb Foster — GoDuke Official Bio",
+          "url": "https://goduke.com/sports/mens-basketball/roster/caleb-foster/23105"
+        },
+        {
+          "title": "Caleb Foster College Stats — Sports Reference",
+          "url": "https://www.sports-reference.com/cbb/players/caleb-foster-2.html"
+        },
+        {
+          "title": "Foster Injury: Out Indefinitely — ESPN",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/48162553/duke-caleb-foster-indefinitely-foot-fracture"
+        },
+        {
+          "title": "Foster Fracture Update — WRAL",
+          "url": "https://www.wral.com/sports/duke-mens-basketball-caleb-foster-patrick-ngongba-injury-update-march-2026/"
+        },
+        {
+          "title": "Foster Injury Impact — CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/caleb-foster-injury-duke-2026-ncaa-tournament-march-madness/"
+        },
+        {
+          "title": "Old Guard, New Era: Foster Growth — Duke Chronicle",
+          "url": "https://www.dukechronicle.com/article/2024/10/duke-mens-basketball-caleb-foster-growth-proctor-scheyer-injury-flagg-knueppel-maluach"
+        },
+        {
+          "title": "2024-25 Player Review: Foster — Duke Chronicle",
+          "url": "https://dukechronicle.com/article/duke-mens-basketball-player-review-caleb-foster-ncaa-jon-scheyer-sion-james-elite-eight-march-madness-20250416"
+        },
+        {
+          "title": "Foster Transfer from Oak Hill — 247Sports",
+          "url": "https://247sports.com/college/duke/article/five-star-duke-pg-commit-caleb-foster-will-transfer-from-oak-hill-academy--187977561/"
+        },
+        {
+          "title": "Foster Recruiting Profile — 247Sports",
+          "url": "https://247sports.com/player/caleb-foster-46103042/"
+        }
+      ],
       "jersey": "1",
-      "hometown": "Sherman Oaks, CA",
-      "highSchool": "Oak Hill Academy / Notre Dame HS",
+      "hometown": "Harrisburg, NC",
+      "highSchool": "Hickory Ridge HS / Oak Hill Academy / Notre Dame HS (CA)",
       "rsci": "17",
-      "weight": "197"
+      "weight": "205"
     },
     {
       "id": "sean_stewart",
