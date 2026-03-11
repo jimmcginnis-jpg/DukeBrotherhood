@@ -14,6 +14,7 @@ const profiledPlayers = playerData.players
 // Also match common short names / last names for very famous players
 // Only add these if they won't cause false positives
 const ALIASES = {
+  // Last-name-only aliases (only for unique, famous players)
   'Dawkins': 'johnny-dawkins',
   'Laettner': 'christian-laettner',
   'Hurley': 'bobby-hurley',
@@ -24,12 +25,24 @@ const ALIASES = {
   'Bilas': 'jay-bilas',
   'Alarie': 'mark-alarie',
   'Ferry': 'danny-ferry',
-  'Henderson': 'david-henderson',
   'Billy King': 'billy-king',
   'Brickey': 'robert-brickey',
   'Nessley': 'marty-nessley',
   'Cooper Flagg': 'cooper-flagg',
   'Scheyer': 'jon-scheyer',
+  'Snyder': 'quin-snyder',
+  'Duhon': 'chris-duhon',
+  'Abdelnaby': 'alaa-abdelnaby',
+  'Boozer': 'carlos-boozer',
+  'Maggette': 'corey-maggette',
+  'Carrawell': 'chris-carrawell',
+
+  // Alternate full names (Jr./III/periods/nicknames)
+  'Jason Williams': 'jay-williams',
+  'Mike Dunleavy': 'mike-dunleavy-jr',
+  'J.J. Redick': 'jj-redick',
+  'Wendell Carter': 'wendell-carter-jr',
+  'Marvin Bagley': 'marvin-bagley-iii',
 };
 
 export default function LinkedText({ text, className }) {
