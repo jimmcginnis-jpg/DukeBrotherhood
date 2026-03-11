@@ -56,6 +56,25 @@ export default function Layout({ children, title, description, canonical }) {
         <meta name="twitter:description" content={fullDescription} />
 
         <link rel="icon" href="/favicon.ico" />
+
+        {/* Site-wide Structured Data */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebSite',
+              name: "Duke's Brotherhood: Where Are They Now?",
+              url: 'https://dukebrotherhood.com/',
+              description: "Comprehensive profiles of every significant Duke basketball player from 1981 to present — where they came from, what made them special, and where they are now.",
+              potentialAction: {
+                '@type': 'SearchAction',
+                target: 'https://dukebrotherhood.com/search?q={search_term_string}',
+                'query-input': 'required name=search_term_string',
+              },
+            }),
+          }}
+        />
       </Head>
 
       {/* HEADER */}
