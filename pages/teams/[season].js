@@ -512,6 +512,37 @@ export default function SeasonPage({ team, roster }) {
           ) : <div />}
         </div>
       </section>
+
+      {/* Structured Data for SEO */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'SportsTeam',
+            name: `${team.season} Duke Blue Devils Men\u2019s Basketball`,
+            sport: 'Basketball',
+            coach: { '@type': 'Person', name: team.coach },
+            memberOf: { '@type': 'SportsOrganization', name: 'Atlantic Coast Conference' },
+            url: `https://dukebrotherhood.com/teams/${team.season}/`,
+            description: team.tagline,
+          }),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://dukebrotherhood.com/' },
+              { '@type': 'ListItem', position: 2, name: 'Teams', item: 'https://dukebrotherhood.com/teams/' },
+              { '@type': 'ListItem', position: 3, name: team.season, item: `https://dukebrotherhood.com/teams/${team.season}/` },
+            ],
+          }),
+        }}
+      />
     </Layout>
   );
 }
