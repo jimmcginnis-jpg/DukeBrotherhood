@@ -318,7 +318,6 @@ export default function PlayerPage({ player, era, prevPlayer, nextPlayer }) {
               name: 'Duke University',
               sameAs: 'https://en.wikipedia.org/wiki/Duke_University',
             },
-            sport: 'Basketball',
             ...(player.now && { jobTitle: player.now }),
             ...(player.nba && player.nba.teams && player.nba.teams.length > 0 && {
               memberOf: player.nba.teams.map(t => ({
