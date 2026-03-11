@@ -311,11 +311,50 @@ export default function PlayerPage({ player, era, prevPlayer, nextPlayer }) {
             name: player.name,
             description: seoDescription,
             url: `https://dukebrotherhood.com/players/${player.slug}/`,
+            ...(player.hometown && { birthPlace: { '@type': 'Place', name: player.hometown } }),
+            ...(player.height && { height: player.height }),
             alumniOf: {
               '@type': 'CollegeOrUniversity',
               name: 'Duke University',
+              sameAs: 'https://en.wikipedia.org/wiki/Duke_University',
             },
             sport: 'Basketball',
+            ...(player.now && { jobTitle: player.now }),
+            ...(player.nba && player.nba.teams && player.nba.teams.length > 0 && {
+              memberOf: player.nba.teams.map(t => ({
+                '@type': 'SportsTeam',
+                name: t.team,
+                sport: 'Basketball',
+                memberOf: { '@type': 'SportsOrganization', name: 'NBA' },
+              })),
+            }),
+            ...(player.nba && player.nba.highlights && player.nba.highlights.length > 0 && {
+              award: player.nba.highlights
+                .map(h => typeof h === 'string' ? h : h.note || '')
+                .filter(Boolean)
+                .slice(0, 5),
+            }),
+            ...(player.sources && player.sources.length > 0 && {
+              sameAs: player.sources
+                .filter(s => s.url && (s.url.includes('wikipedia') || s.url.includes('basketball-reference') || s.url.includes('goduke.com')))
+                .map(s => s.url),
+            }),
+          }),
+        }}
+      />
+      {/* Breadcrumb Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://dukebrotherhood.com/' },
+              { '@type': 'ListItem', position: 2, name: 'Players', item: 'https://dukebrotherhood.com/players/' },
+              { '@type': 'ListItem', position: 3, name: era?.name || player.era, item: `https://dukebrotherhood.com/eras/${player.era}/` },
+              { '@type': 'ListItem', position: 4, name: player.name, item: `https://dukebrotherhood.com/players/${player.slug}/` },
+            ],
           }),
         }}
       />
