@@ -18,6 +18,7 @@ const TABS = [
   { key: 'players', label: 'Players' },
   { key: 'season', label: 'Season' },
   { key: 'gthc', label: 'GTHC' },
+  { key: 'thegame', label: 'The Game' },
   { key: 'march', label: 'March' },
 ];
 
@@ -235,6 +236,91 @@ function GthcTab({ games }) {
   );
 }
 
+// ============ TAB: THE GAME ============
+function TheGameTab({ game }) {
+  if (!game) {
+    return (
+      <div className="text-center py-12">
+        <p className="font-display text-xl text-gray-400">The Game — coming soon</p>
+      </div>
+    );
+  }
+
+  const isWin = game.result === 'W';
+
+  return (
+    <div>
+      {/* Hero card */}
+      <div
+        className="rounded-lg overflow-hidden mb-8"
+        style={{ background: isWin ? '#001A57' : '#2d1a1a' }}
+      >
+        <div className="p-6 md:p-8">
+          <div className="font-mono text-xs uppercase tracking-wider mb-3" style={{ color: isWin ? '#C5A258' : '#cc8888' }}>
+            {formatDate(game.date)} &bull; {game.location}
+          </div>
+          <h2 className="font-display text-2xl md:text-3xl font-bold text-white mb-2">
+            {game.title}
+          </h2>
+          <div className="flex items-center gap-4 mb-4">
+            <span className={`font-mono text-xl font-bold ${isWin ? 'text-green-400' : 'text-red-400'}`}>
+              Duke {game.score}
+            </span>
+            <span className="font-mono text-sm text-white/50">
+              vs {game.opponent}
+            </span>
+            {game.dukeRank && (
+              <span className="font-mono text-xs text-white/40">#{game.dukeRank} Duke</span>
+            )}
+            {game.opponentRank && (
+              <span className="font-mono text-xs text-white/40">#{game.opponentRank} {game.opponent}</span>
+            )}
+          </div>
+          {game.headline && (
+            <p className="font-body text-lg italic" style={{ color: isWin ? '#C5A258' : '#cc8888' }}>
+              {game.headline}
+            </p>
+          )}
+        </div>
+      </div>
+
+      {/* The story */}
+      <div className="prose max-w-none">
+        {game.story.split('\n').map((para, i) => (
+          <p key={i} className="font-body text-gray-700 leading-relaxed mb-4">
+            <LinkedText text={para} />
+          </p>
+        ))}
+      </div>
+
+      {/* Key performances */}
+      {game.performances && game.performances.length > 0 && (
+        <div className="mt-8">
+          <h3 className="font-mono text-xs text-gray-500 uppercase tracking-wider mb-4">Key Performances</h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            {game.performances.map((perf, i) => (
+              <div key={i} className="p-4 rounded-lg border border-gray-200 bg-white">
+                <div className="font-display text-duke-navy font-semibold">{perf.player}</div>
+                <div className="font-mono text-sm text-duke-gold">{perf.line}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Why this game */}
+      {game.significance && (
+        <div className="mt-8 p-5 rounded-lg border-l-4 border-l-duke-gold bg-amber-50">
+          <h3 className="font-mono text-xs text-duke-gold uppercase tracking-wider mb-2">Why This Game Matters</h3>
+          <p className="font-body text-gray-700 leading-relaxed">
+            <LinkedText text={game.significance} />
+          </p>
+        </div>
+      )}
+    </div>
+  );
+}
+
 // ============ TAB: MARCH ============
 function MarchTab({ march, accTournament, ncaaTournament }) {
   if (!march) {
@@ -382,8 +468,34 @@ export default function SeasonPage({ team, roster }) {
         {activeTab === 'players' && <PlayersTab roster={roster} season={team.season} />}
         {activeTab === 'season' && <SeasonTab team={team} />}
         {activeTab === 'gthc' && <GthcTab games={team.unc} />}
+        {activeTab === 'thegame' && <TheGameTab game={team.theGame} />}
         {activeTab === 'march' && <MarchTab march={team.march} accTournament={team.accTournament} ncaaTournament={team.ncaaTournament} />}
       </section>
+
+      {/* Sources */}
+      {team.sources && team.sources.length > 0 && (
+        <section className="max-w-4xl mx-auto px-4 pb-8">
+          <details className="group">
+            <summary className="font-mono text-xs text-gray-400 uppercase tracking-wider cursor-pointer hover:text-duke-gold transition-colors">
+              Sources ({team.sources.length})
+            </summary>
+            <ul className="mt-3 space-y-1">
+              {team.sources.map((src, i) => (
+                <li key={i}>
+                  <a
+                    href={src.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-body text-sm text-duke-gold hover:text-duke-navy transition-colors"
+                  >
+                    {src.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </details>
+        </section>
+      )}
 
       {/* Prev / Next navigation */}
       <section className="max-w-4xl mx-auto px-4 pb-12">
