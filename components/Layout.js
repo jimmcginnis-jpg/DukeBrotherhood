@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import data from '../data/players.json';
 import SearchOverlay from './SearchOverlay';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export default function Layout({ children, title, description, canonical }) {
   const router = useRouter();
@@ -240,6 +241,9 @@ export default function Layout({ children, title, description, canonical }) {
 
       {/* Search Overlay */}
       <SearchOverlay isOpen={searchOpen} onClose={() => setSearchOpen(false)} />
+
+      {/* Vercel Speed Insights */}
+      <SpeedInsights />
     </>
   );
 }
