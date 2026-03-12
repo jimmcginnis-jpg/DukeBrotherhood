@@ -193,12 +193,12 @@ export default function Layout({ children, title, description, canonical }) {
               <h3 className="font-display text-duke-gold text-lg mb-3">Eras</h3>
               <div className="space-y-1 text-sm">
                 <Link href="/eras/foundation/" className="block hover:text-duke-gold transition-colors">I. Foundation (1981–85)</Link>
-                <Link href="/eras/dynasty1/" className="block hover:text-duke-gold transition-colors">II. First Dynasty (1986–94)</Link>
-                <Link href="/eras/transition/" className="block hover:text-duke-gold transition-colors">III. Transition (1995–98)</Link>
-                <Link href="/eras/dynasty2/" className="block hover:text-duke-gold transition-colors">IV. Second Dynasty (1999–04)</Link>
-                <Link href="/eras/between/" className="block hover:text-duke-gold transition-colors">V. In Between (2005–09)</Link>
-                <Link href="/eras/resurgence/" className="block hover:text-duke-gold transition-colors">VI. Resurgence (2010–15)</Link>
-                <Link href="/eras/superteam/" className="block hover:text-duke-gold transition-colors">VII. Superteam Era (2016–22)</Link>
+                <Link href="/eras/dynasty1/" className="block hover:text-duke-gold transition-colors">II. First Dynasty (1985–94)</Link>
+                <Link href="/eras/transition/" className="block hover:text-duke-gold transition-colors">III. Transition (1994–98)</Link>
+                <Link href="/eras/dynasty2/" className="block hover:text-duke-gold transition-colors">IV. Second Dynasty (1998–04)</Link>
+                <Link href="/eras/between/" className="block hover:text-duke-gold transition-colors">V. In Between (2004–09)</Link>
+                <Link href="/eras/resurgence/" className="block hover:text-duke-gold transition-colors">VI. Resurgence (2009–15)</Link>
+                <Link href="/eras/superteam/" className="block hover:text-duke-gold transition-colors">VII. Superteam Era (2015–22)</Link>
                 <Link href="/eras/scheyer/" className="block hover:text-duke-gold transition-colors">VIII. The Scheyer Era (2022–)</Link>
               </div>
             </div>
