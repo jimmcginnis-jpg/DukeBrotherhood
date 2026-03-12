@@ -1,7 +1,11 @@
 import Link from 'next/link';
 import Layout from '../components/Layout';
+import data from '../data/players.json';
 
 export default function Methodology() {
+  const totalPlayers = data.players.length;
+  const totalProfiled = data.players.filter(p => p.status === 'done').length;
+
   return (
     <Layout
       title="Sources & Methodology"
@@ -143,7 +147,7 @@ export default function Methodology() {
 
           <h2 className="font-display text-2xl text-duke-navy mt-8 mb-3">A Note on Completeness</h2>
           <p>
-            This is a living project. As of March 2026, we have completed {63} of {85} profiles
+            This is a living project. As of March 2026, we have completed {totalProfiled} of {totalPlayers} profiles
             across eight eras of Duke basketball. New profiles are added regularly, and existing
             profiles are updated as players&rsquo; careers and lives evolve. The &ldquo;Where Is
             He Now&rdquo; section of each profile reflects the most recent information available
