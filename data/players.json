@@ -124,7 +124,8 @@
       "jersey": "12",
       "highSchool": "Coronado HS",
       "rsci": "",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "engelland",
@@ -203,7 +204,8 @@
       "jersey": "14",
       "highSchool": "Palisades HS",
       "rsci": "",
-      "weight": "175"
+      "weight": "175",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "dawkins",
@@ -304,7 +306,8 @@
       "jersey": "24",
       "highSchool": "Mackin Catholic HS",
       "rsci": "",
-      "weight": "170"
+      "weight": "170",
+      "lastUpdated": "2026-02-27"
     },
     {
       "id": "alarie",
@@ -392,7 +395,8 @@
       "jersey": "32",
       "highSchool": "Brophy Prep",
       "rsci": "",
-      "weight": "220"
+      "weight": "220",
+      "lastUpdated": "2026-02-27"
     },
     {
       "id": "bilas",
@@ -473,7 +477,8 @@
       "jersey": "21",
       "highSchool": "Rolling Hills HS",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "lastUpdated": "2026-02-27"
     },
     {
       "id": "henderson_d",
@@ -545,7 +550,8 @@
       "jersey": "12",
       "highSchool": "Warren County HS",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-02-27"
     },
     {
       "id": "amaker",
@@ -634,7 +640,8 @@
       "jersey": "4",
       "highSchool": "W.T. Woodson HS",
       "rsci": "",
-      "weight": "155"
+      "weight": "155",
+      "lastUpdated": "2026-02-27"
     },
     {
       "id": "nessley",
@@ -706,7 +713,8 @@
       "jersey": "51",
       "highSchool": "Whitehall-Yearling HS",
       "rsci": "",
-      "weight": "260"
+      "weight": "260",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "king",
@@ -778,7 +786,8 @@
       "jersey": "55",
       "highSchool": "Sterling Park / Park View HS",
       "rsci": "",
-      "weight": "205"
+      "weight": "205",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "smith",
@@ -850,7 +859,8 @@
       "jersey": "33",
       "highSchool": "Friendly HS",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "tom_emma",
@@ -959,7 +969,8 @@
       "jersey": "45",
       "highSchool": "",
       "rsci": "",
-      "weight": "215"
+      "weight": "215",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "richard_ford",
@@ -1606,7 +1617,8 @@
       "jersey": "35",
       "highSchool": "DeMatha Catholic HS",
       "rsci": "",
-      "weight": "230"
+      "weight": "230",
+      "lastUpdated": "2026-02-26"
     },
     {
       "id": "snyder",
@@ -1695,7 +1707,8 @@
       "jersey": "14",
       "highSchool": "Mercer Island HS",
       "rsci": "",
-      "weight": "180"
+      "weight": "180",
+      "lastUpdated": "2026-02-26"
     },
     {
       "id": "abdelnaby",
@@ -1799,7 +1812,8 @@
       "jersey": "30",
       "highSchool": "Bloomfield HS",
       "rsci": "",
-      "weight": "240"
+      "weight": "240",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "henderson_p",
@@ -1878,7 +1892,8 @@
       "jersey": "3",
       "highSchool": "Crete-Monee HS",
       "rsci": "",
-      "weight": "180"
+      "weight": "180",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "brickey",
@@ -2034,7 +2049,8 @@
       "jersey": "21",
       "highSchool": "E.E. Smith HS",
       "rsci": "",
-      "weight": "210"
+      "weight": "210",
+      "lastUpdated": "2026-02-26"
     },
     {
       "id": "laettner",
@@ -2159,7 +2175,8 @@
       "jersey": "32",
       "highSchool": "Nichols School",
       "rsci": "",
-      "weight": "235"
+      "weight": "235",
+      "lastUpdated": "2026-02-28"
     },
     {
       "id": "davis_b",
@@ -2244,7 +2261,8 @@
       "jersey": "23",
       "highSchool": "Bladensburg HS",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-02-25"
     },
     {
       "id": "hurley",
@@ -2348,7 +2366,8 @@
       "jersey": "11",
       "highSchool": "St. Anthony HS",
       "rsci": "",
-      "weight": "165"
+      "weight": "165",
+      "lastUpdated": "2026-02-28"
     },
     {
       "id": "hill_t",
@@ -2434,7 +2453,8 @@
       "jersey": "25",
       "highSchool": "Lancaster HS",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "lastUpdated": "2026-03-11"
     },
     {
       "id": "mccaffrey",
@@ -2546,7 +2566,8 @@
       "jersey": "5",
       "highSchool": "Allentown Central Catholic",
       "rsci": "",
-      "weight": "175"
+      "weight": "175",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "hill",
@@ -2675,7 +2696,8 @@
       "jersey": "33",
       "highSchool": "South Lakes HS",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "lastUpdated": "2026-02-28"
     },
     {
       "id": "lang",
@@ -2773,7 +2795,8 @@
       "jersey": "21",
       "highSchool": "LeFlore HS",
       "rsci": "",
-      "weight": "205"
+      "weight": "205",
+      "lastUpdated": "2026-02-25"
     },
     {
       "id": "blakeney",
@@ -2907,7 +2930,8 @@
       "jersey": "24",
       "highSchool": "Landon School",
       "rsci": "",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "parks",
@@ -3006,7 +3030,8 @@
       "jersey": "34",
       "highSchool": "Huntington Beach HS",
       "rsci": "",
-      "weight": "245"
+      "weight": "245",
+      "lastUpdated": "2026-02-25"
     },
     {
       "id": "collins_c",
@@ -3110,7 +3135,8 @@
       "jersey": "1",
       "highSchool": "Glenbrook North HS",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "jon_goodman",
@@ -3607,7 +3633,8 @@
       "jersey": "12",
       "highSchool": "Fayetteville HS",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "lastUpdated": "2026-02-25"
     },
     {
       "id": "newton",
@@ -3717,7 +3744,8 @@
       "jersey": "41",
       "highSchool": "New Castle Chrysler HS",
       "rsci": "",
-      "weight": "240"
+      "weight": "240",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "wallace_c",
@@ -3793,7 +3821,8 @@
       "jersey": "12",
       "highSchool": "Capitol HS",
       "rsci": "",
-      "weight": "215"
+      "weight": "215",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "wojo",
@@ -3877,7 +3906,8 @@
       "jersey": "22",
       "highSchool": "Calvert Hall College HS",
       "rsci": "",
-      "weight": "170"
+      "weight": "170",
+      "lastUpdated": "2026-03-09"
     },
     {
       "id": "langdon",
@@ -3974,7 +4004,8 @@
       "jersey": "21",
       "highSchool": "East Anchorage HS",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-02-25"
     },
     {
       "id": "price",
@@ -4051,7 +4082,8 @@
       "jersey": "31",
       "highSchool": "Northeast HS",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "carrawell",
@@ -4137,7 +4169,8 @@
       "jersey": "23",
       "highSchool": "Cardinal Ritter HS",
       "rsci": "",
-      "weight": "210"
+      "weight": "210",
+      "lastUpdated": "2026-02-24"
     },
     {
       "id": "mcleod",
@@ -4259,7 +4292,8 @@
       "jersey": "20",
       "highSchool": "St. Anthony HS",
       "rsci": "",
-      "weight": "220"
+      "weight": "220",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "james_n",
@@ -4419,7 +4453,8 @@
       "jersey": "34",
       "highSchool": "Rainier Beach HS",
       "rsci": "",
-      "weight": "215"
+      "weight": "215",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "jay_heaps",
@@ -4793,7 +4828,8 @@
       "jersey": "31",
       "highSchool": "Country Day School",
       "rsci": "",
-      "weight": "220"
+      "weight": "220",
+      "lastUpdated": "2026-03-10"
     },
     {
       "id": "brand",
@@ -4921,7 +4957,8 @@
       "jersey": "42",
       "highSchool": "Peekskill HS",
       "rsci": "",
-      "weight": "260"
+      "weight": "260",
+      "lastUpdated": "2026-03-11"
     },
     {
       "id": "avery",
@@ -5039,7 +5076,8 @@
       "jersey": "5",
       "highSchool": "Oak Hill Academy",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-03-07"
     },
     {
       "id": "maggette",
@@ -5168,7 +5206,8 @@
       "jersey": "50",
       "highSchool": "Fenwick HS",
       "rsci": "16",
-      "weight": "225"
+      "weight": "225",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "jwilliams",
@@ -5261,7 +5300,8 @@
       "jersey": "22",
       "highSchool": "St. Joseph HS",
       "rsci": "3",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "boozer",
@@ -5385,7 +5425,8 @@
       "jersey": "4",
       "highSchool": "Juneau-Douglas HS",
       "rsci": "8",
-      "weight": "258"
+      "weight": "258",
+      "lastUpdated": "2026-02-24"
     },
     {
       "id": "dunleavy",
@@ -5512,7 +5553,8 @@
       "jersey": "34",
       "highSchool": "Jesuit HS",
       "rsci": "26",
-      "weight": "220"
+      "weight": "220",
+      "lastUpdated": "2026-02-24"
     },
     {
       "id": "duhon",
@@ -5629,7 +5671,8 @@
       "jersey": "21",
       "highSchool": "Salmen HS",
       "rsci": "6",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-24"
     },
     {
       "id": "jones_d",
@@ -5788,7 +5831,8 @@
       "jersey": "30",
       "highSchool": "Trenton Central HS",
       "rsci": "91",
-      "weight": "210"
+      "weight": "210",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "deng",
@@ -5927,7 +5971,8 @@
       "jersey": "9",
       "highSchool": "Blair Academy",
       "rsci": "2",
-      "weight": "220"
+      "weight": "220",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "casey_sanders",
@@ -6525,7 +6570,8 @@
       "jersey": "4",
       "highSchool": "Cave Spring HS",
       "rsci": "11",
-      "weight": "190"
+      "weight": "190",
+      "lastUpdated": "2026-02-28"
     },
     {
       "id": "swilliams",
@@ -6635,7 +6681,8 @@
       "jersey": "23",
       "highSchool": "Midwest City HS",
       "rsci": "8",
-      "weight": "250"
+      "weight": "250",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "nelson",
@@ -6769,7 +6816,8 @@
       "jersey": "21",
       "highSchool": "Elk Grove HS",
       "rsci": "18",
-      "weight": "200"
+      "weight": "200",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "mcroberts",
@@ -6881,7 +6929,8 @@
       "jersey": "2",
       "highSchool": "Carmel HS",
       "rsci": "1",
-      "weight": "240"
+      "weight": "240",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "paulus",
@@ -6983,7 +7032,8 @@
       "jersey": "3",
       "highSchool": "Christian Brothers Academy",
       "rsci": "13",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "ghenderson",
@@ -7087,7 +7137,8 @@
       "jersey": "15",
       "highSchool": "Merion Mercy Academy",
       "rsci": "10",
-      "weight": "215"
+      "weight": "215",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "scheyer",
@@ -7193,7 +7244,8 @@
       "jersey": "30",
       "highSchool": "Glenbrook North HS",
       "rsci": "28",
-      "weight": "190"
+      "weight": "190",
+      "lastUpdated": "2026-03-02"
     },
     {
       "id": "nsmith",
@@ -7311,7 +7363,8 @@
       "jersey": "2",
       "highSchool": "Oak Hill Academy",
       "rsci": "18",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "kirving",
@@ -7450,7 +7503,8 @@
       "jersey": "1",
       "highSchool": "St. Patrick HS",
       "rsci": "2",
-      "weight": "180"
+      "weight": "180",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "lee_melchionni",
@@ -8004,7 +8058,8 @@
       "jersey": "12",
       "highSchool": "South Medford HS",
       "rsci": "6",
-      "weight": "230"
+      "weight": "230",
+      "lastUpdated": "2026-03-02"
     },
     {
       "id": "miles_plumlee",
@@ -8131,7 +8186,8 @@
       "jersey": "21",
       "highSchool": "Christ School",
       "rsci": "81",
-      "weight": "245"
+      "weight": "245",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "mplumlee",
@@ -8276,7 +8332,8 @@
       "jersey": "5",
       "highSchool": "Christ School",
       "rsci": "18",
-      "weight": "235"
+      "weight": "235",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "scurry",
@@ -8348,7 +8405,8 @@
       "jersey": "30",
       "highSchool": "Charlotte Christian",
       "rsci": "",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "arivers",
@@ -8479,7 +8537,8 @@
       "jersey": "0",
       "highSchool": "Winter Park HS",
       "rsci": "2",
-      "weight": "200"
+      "weight": "200",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "cook",
@@ -8551,7 +8610,8 @@
       "jersey": "2",
       "highSchool": "Oak Hill Academy",
       "rsci": "31",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "marshall_p",
@@ -8652,7 +8712,8 @@
       "jersey": "40",
       "highSchool": "Christ School",
       "rsci": "61",
-      "weight": "255"
+      "weight": "255",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "parker_j",
@@ -8808,7 +8869,8 @@
       "jersey": "1",
       "highSchool": "Simeon Career Academy",
       "rsci": "3",
-      "weight": "235"
+      "weight": "235",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "hood",
@@ -8937,7 +8999,8 @@
       "jersey": "5",
       "highSchool": "Meridian HS",
       "rsci": "27",
-      "weight": "215"
+      "weight": "215",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "allen",
@@ -9060,7 +9123,8 @@
       "jersey": "3",
       "highSchool": "Providence School",
       "rsci": "24",
-      "weight": "195"
+      "weight": "195",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "okafor",
@@ -9167,7 +9231,8 @@
       "jersey": "15",
       "highSchool": "Whitney Young HS",
       "rsci": "1",
-      "weight": "270"
+      "weight": "270",
+      "lastUpdated": "2026-03-09"
     },
     {
       "id": "tjones",
@@ -9292,7 +9357,8 @@
       "jersey": "5",
       "highSchool": "Apple Valley HS",
       "rsci": "7",
-      "weight": "190"
+      "weight": "190",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "winslow",
@@ -9412,7 +9478,8 @@
       "jersey": "12",
       "highSchool": "St. John's School",
       "rsci": "13",
-      "weight": "225"
+      "weight": "225",
+      "lastUpdated": "2026-03-03"
     },
     {
       "id": "casey_peters",
@@ -9572,7 +9639,8 @@
       "hometown": "Raleigh, NC",
       "highSchool": "Ravenscroft School",
       "rsci": "14",
-      "weight": "230"
+      "weight": "230",
+      "lastUpdated": "2026-03-08"
     },
     {
       "id": "todd_zafirovski",
@@ -9909,7 +9977,8 @@
       "hometown": "Ottawa, KS",
       "highSchool": "Ottawa High School",
       "rsci": "32",
-      "weight": "235"
+      "weight": "235",
+      "lastUpdated": "2026-03-08"
     },
     {
       "id": "matt_jones",
@@ -10075,7 +10144,8 @@
       "jersey": "14",
       "highSchool": "Kinston HS",
       "rsci": "4",
-      "weight": "190"
+      "weight": "190",
+      "lastUpdated": "2026-03-04"
     },
     {
       "id": "kennard",
@@ -10199,7 +10269,8 @@
       "jersey": "5",
       "highSchool": "Franklin HS",
       "rsci": "21",
-      "weight": "180"
+      "weight": "180",
+      "lastUpdated": "2026-03-04"
     },
     {
       "id": "tatum",
@@ -10308,7 +10379,8 @@
       "jersey": "0",
       "highSchool": "Chaminade College Prep",
       "rsci": "3",
-      "weight": "205"
+      "weight": "205",
+      "lastUpdated": "2026-02-23"
     },
     {
       "id": "bagley",
@@ -10429,7 +10501,8 @@
       "jersey": "35",
       "highSchool": "Sierra Canyon School",
       "rsci": "1",
-      "weight": "234"
+      "weight": "234",
+      "lastUpdated": "2026-02-22"
     },
     {
       "id": "wcarter",
@@ -10535,7 +10608,8 @@
       "jersey": "34",
       "highSchool": "Pace Academy",
       "rsci": "7",
-      "weight": "259"
+      "weight": "259",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "zion",
@@ -10634,7 +10708,8 @@
       "jersey": "1",
       "highSchool": "Spartanburg Day School",
       "rsci": "4",
-      "weight": "285"
+      "weight": "285",
+      "lastUpdated": "2026-03-09"
     },
     {
       "id": "barrett",
@@ -10731,7 +10806,8 @@
       "jersey": "5",
       "highSchool": "Montverde Academy",
       "rsci": "1",
-      "weight": "202"
+      "weight": "202",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "trejones",
@@ -10831,7 +10907,8 @@
       "jersey": "3",
       "highSchool": "Apple Valley HS",
       "rsci": "13",
-      "weight": "185"
+      "weight": "185",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "reddish",
@@ -10957,7 +11034,8 @@
       "jersey": "2",
       "highSchool": "Westtown School",
       "rsci": "2",
-      "weight": "218"
+      "weight": "218",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "roach",
@@ -11029,7 +11107,8 @@
       "jersey": "3",
       "highSchool": "Paul VI HS",
       "rsci": "20",
-      "weight": "175"
+      "weight": "175",
+      "lastUpdated": "2026-03-09"
     },
     {
       "id": "banchero",
@@ -11125,7 +11204,8 @@
       "jersey": "5",
       "highSchool": "O'Dea HS",
       "rsci": "2",
-      "weight": "250"
+      "weight": "250",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "griffin_aj",
@@ -11222,7 +11302,8 @@
       "jersey": "21",
       "highSchool": "Archbishop Stepinac HS",
       "rsci": "18",
-      "weight": "222"
+      "weight": "222",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "sean_obi",
@@ -11642,7 +11723,8 @@
       "hometown": "Columbus, OH",
       "highSchool": "Apple Valley HS (MN); Prolific Prep (CA)",
       "rsci": "8",
-      "weight": "209"
+      "weight": "209",
+      "lastUpdated": "2026-03-08"
     },
     {
       "id": "trevon_duval",
@@ -12129,7 +12211,8 @@
       "hometown": "Sun Prairie, WI",
       "highSchool": "Nicolet High School",
       "rsci": "11",
-      "weight": "220"
+      "weight": "220",
+      "lastUpdated": "2026-03-07"
     },
     {
       "id": "mark_williams",
@@ -12297,7 +12380,8 @@
       "jersey": "55",
       "highSchool": "Harvard-Westlake School",
       "rsci": "",
-      "weight": "160"
+      "weight": "160",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "henry_coleman",
@@ -12463,7 +12547,8 @@
       "jersey": "30",
       "highSchool": "Wilbraham & Monson Academy",
       "rsci": "4",
-      "weight": "230"
+      "weight": "230",
+      "lastUpdated": "2026-03-05"
     },
     {
       "id": "lively",
@@ -12560,7 +12645,8 @@
       "jersey": "1",
       "highSchool": "Westtown School",
       "rsci": "2",
-      "weight": "230"
+      "weight": "230",
+      "lastUpdated": "2026-03-07"
     },
     {
       "id": "mccain",
@@ -12650,7 +12736,8 @@
       "jersey": "0",
       "highSchool": "Centennial HS",
       "rsci": "12",
-      "weight": "197"
+      "weight": "197",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "flagg",
@@ -12741,7 +12828,8 @@
       "jersey": "2",
       "highSchool": "Montverde Academy",
       "rsci": "1",
-      "weight": "205"
+      "weight": "205",
+      "lastUpdated": "2026-03-05"
     },
     {
       "id": "knueppel",
@@ -12821,7 +12909,8 @@
       "jersey": "7",
       "highSchool": "Wisconsin Lutheran HS",
       "rsci": "14",
-      "weight": "217"
+      "weight": "217",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "evans_isaiah",
@@ -12891,7 +12980,8 @@
       "jersey": "3",
       "highSchool": "North Mecklenburg HS",
       "rsci": "16",
-      "weight": "175"
+      "weight": "175",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "cameron_boozer",
@@ -12963,7 +13053,8 @@
       "jersey": "12",
       "highSchool": "Columbus HS",
       "rsci": "3",
-      "weight": "250"
+      "weight": "250",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "boozer_c",
@@ -13025,7 +13116,8 @@
       "jersey": "2",
       "highSchool": "Columbus HS",
       "rsci": "19",
-      "weight": "205"
+      "weight": "205",
+      "lastUpdated": "2026-02-20"
     },
     {
       "id": "jaylen_blakes",
@@ -13165,7 +13257,8 @@
       "hometown": "Kansas City, KS",
       "highSchool": "Bishop Miege HS / Sunrise Christian Academy",
       "rsci": "28",
-      "weight": "230"
+      "weight": "230",
+      "lastUpdated": "2026-03-08"
     },
     {
       "id": "tyrese_proctor",
@@ -13554,7 +13647,8 @@
       "hometown": "Harrisburg, NC",
       "highSchool": "Hickory Ridge HS / Oak Hill Academy / Notre Dame HS (CA)",
       "rsci": "17",
-      "weight": "205"
+      "weight": "205",
+      "lastUpdated": "2026-03-12"
     },
     {
       "id": "sean_stewart",
