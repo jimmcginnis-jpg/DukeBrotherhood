@@ -1,0 +1,33 @@
+# License
+
+## Duke's Brotherhood: Where Are They Now?
+
+Copyright (c) 2026 Jim McGinnis. All rights reserved.
+
+### Content (profiles, narratives, research, JSON data)
+
+All written content, player profiles, team narratives, research, and structured
+data (including but not limited to players.json, teams.json, and all biographical
+text) are the original work of Jim McGinnis and are protected by copyright.
+
+You may NOT reproduce, distribute, modify, or republish this content in any form
+without explicit written permission from the author.
+
+### Code (Next.js pages, components, styling)
+
+The source code for the website (page templates, components, layouts, and styling)
+is provided for reference only. You may NOT use, copy, or redistribute the code
+for commercial purposes without permission.
+
+You MAY reference the code for personal learning or inspiration, provided you do
+not reproduce the site or its content.
+
+### Charitable Links
+
+This project links to third-party charitable organizations. The Duke Brotherhood
+project is not affiliated with, endorsed by, or sponsored by any of these
+organizations, Duke University, or the Atlantic Coast Conference.
+
+### Contact
+
+For permissions or inquiries: Visit www.dukebrotherhood.com
