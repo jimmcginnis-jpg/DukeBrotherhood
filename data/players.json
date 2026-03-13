@@ -132,7 +132,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1960-09-11"
     },
     {
       "id": "engelland",
@@ -219,7 +220,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1961-05-09"
     },
     {
       "id": "dawkins",
@@ -328,7 +330,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1963-09-28"
     },
     {
       "id": "alarie",
@@ -424,7 +427,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1963-12-11"
     },
     {
       "id": "bilas",
@@ -513,7 +517,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1963-12-24"
     },
     {
       "id": "henderson_d",
@@ -593,7 +598,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1964-07-21"
     },
     {
       "id": "amaker",
@@ -690,7 +696,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1965-06-29"
     },
     {
       "id": "nessley",
@@ -770,7 +777,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1965-03-10"
     },
     {
       "id": "king",
@@ -850,7 +858,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1966-12-27"
     },
     {
       "id": "smith",
@@ -930,7 +939,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1967-02-15"
     },
     {
       "id": "tom_emma",
@@ -959,7 +969,8 @@
       "jersey": "22",
       "highSchool": "",
       "rsci": "",
-      "weight": "185"
+      "weight": "185",
+      "dob": "1960-09-05"
     },
     {
       "id": "dan_meagher",
@@ -1047,7 +1058,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1962-11-12"
     },
     {
       "id": "richard_ford",
@@ -1077,7 +1089,8 @@
       "hometown": "Washington, DC",
       "highSchool": "",
       "rsci": "",
-      "weight": "155"
+      "weight": "155",
+      "dob": null
     },
     {
       "id": "mike_tissaw",
@@ -1106,7 +1119,8 @@
       "hometown": "Fairfax, VA",
       "highSchool": "",
       "rsci": "",
-      "weight": "231"
+      "weight": "231",
+      "dob": null
     },
     {
       "id": "ned_franke",
@@ -1135,7 +1149,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "dob": null
     },
     {
       "id": "doug_mcneely",
@@ -1164,7 +1179,8 @@
       "jersey": "11",
       "highSchool": "",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": "1962-04-07"
     },
     {
       "id": "gordon_whitted",
@@ -1192,7 +1208,8 @@
       "hometown": "Winston-Salem, NC",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "allen_williams",
@@ -1220,7 +1237,8 @@
       "hometown": "Princeton, WV",
       "highSchool": "",
       "rsci": "",
-      "weight": "220"
+      "weight": "220",
+      "dob": null
     },
     {
       "id": "kenny_dennard",
@@ -1246,7 +1264,8 @@
       "hometown": "King, NC",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": "1958-10-08"
     },
     {
       "id": "jim_suddath",
@@ -1272,7 +1291,8 @@
       "hometown": "East Point, GA",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "jay_bryan",
@@ -1301,7 +1321,8 @@
       "jersey": "33",
       "highSchool": "",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": null
     },
     {
       "id": "todd_anderson",
@@ -1329,7 +1350,8 @@
       "jersey": "44",
       "highSchool": "",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "dob": null
     },
     {
       "id": "greg_wendt",
@@ -1356,7 +1378,8 @@
       "hometown": "Livonia, MI",
       "highSchool": "",
       "rsci": "",
-      "weight": "205"
+      "weight": "205",
+      "dob": null
     },
     {
       "id": "loel_payne",
@@ -1383,7 +1406,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "dob": null
     },
     {
       "id": "weldon_williams",
@@ -1412,7 +1436,8 @@
       "jersey": "40",
       "highSchool": "",
       "rsci": "",
-      "weight": "190"
+      "weight": "190",
+      "dob": null
     },
     {
       "id": "kevin_strickland",
@@ -1441,7 +1466,8 @@
       "jersey": "31",
       "highSchool": "",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": "1964-11-11"
     },
     {
       "id": "bill_jackman",
@@ -1470,7 +1496,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "george_burgin",
@@ -1500,7 +1527,8 @@
       "jersey": "42",
       "highSchool": "",
       "rsci": "",
-      "weight": "215"
+      "weight": "215",
+      "dob": null
     },
     {
       "id": "rey_essex",
@@ -1527,7 +1555,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "andy_berndt",
@@ -1554,7 +1583,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "dave_colonna",
@@ -1581,7 +1611,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "ferry",
@@ -1702,7 +1733,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1966-10-17"
     },
     {
       "id": "snyder",
@@ -1799,7 +1831,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1966-10-30"
     },
     {
       "id": "abdelnaby",
@@ -1911,7 +1944,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1968-06-24"
     },
     {
       "id": "henderson_p",
@@ -1998,7 +2032,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1968-07-11"
     },
     {
       "id": "brickey",
@@ -2162,7 +2197,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1967-08-20"
     },
     {
       "id": "laettner",
@@ -2295,7 +2331,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1969-08-18"
     },
     {
       "id": "davis_b",
@@ -2388,7 +2425,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1970-06-21"
     },
     {
       "id": "hurley",
@@ -2500,7 +2538,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1971-06-28"
     },
     {
       "id": "hill_t",
@@ -2594,7 +2633,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1969-03-18"
     },
     {
       "id": "mccaffrey",
@@ -2714,7 +2754,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1971-03-07"
     },
     {
       "id": "hill",
@@ -2851,7 +2892,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1972-10-05"
     },
     {
       "id": "lang",
@@ -2957,7 +2999,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1972-05-15"
     },
     {
       "id": "blakeney",
@@ -3099,7 +3142,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1971-08-11"
     },
     {
       "id": "parks",
@@ -3206,7 +3250,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1972-10-11"
     },
     {
       "id": "collins_c",
@@ -3318,7 +3363,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1975-01-30"
     },
     {
       "id": "jon_goodman",
@@ -3345,7 +3391,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "greg_koubek",
@@ -3374,7 +3421,8 @@
       "jersey": "22",
       "highSchool": "Shenendehowa HS",
       "rsci": "",
-      "weight": "205"
+      "weight": "205",
+      "dob": "1969-08-29"
     },
     {
       "id": "clay_buckley",
@@ -3403,7 +3451,8 @@
       "jersey": "45",
       "highSchool": "Conestoga HS",
       "rsci": "",
-      "weight": "245"
+      "weight": "245",
+      "dob": null
     },
     {
       "id": "joe_cook",
@@ -3431,7 +3480,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": null
     },
     {
       "id": "crawford_palmer",
@@ -3460,7 +3510,8 @@
       "jersey": "34",
       "highSchool": "Washington-Lee HS",
       "rsci": "",
-      "weight": "235"
+      "weight": "235",
+      "dob": "1969-09-21"
     },
     {
       "id": "ron_burt",
@@ -3489,7 +3540,8 @@
       "hometown": "Kansas City, MO",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "christian_ast",
@@ -3518,7 +3570,8 @@
       "jersey": "54",
       "highSchool": "",
       "rsci": "",
-      "weight": "205"
+      "weight": "205",
+      "dob": null
     },
     {
       "id": "marty_clark",
@@ -3547,7 +3600,8 @@
       "jersey": "3",
       "highSchool": "",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "dob": null
     },
     {
       "id": "erik_meek",
@@ -3576,7 +3630,8 @@
       "hometown": "Escondido, CA",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": "1973-05-14"
     },
     {
       "id": "kenney_brown",
@@ -3603,7 +3658,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "stan_brunson",
@@ -3633,7 +3689,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "tony_moore",
@@ -3662,7 +3719,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "baker_perry",
@@ -3691,7 +3749,8 @@
       "hometown": "Waynesville, NC",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "joey_beard",
@@ -3718,7 +3777,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "capel",
@@ -3823,7 +3883,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1975-02-13"
     },
     {
       "id": "newton",
@@ -3941,7 +4002,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1974-08-17"
     },
     {
       "id": "wallace_c",
@@ -4025,7 +4087,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": null
     },
     {
       "id": "wojo",
@@ -4117,7 +4180,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1976-08-09"
     },
     {
       "id": "langdon",
@@ -4222,7 +4286,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1976-05-13"
     },
     {
       "id": "price",
@@ -4307,7 +4372,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1976-04-12"
     },
     {
       "id": "carrawell",
@@ -4401,7 +4467,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1977-11-17"
     },
     {
       "id": "mcleod",
@@ -4531,7 +4598,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1975-11-17"
     },
     {
       "id": "james_n",
@@ -4699,7 +4767,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1978-01-20"
     },
     {
       "id": "jay_heaps",
@@ -4729,7 +4798,8 @@
       "hometown": "Longmeadow, MA",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": "1976-08-02"
     },
     {
       "id": "todd_singleton",
@@ -4757,7 +4827,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "taymon_domzalski",
@@ -4785,7 +4856,8 @@
       "hometown": "Lovington, NM",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": "1976-10-28"
     },
     {
       "id": "justin_caldbeck",
@@ -4814,7 +4886,8 @@
       "hometown": "Shelburne, VT",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "jeremy_hall",
@@ -4841,7 +4914,8 @@
       "hometown": "Sarasota, FL",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "mike_chappell",
@@ -4870,7 +4944,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "jd_simpson",
@@ -4899,7 +4974,8 @@
       "hometown": "Woodside, CA",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "chris_burgess",
@@ -4926,7 +5002,8 @@
       "hometown": "Irvine, CA",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": "1979-10-27"
     },
     {
       "id": "ryan_caldbeck",
@@ -4955,7 +5032,8 @@
       "jersey": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "battier",
@@ -5081,7 +5159,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1978-09-09"
     },
     {
       "id": "brand",
@@ -5217,7 +5296,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1979-03-11"
     },
     {
       "id": "avery",
@@ -5343,7 +5423,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1979-08-16"
     },
     {
       "id": "maggette",
@@ -5473,7 +5554,8 @@
       "highSchool": "Fenwick HS",
       "rsci": "16",
       "weight": "225",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "1979-11-12"
     },
     {
       "id": "jwilliams",
@@ -5567,7 +5649,8 @@
       "highSchool": "St. Joseph HS",
       "rsci": "3",
       "weight": "195",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "1981-09-10"
     },
     {
       "id": "boozer",
@@ -5692,7 +5775,8 @@
       "highSchool": "Juneau-Douglas HS",
       "rsci": "8",
       "weight": "258",
-      "lastUpdated": "2026-02-24"
+      "lastUpdated": "2026-02-24",
+      "dob": "1981-11-07"
     },
     {
       "id": "dunleavy",
@@ -5827,7 +5911,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1980-09-15"
     },
     {
       "id": "duhon",
@@ -5945,7 +6030,8 @@
       "highSchool": "Salmen HS",
       "rsci": "6",
       "weight": "185",
-      "lastUpdated": "2026-02-24"
+      "lastUpdated": "2026-02-24",
+      "dob": "1982-08-31"
     },
     {
       "id": "jones_d",
@@ -6112,7 +6198,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1980-12-27"
     },
     {
       "id": "deng",
@@ -6252,7 +6339,8 @@
       "highSchool": "Blair Academy",
       "rsci": "2",
       "weight": "220",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "1985-04-16"
     },
     {
       "id": "casey_sanders",
@@ -6282,7 +6370,8 @@
       "jersey": "20",
       "highSchool": "Chamberlain HS",
       "rsci": "16",
-      "weight": "235"
+      "weight": "235",
+      "dob": "1981-01-25"
     },
     {
       "id": "matt_christensen",
@@ -6312,7 +6401,8 @@
       "jersey": "",
       "highSchool": "",
       "rsci": "",
-      "weight": "265"
+      "weight": "265",
+      "dob": null
     },
     {
       "id": "d_bryant",
@@ -6339,7 +6429,8 @@
       "jersey": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "andre_buckner",
@@ -6368,7 +6459,8 @@
       "jersey": "2",
       "highSchool": "",
       "rsci": "",
-      "weight": "170"
+      "weight": "170",
+      "dob": null
     },
     {
       "id": "andy_borman",
@@ -6398,7 +6490,8 @@
       "jersey": "40",
       "highSchool": "",
       "rsci": "",
-      "weight": "190"
+      "weight": "190",
+      "dob": null
     },
     {
       "id": "nick_horvath",
@@ -6427,7 +6520,8 @@
       "jersey": "3",
       "highSchool": "Mounds View HS",
       "rsci": "",
-      "weight": "250"
+      "weight": "250",
+      "dob": "1982-07-01"
     },
     {
       "id": "andre_sweet",
@@ -6454,7 +6548,8 @@
       "jersey": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "andy_means",
@@ -6482,7 +6577,8 @@
       "jersey": "53",
       "highSchool": "",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "dob": null
     },
     {
       "id": "daniel_ewing",
@@ -6511,7 +6607,8 @@
       "jersey": "5",
       "highSchool": "",
       "rsci": "29",
-      "weight": "185"
+      "weight": "185",
+      "dob": "1983-05-22"
     },
     {
       "id": "reggie_love",
@@ -6540,7 +6637,8 @@
       "jersey": "30",
       "highSchool": "",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "dob": "1981-06-03"
     },
     {
       "id": "michael_thompson",
@@ -6568,7 +6666,8 @@
       "jersey": "3",
       "highSchool": "",
       "rsci": "",
-      "weight": "250"
+      "weight": "250",
+      "dob": null
     },
     {
       "id": "mark_causey",
@@ -6595,7 +6694,8 @@
       "jersey": "",
       "highSchool": "",
       "rsci": "",
-      "weight": "210"
+      "weight": "210",
+      "dob": null
     },
     {
       "id": "shavlik_randolph",
@@ -6624,7 +6724,8 @@
       "hometown": "Raleigh, NC",
       "highSchool": "Broughton HS",
       "rsci": "14",
-      "weight": "240"
+      "weight": "240",
+      "dob": "1983-11-24"
     },
     {
       "id": "patrick_johnson",
@@ -6653,7 +6754,8 @@
       "jersey": "51",
       "highSchool": "",
       "rsci": "",
-      "weight": "250"
+      "weight": "250",
+      "dob": null
     },
     {
       "id": "jordan_davidson",
@@ -6685,7 +6787,8 @@
       "jersey": "41",
       "highSchool": "",
       "rsci": "",
-      "weight": "180"
+      "weight": "180",
+      "dob": null
     },
     {
       "id": "joe_pagliuca",
@@ -6714,7 +6817,8 @@
       "jersey": "45",
       "highSchool": "",
       "rsci": "",
-      "weight": "185"
+      "weight": "185",
+      "dob": null
     },
     {
       "id": "redick",
@@ -6858,7 +6962,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1984-06-24"
     },
     {
       "id": "swilliams",
@@ -6976,7 +7081,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1983-09-05"
     },
     {
       "id": "nelson",
@@ -7118,7 +7224,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1985-12-12"
     },
     {
       "id": "mcroberts",
@@ -7238,7 +7345,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1987-06-25"
     },
     {
       "id": "paulus",
@@ -7348,7 +7456,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1987-08-05"
     },
     {
       "id": "ghenderson",
@@ -7460,7 +7569,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1987-12-09"
     },
     {
       "id": "scheyer",
@@ -7574,7 +7684,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1988-05-08"
     },
     {
       "id": "nsmith",
@@ -7700,7 +7811,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1988-04-28"
     },
     {
       "id": "kirving",
@@ -7840,7 +7952,8 @@
       "highSchool": "St. Patrick HS",
       "rsci": "2",
       "weight": "180",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "1992-03-23"
     },
     {
       "id": "lee_melchionni",
@@ -7869,7 +7982,8 @@
       "jersey": "13",
       "highSchool": "Lancaster Catholic HS",
       "rsci": "",
-      "weight": "205"
+      "weight": "205",
+      "dob": "1983-05-15"
     },
     {
       "id": "sean_dockery",
@@ -7898,7 +8012,8 @@
       "jersey": "15",
       "highSchool": "Whitney Young HS",
       "rsci": "21",
-      "weight": "185"
+      "weight": "185",
+      "dob": "1984-02-05"
     },
     {
       "id": "ross_perkins",
@@ -7927,7 +8042,8 @@
       "jersey": "40",
       "highSchool": "",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "dob": null
     },
     {
       "id": "tom_novick",
@@ -7955,7 +8071,8 @@
       "jersey": "50",
       "highSchool": "",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "dob": null
     },
     {
       "id": "david_mcclure",
@@ -7984,7 +8101,8 @@
       "hometown": "Ridgefield, CT",
       "highSchool": "Ridgefield HS",
       "rsci": "71",
-      "weight": "215"
+      "weight": "215",
+      "dob": "1987-03-25"
     },
     {
       "id": "martynas_pocius",
@@ -8013,7 +8131,8 @@
       "hometown": "Vilnius, Lithuania",
       "highSchool": "",
       "rsci": "53",
-      "weight": "190"
+      "weight": "190",
+      "dob": "1986-04-13"
     },
     {
       "id": "jamal_boykin",
@@ -8039,7 +8158,8 @@
       "jersey": "10",
       "highSchool": "",
       "rsci": "60",
-      "weight": "240"
+      "weight": "240",
+      "dob": "1986-10-07"
     },
     {
       "id": "eric_boateng",
@@ -8065,7 +8185,8 @@
       "jersey": "2",
       "highSchool": "",
       "rsci": "39",
-      "weight": "257"
+      "weight": "257",
+      "dob": "1987-06-02"
     },
     {
       "id": "brian_zoubek",
@@ -8094,7 +8215,8 @@
       "hometown": "Haddonfield, NJ",
       "highSchool": "Haddonfield Memorial HS",
       "rsci": "25",
-      "weight": "260"
+      "weight": "260",
+      "dob": "1988-04-21"
     },
     {
       "id": "lance_thomas",
@@ -8123,7 +8245,8 @@
       "hometown": "Scotch Plains, NJ",
       "highSchool": "Scotch Plains-Fanwood HS",
       "rsci": "20",
-      "weight": "225"
+      "weight": "225",
+      "dob": "1988-04-19"
     },
     {
       "id": "steve_johnson",
@@ -8151,7 +8274,8 @@
       "jersey": "51",
       "highSchool": "",
       "rsci": "",
-      "weight": "210"
+      "weight": "210",
+      "dob": null
     },
     {
       "id": "nick_sutton",
@@ -8178,7 +8302,8 @@
       "jersey": "13",
       "highSchool": "",
       "rsci": "",
-      "weight": "180"
+      "weight": "180",
+      "dob": null
     },
     {
       "id": "taylor_king",
@@ -8204,7 +8329,8 @@
       "jersey": "31",
       "highSchool": "Huntington Beach HS",
       "rsci": "27",
-      "weight": "230"
+      "weight": "230",
+      "dob": "1988-07-10"
     },
     {
       "id": "elliot_williams",
@@ -8230,7 +8356,8 @@
       "hometown": "Memphis, TN",
       "highSchool": "Memphis Central HS",
       "rsci": "15",
-      "weight": "180"
+      "weight": "180",
+      "dob": "1989-06-20"
     },
     {
       "id": "olek_czyz",
@@ -8257,7 +8384,8 @@
       "jersey": "31",
       "highSchool": "",
       "rsci": "66",
-      "weight": "240"
+      "weight": "240",
+      "dob": "1989-12-23"
     },
     {
       "id": "singler",
@@ -8395,7 +8523,8 @@
       "highSchool": "South Medford HS",
       "rsci": "6",
       "weight": "230",
-      "lastUpdated": "2026-03-02"
+      "lastUpdated": "2026-03-02",
+      "dob": "1988-05-04"
     },
     {
       "id": "miles_plumlee",
@@ -8530,7 +8659,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1988-09-01"
     },
     {
       "id": "mplumlee",
@@ -8683,7 +8813,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1990-03-05"
     },
     {
       "id": "scurry",
@@ -8763,7 +8894,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1990-08-23"
     },
     {
       "id": "arivers",
@@ -8902,7 +9034,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1992-08-01"
     },
     {
       "id": "cook",
@@ -8982,7 +9115,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1993-03-23"
     },
     {
       "id": "marshall_p",
@@ -9091,7 +9225,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1992-06-19"
     },
     {
       "id": "parker_j",
@@ -9255,7 +9390,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1995-03-15"
     },
     {
       "id": "hood",
@@ -9392,7 +9528,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1992-10-20"
     },
     {
       "id": "allen",
@@ -9516,7 +9653,8 @@
       "highSchool": "Providence School",
       "rsci": "24",
       "weight": "195",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "1995-10-08"
     },
     {
       "id": "okafor",
@@ -9631,7 +9769,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1995-12-15"
     },
     {
       "id": "tjones",
@@ -9757,7 +9896,8 @@
       "highSchool": "Apple Valley HS",
       "rsci": "7",
       "weight": "190",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "1996-05-10"
     },
     {
       "id": "winslow",
@@ -9878,7 +10018,8 @@
       "highSchool": "St. John's School",
       "rsci": "13",
       "weight": "225",
-      "lastUpdated": "2026-03-03"
+      "lastUpdated": "2026-03-03",
+      "dob": "1996-03-26"
     },
     {
       "id": "casey_peters",
@@ -9907,7 +10048,8 @@
       "jersey": "53",
       "highSchool": "",
       "rsci": "",
-      "weight": "200"
+      "weight": "200",
+      "dob": null
     },
     {
       "id": "andre_dawkins",
@@ -9936,7 +10078,8 @@
       "hometown": "Chesapeake, VA",
       "highSchool": "Atlantic Shores Christian",
       "rsci": "",
-      "weight": "215"
+      "weight": "215",
+      "dob": "1991-09-13"
     },
     {
       "id": "ryan_kelly",
@@ -10046,7 +10189,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1991-03-07"
     },
     {
       "id": "todd_zafirovski",
@@ -10075,7 +10219,8 @@
       "jersey": "52",
       "highSchool": "Lake Forest Academy",
       "rsci": "",
-      "weight": "245"
+      "weight": "245",
+      "dob": null
     },
     {
       "id": "tyler_thornton",
@@ -10104,7 +10249,8 @@
       "hometown": "Washington, DC",
       "highSchool": "Gonzaga College HS",
       "rsci": "",
-      "weight": "190"
+      "weight": "190",
+      "dob": "1991-09-12"
     },
     {
       "id": "josh_hairston",
@@ -10235,7 +10381,8 @@
       "highSchool": "Montrose Christian",
       "rsci": "32",
       "weight": "235",
-      "lastUpdated": "2026-03-13"
+      "lastUpdated": "2026-03-13",
+      "dob": "1992-01-12"
     },
     {
       "id": "michael_gbinije",
@@ -10261,7 +10408,8 @@
       "jersey": "0",
       "highSchool": "",
       "rsci": "28",
-      "weight": "200"
+      "weight": "200",
+      "dob": "1992-08-02"
     },
     {
       "id": "sean_kelly",
@@ -10290,7 +10438,8 @@
       "jersey": "42",
       "highSchool": "Ravenscroft",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": null
     },
     {
       "id": "rasheed_sulaimon",
@@ -10318,7 +10467,8 @@
       "hometown": "Houston, TX",
       "highSchool": "Strake Jesuit College Prep",
       "rsci": "12",
-      "weight": "195"
+      "weight": "195",
+      "dob": "1994-04-09"
     },
     {
       "id": "amile_jefferson",
@@ -10348,7 +10498,8 @@
       "hometown": "Philadelphia, PA",
       "highSchool": "Friends Central School",
       "rsci": "21",
-      "weight": "215"
+      "weight": "215",
+      "dob": "1993-05-07"
     },
     {
       "id": "alex_murphy",
@@ -10374,7 +10525,8 @@
       "jersey": "12",
       "highSchool": "South Kingstown HS",
       "rsci": "49",
-      "weight": "225"
+      "weight": "225",
+      "dob": "1994-04-01"
     },
     {
       "id": "semi_ojeleye",
@@ -10493,7 +10645,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1994-12-05"
     },
     {
       "id": "matt_jones",
@@ -10522,7 +10675,8 @@
       "hometown": "DeSoto, TX",
       "highSchool": "DeSoto HS",
       "rsci": "34",
-      "weight": "210"
+      "weight": "210",
+      "dob": "1995-06-13"
     },
     {
       "id": "nick_pagliuca",
@@ -10551,7 +10705,8 @@
       "jersey": "45",
       "highSchool": "Milton Academy",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": null
     },
     {
       "id": "ingram",
@@ -10667,7 +10822,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1997-09-02"
     },
     {
       "id": "kennard",
@@ -10799,7 +10955,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1996-06-24"
     },
     {
       "id": "tatum",
@@ -10916,7 +11073,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1998-03-03"
     },
     {
       "id": "bagley",
@@ -11045,7 +11203,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1999-03-14"
     },
     {
       "id": "wcarter",
@@ -11159,7 +11318,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "1999-04-16"
     },
     {
       "id": "zion",
@@ -11266,7 +11426,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2000-07-06"
     },
     {
       "id": "barrett",
@@ -11371,7 +11532,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2000-06-14"
     },
     {
       "id": "trejones",
@@ -11479,7 +11641,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "2000-01-08"
     },
     {
       "id": "reddish",
@@ -11607,7 +11770,8 @@
       "highSchool": "Westtown School",
       "rsci": "2",
       "weight": "218",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "1999-09-01"
     },
     {
       "id": "roach",
@@ -11687,7 +11851,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2001-10-10"
     },
     {
       "id": "banchero",
@@ -11791,7 +11956,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2002-11-12"
     },
     {
       "id": "griffin_aj",
@@ -11896,7 +12062,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "2003-08-25"
     },
     {
       "id": "sean_obi",
@@ -11924,7 +12091,8 @@
       "jersey": "34",
       "highSchool": "",
       "rsci": "",
-      "weight": "270"
+      "weight": "270",
+      "dob": "1995-05-10"
     },
     {
       "id": "chase_jeter",
@@ -11951,7 +12119,8 @@
       "hometown": "Las Vegas, NV",
       "highSchool": "Bishop Gorman HS",
       "rsci": "14",
-      "weight": "240"
+      "weight": "240",
+      "dob": "1997-04-23"
     },
     {
       "id": "derryck_thornton",
@@ -11977,7 +12146,8 @@
       "hometown": "Los Angeles, CA",
       "highSchool": "Findlay Prep",
       "rsci": "13",
-      "weight": "195"
+      "weight": "195",
+      "dob": "1997-04-07"
     },
     {
       "id": "antonio_vrankovic",
@@ -12006,7 +12176,8 @@
       "jersey": "30",
       "highSchool": "Pine Crest HS",
       "rsci": "",
-      "weight": "269"
+      "weight": "269",
+      "dob": "1997-07-29"
     },
     {
       "id": "brennan_besser",
@@ -12035,7 +12206,8 @@
       "jersey": "53",
       "highSchool": "Latin School",
       "rsci": "",
-      "weight": "190"
+      "weight": "190",
+      "dob": null
     },
     {
       "id": "javin_delaurier",
@@ -12064,7 +12236,8 @@
       "hometown": "Shipman, VA",
       "highSchool": "St. Anne's-Belfield School",
       "rsci": "35",
-      "weight": "237"
+      "weight": "237",
+      "dob": "1997-09-08"
     },
     {
       "id": "frank_jackson",
@@ -12090,7 +12263,8 @@
       "hometown": "Alpine, UT",
       "highSchool": "Lone Peak HS",
       "rsci": "14",
-      "weight": "205"
+      "weight": "205",
+      "dob": "1998-11-04"
     },
     {
       "id": "harry_giles_iii",
@@ -12116,7 +12290,8 @@
       "hometown": "Winston-Salem, NC",
       "highSchool": "Wesleyan Christian Academy",
       "rsci": "2",
-      "weight": "240"
+      "weight": "240",
+      "dob": "1998-04-22"
     },
     {
       "id": "jack_white",
@@ -12145,7 +12320,8 @@
       "hometown": "Traralgon, Australia",
       "highSchool": "Australian Institute of Sport",
       "rsci": "",
-      "weight": "222"
+      "weight": "222",
+      "dob": "1997-04-12"
     },
     {
       "id": "marques_bolden",
@@ -12173,7 +12349,8 @@
       "jersey": "20",
       "highSchool": "DeSoto HS",
       "rsci": "11",
-      "weight": "250"
+      "weight": "250",
+      "dob": "1999-04-14"
     },
     {
       "id": "justin_robinson",
@@ -12202,7 +12379,8 @@
       "jersey": "50",
       "highSchool": "San Antonio Christian School",
       "rsci": "",
-      "weight": "202"
+      "weight": "202",
+      "dob": "1997-07-18"
     },
     {
       "id": "gary_trent_jr",
@@ -12324,7 +12502,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "1999-01-18"
     },
     {
       "id": "trevon_duval",
@@ -12350,7 +12529,8 @@
       "hometown": "New Castle, DE",
       "highSchool": "IMG Academy",
       "rsci": "5",
-      "weight": "186"
+      "weight": "186",
+      "dob": "1999-09-05"
     },
     {
       "id": "alex_oconnell",
@@ -12379,7 +12559,8 @@
       "hometown": "Roswell, GA",
       "highSchool": "Milton HS",
       "rsci": "69",
-      "weight": "180"
+      "weight": "180",
+      "dob": "1999-06-18"
     },
     {
       "id": "jordan_goldwire",
@@ -12408,7 +12589,8 @@
       "hometown": "Norcross, GA",
       "highSchool": "Norcross HS",
       "rsci": "",
-      "weight": "184"
+      "weight": "184",
+      "dob": "1999-07-11"
     },
     {
       "id": "jordan_tucker",
@@ -12434,7 +12616,8 @@
       "jersey": "5",
       "highSchool": "Joseph Wheeler HS",
       "rsci": "59",
-      "weight": "220"
+      "weight": "220",
+      "dob": "1999-10-15"
     },
     {
       "id": "mike_buckmire",
@@ -12463,7 +12646,8 @@
       "jersey": "51",
       "highSchool": "Germantown Friends School",
       "rsci": "",
-      "weight": "175"
+      "weight": "175",
+      "dob": null
     },
     {
       "id": "joey_baker",
@@ -12492,7 +12676,8 @@
       "hometown": "Fayetteville, NC",
       "highSchool": "Trinity Christian School",
       "rsci": "37",
-      "weight": "201"
+      "weight": "201",
+      "dob": "2000-03-12"
     },
     {
       "id": "bates_jones",
@@ -12521,7 +12706,8 @@
       "jersey": "25",
       "highSchool": "Charlotte Latin HS",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "dob": null
     },
     {
       "id": "cassius_stanley",
@@ -12547,7 +12733,8 @@
       "hometown": "Los Angeles, CA",
       "highSchool": "Sierra Canyon School",
       "rsci": "33",
-      "weight": "193"
+      "weight": "193",
+      "dob": "2000-08-28"
     },
     {
       "id": "vernon_carey_jr",
@@ -12573,7 +12760,8 @@
       "hometown": "Southwest Ranches, FL",
       "highSchool": "NSU University School",
       "rsci": "5",
-      "weight": "270"
+      "weight": "270",
+      "dob": "2001-02-25"
     },
     {
       "id": "matthew_hurt",
@@ -12600,7 +12788,8 @@
       "hometown": "Rochester, MN",
       "highSchool": "John Marshall HS",
       "rsci": "12",
-      "weight": "235"
+      "weight": "235",
+      "dob": "2001-09-27"
     },
     {
       "id": "wendell_moore_jr",
@@ -12628,7 +12817,8 @@
       "hometown": "Charlotte, NC",
       "highSchool": "Cox Mill HS",
       "rsci": "25",
-      "weight": "216"
+      "weight": "216",
+      "dob": "2001-10-14"
     },
     {
       "id": "michael_savarino",
@@ -12657,7 +12847,8 @@
       "jersey": "30",
       "highSchool": "Durham Academy",
       "rsci": "",
-      "weight": "185"
+      "weight": "185",
+      "dob": null
     },
     {
       "id": "keenan_worthington",
@@ -12686,7 +12877,8 @@
       "jersey": "45",
       "highSchool": "Blair Academy",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "dob": null
     },
     {
       "id": "dj_steward",
@@ -12712,7 +12904,8 @@
       "hometown": "Chicago, IL",
       "highSchool": "Whitney Young HS",
       "rsci": "24",
-      "weight": "163"
+      "weight": "163",
+      "dob": "2001-11-03"
     },
     {
       "id": "jalen_johnson",
@@ -12819,7 +13012,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2002-12-18"
     },
     {
       "id": "mark_williams",
@@ -12846,7 +13040,8 @@
       "hometown": "Virginia Beach, VA",
       "highSchool": "IMG Academy",
       "rsci": "25",
-      "weight": "243"
+      "weight": "243",
+      "dob": "2002-09-04"
     },
     {
       "id": "jaemyn_brakefield",
@@ -12872,7 +13067,8 @@
       "jersey": "5",
       "highSchool": "Huntington Prep School",
       "rsci": "33",
-      "weight": "216"
+      "weight": "216",
+      "dob": "2002-01-19"
     },
     {
       "id": "henry_coleman_iii",
@@ -12898,7 +13094,8 @@
       "jersey": "15",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": "2002-08-14"
     },
     {
       "id": "patrick_tape",
@@ -12924,7 +13121,8 @@
       "jersey": "",
       "highSchool": "Queens Grant HS",
       "rsci": "",
-      "weight": "233"
+      "weight": "233",
+      "dob": "1999-07-06"
     },
     {
       "id": "spencer_hubbard",
@@ -12995,7 +13193,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "2002-05-14"
     },
     {
       "id": "henry_coleman",
@@ -13022,7 +13221,8 @@
       "jersey": "15",
       "highSchool": "Trinity Episcopal",
       "rsci": "49",
-      "weight": "229"
+      "weight": "229",
+      "dob": "2002-08-14"
     },
     {
       "id": "trevor_keels",
@@ -13048,7 +13248,8 @@
       "hometown": "Clinton, MD",
       "highSchool": "Paul VI HS",
       "rsci": "19",
-      "weight": "221"
+      "weight": "221",
+      "dob": "2003-02-19"
     },
     {
       "id": "theo_john",
@@ -13074,7 +13275,8 @@
       "jersey": "12",
       "highSchool": "Champlin Park HS",
       "rsci": "",
-      "weight": "222"
+      "weight": "222",
+      "dob": "1999-03-04"
     },
     {
       "id": "filipowski",
@@ -13169,7 +13371,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2003-09-22"
     },
     {
       "id": "lively",
@@ -13267,7 +13470,8 @@
       "highSchool": "Westtown School",
       "rsci": "2",
       "weight": "230",
-      "lastUpdated": "2026-03-07"
+      "lastUpdated": "2026-03-07",
+      "dob": "2004-01-10"
     },
     {
       "id": "mccain",
@@ -13365,7 +13569,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2004-08-21"
     },
     {
       "id": "flagg",
@@ -13457,7 +13662,8 @@
       "highSchool": "Montverde Academy",
       "rsci": "1",
       "weight": "205",
-      "lastUpdated": "2026-03-05"
+      "lastUpdated": "2026-03-05",
+      "dob": "2006-12-21"
     },
     {
       "id": "knueppel",
@@ -13545,7 +13751,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "2005-10-06"
     },
     {
       "id": "evans_isaiah",
@@ -13623,7 +13830,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2005-11-03"
     },
     {
       "id": "cameron_boozer",
@@ -13696,7 +13904,8 @@
       "highSchool": "Columbus HS",
       "rsci": "3",
       "weight": "250",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "2006-11-04"
     },
     {
       "id": "boozer_c",
@@ -13759,7 +13968,8 @@
       "highSchool": "Columbus HS",
       "rsci": "19",
       "weight": "205",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-02-20",
+      "dob": "2006-11-04"
     },
     {
       "id": "jaylen_blakes",
@@ -13788,7 +13998,8 @@
       "jersey": "2",
       "highSchool": "Blair Academy HS",
       "rsci": "",
-      "weight": "208"
+      "weight": "208",
+      "dob": "2002-10-21"
     },
     {
       "id": "stanley_borden",
@@ -13817,7 +14028,8 @@
       "jersey": "52",
       "highSchool": "Istanbul Int'l Community School",
       "rsci": "",
-      "weight": "240"
+      "weight": "240",
+      "dob": "2003-03-13"
     },
     {
       "id": "mark_mitchell",
@@ -13907,7 +14119,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2003-10-03"
     },
     {
       "id": "tyrese_proctor",
@@ -13935,7 +14148,8 @@
       "hometown": "Sydney, Australia",
       "highSchool": "NBA Global Academy",
       "rsci": "97",
-      "weight": "175"
+      "weight": "175",
+      "dob": "2004-04-17"
     },
     {
       "id": "ryan_young",
@@ -13962,7 +14176,8 @@
       "hometown": "Stewartsville, NJ",
       "highSchool": "Bethlehem Catholic HS",
       "rsci": "",
-      "weight": "245"
+      "weight": "245",
+      "dob": "1999-07-21"
     },
     {
       "id": "blake_taylor",
@@ -13989,7 +14204,8 @@
       "hometown": "",
       "highSchool": "",
       "rsci": "",
-      "weight": ""
+      "weight": "",
+      "dob": null
     },
     {
       "id": "dariq_whitehead",
@@ -14015,7 +14231,8 @@
       "jersey": "0",
       "highSchool": "Montverde Academy",
       "rsci": "1",
-      "weight": "220"
+      "weight": "220",
+      "dob": "2004-08-14"
     },
     {
       "id": "jacob_grandison",
@@ -14041,7 +14258,8 @@
       "jersey": "13",
       "highSchool": "Phillips Exeter Academy",
       "rsci": "",
-      "weight": "205"
+      "weight": "205",
+      "dob": "1999-04-22"
     },
     {
       "id": "jaden_schutt",
@@ -14068,7 +14286,8 @@
       "jersey": "14",
       "highSchool": "Yorkville Christian",
       "rsci": "59",
-      "weight": "185"
+      "weight": "185",
+      "dob": "2004-04-10"
     },
     {
       "id": "christian_reeves",
@@ -14096,7 +14315,8 @@
       "jersey": "21",
       "highSchool": "Oak Hill Academy",
       "rsci": "",
-      "weight": "245"
+      "weight": "245",
+      "dob": null
     },
     {
       "id": "kale_catchings",
@@ -14122,7 +14342,8 @@
       "jersey": "12",
       "highSchool": "Liberty HS",
       "rsci": "",
-      "weight": "220"
+      "weight": "220",
+      "dob": null
     },
     {
       "id": "max_johns",
@@ -14148,7 +14369,8 @@
       "jersey": "41",
       "highSchool": "Woodberry Forest HS",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": null
     },
     {
       "id": "neal_begovich",
@@ -14176,7 +14398,8 @@
       "jersey": "20",
       "highSchool": "St. Ignatius College Prep",
       "rsci": "",
-      "weight": "225"
+      "weight": "225",
+      "dob": null
     },
     {
       "id": "ifeanyi_ufochukwu",
@@ -14236,7 +14459,8 @@
       "highSchool": "Covenant Day School",
       "rsci": "",
       "weight": "240",
-      "lastUpdated": "2026-03-13"
+      "lastUpdated": "2026-03-13",
+      "dob": "2002-01-12"
     },
     {
       "id": "caleb_foster",
@@ -14335,7 +14559,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "2005-04-28"
     },
     {
       "id": "sean_stewart",
@@ -14361,7 +14586,8 @@
       "jersey": "13",
       "highSchool": "Montverde Academy",
       "rsci": "15",
-      "weight": "227"
+      "weight": "227",
+      "dob": "2004-12-30"
     },
     {
       "id": "cameron_sheffield",
@@ -14389,7 +14615,8 @@
       "jersey": "13",
       "highSchool": "Chattahoochee HS",
       "rsci": "",
-      "weight": "180"
+      "weight": "180",
+      "dob": null
     },
     {
       "id": "jack_scott",
@@ -14417,7 +14644,8 @@
       "jersey": "20",
       "highSchool": "",
       "rsci": "",
-      "weight": "195"
+      "weight": "195",
+      "dob": null
     },
     {
       "id": "tj_power",
@@ -14443,7 +14671,8 @@
       "hometown": "Shrewsbury, MA",
       "highSchool": "Worcester Academy",
       "rsci": "21",
-      "weight": "216"
+      "weight": "216",
+      "dob": "2005-12-02"
     },
     {
       "id": "sion_james",
@@ -14469,7 +14698,8 @@
       "hometown": "Buford, GA",
       "highSchool": "Lanier HS",
       "rsci": "",
-      "weight": "185"
+      "weight": "185",
+      "dob": "2004-06-22"
     },
     {
       "id": "khaman_maluach",
@@ -14557,7 +14787,8 @@
         "label": "Support the Luol Deng Foundation",
         "description": "The foundation that changed Khaman Maluach’s life. Luol Deng — the former Duke star and NBA All-Star — founded the organization to use basketball as a tool for empowerment across Africa. A Deng Foundation camp in Uganda in 2019 introduced Maluach to basketball at age 13, launching the journey from Kawempe to Cameron Indoor to the NBA.",
         "url": ""
-      }
+      },
+      "dob": "2006-11-03"
     },
     {
       "id": "maliq_brown",
@@ -14584,7 +14815,8 @@
       "hometown": "Culpeper, VA",
       "highSchool": "Blue Ridge School",
       "rsci": "",
-      "weight": "213"
+      "weight": "213",
+      "dob": "2003-07-12"
     },
     {
       "id": "patrick_ngongba_ii",
@@ -14677,7 +14909,8 @@
         "description": "Founded by Coach K and his wife Mickie in honor of his mother, the Emily Krzyzewski Center provides educational support and life skills programming to students in Durham's underserved communities. Since 2006, the center has helped hundreds of first-generation college students reach graduation.",
         "url": "https://www.emilyk.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2005-05-31"
     },
     {
       "id": "mason_gillis",
@@ -14703,7 +14936,8 @@
       "hometown": "New Castle, IN",
       "highSchool": "New Castle HS",
       "rsci": "",
-      "weight": "230"
+      "weight": "230",
+      "dob": "2001-12-23"
     },
     {
       "id": "darren_harris",
@@ -14730,7 +14964,8 @@
       "hometown": "Herndon, VA",
       "highSchool": "St. Paul VI HS",
       "rsci": "35",
-      "weight": "203"
+      "weight": "203",
+      "dob": "2005-10-01"
     },
     {
       "id": "dame_sarr",
@@ -14822,7 +15057,8 @@
         "description": "Founded by Jim Valvano during his iconic 1993 ESPY speech — delivered just weeks before his death from cancer — the V Foundation has raised over $350 million for cancer research. Valvano coached NC State, but the foundation's roots run through ACC basketball, and Duke's program has been one of its most consistent supporters. Don't give up. Don't ever give up.",
         "url": "https://www.v.org/donate",
         "isDefault": true
-      }
+      },
+      "dob": "2005-09-17"
     },
     {
       "id": "nikolas_khamenia",
@@ -14910,7 +15146,8 @@
         "description": "Duke Children's Hospital provides world-class pediatric care to children and families across North Carolina and beyond. The Duke basketball program has maintained a deep, personal connection to the hospital for decades — players visit patients, host fundraisers, and consider the kids honorary members of the Brotherhood.",
         "url": "https://www.dukechildrens.org/giving",
         "isDefault": true
-      }
+      },
+      "dob": "2003-12-27"
     },
     {
       "id": "sebastian_wilkins",
@@ -14936,7 +15173,8 @@
       "jersey": "5",
       "highSchool": "Brewster Academy",
       "rsci": "48",
-      "weight": "220"
+      "weight": "220",
+      "dob": null
     }
   ]
 }
