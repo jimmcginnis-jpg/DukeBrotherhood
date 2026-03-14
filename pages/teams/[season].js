@@ -368,6 +368,24 @@ function MarchTab({ march, accTournament, ncaaTournament }) {
           </div>
         </div>
       )}
+
+      {/* NIT */}
+      {march.nit && march.nit.length > 0 && (
+        <div className={march.ncaaTourney && march.ncaaTourney.length > 0 ? 'mt-10' : ''}>
+          <div className="flex items-center gap-3 mb-4">
+            <h3 className="font-display text-xl text-duke-navy font-bold">NIT</h3>
+            <span className="font-mono text-xs px-2 py-1 rounded-full bg-gray-600 text-white">{ncaaTournament}</span>
+          </div>
+          <div className="relative">
+            <div className="absolute left-5 top-0 bottom-0 w-0.5 bg-gray-200" />
+            <div className="space-y-3">
+              {march.nit.map((game, i) => (
+                <GameCard key={i} game={game} isBracket />
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
