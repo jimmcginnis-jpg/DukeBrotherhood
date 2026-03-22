@@ -17,6 +17,7 @@ const eraNames = {
 const TABS = [
   { key: 'players', label: 'Players' },
   { key: 'season', label: 'Season' },
+  { key: 'stats', label: 'Stats' },
   { key: 'gthc', label: 'GTHC' },
   { key: 'thegame', label: 'The Game' },
   { key: 'march', label: 'March' },
@@ -170,6 +171,144 @@ function StatCard({ label, value }) {
     <div className="rounded-lg text-center py-4 border border-gray-200 bg-white">
       <div className="font-display text-duke-navy text-2xl font-bold">{value}</div>
       <div className="font-mono text-xs text-gray-500">{label}</div>
+    </div>
+  );
+}
+
+// ============ TAB: STATS ============
+function StatsTab({ stats, roster }) {
+  if (!stats) {
+    return (
+      <div className="text-center py-12">
+        <p className="font-display text-xl text-gray-400">Stats for this season coming soon</p>
+        <p className="font-mono text-xs text-gray-400 mt-2">We're building stats for every season 1980–81 through 2024–25</p>
+      </div>
+    );
+  }
+
+  const { team, leaders } = stats;
+  const margin = (team.ppg - team.oppPpg).toFixed(1);
+  const marginSign = margin > 0 ? '+' : '';
+
+  // Group leaders by category, take top 5
+  const categories = ['PTS', 'REB', 'AST', 'BLK'];
+  const catLabels = { PTS: 'Scoring', REB: 'Rebounding', AST: 'Assists', BLK: 'Blocks' };
+  const catFields = { PTS: 'ppg', REB: 'rpg', AST: 'apg', BLK: 'bpg' };
+  const catUnits = { PTS: 'ppg', REB: 'rpg', AST: 'apg', BLK: 'bpg' };
+
+  const grouped = {};
+  categories.forEach(cat => {
+    grouped[cat] = leaders
+      .filter(l => l.category === cat)
+      .slice(0, 5);
+  });
+
+  // Try to resolve player slugs for linking
+  const playerMap = {};
+  roster.forEach(p => { playerMap[p.id] = p; });
+
+  return (
+    <div>
+      {/* Team averages */}
+      <h3 className="font-mono text-xs text-gray-500 uppercase tracking-wider mb-3">Team Averages</h3>
+      <div className="grid grid-cols-3 md:grid-cols-5 gap-2 mb-4">
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.ppg}</div>
+          <div className="font-mono text-[10px] text-gray-400">PPG</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-gray-500 text-xl font-bold">{team.oppPpg}</div>
+          <div className="font-mono text-[10px] text-gray-400">Opp PPG</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className={`font-display text-xl font-bold ${parseFloat(margin) > 0 ? 'text-green-700' : 'text-red-600'}`}>
+            {marginSign}{margin}
+          </div>
+          <div className="font-mono text-[10px] text-gray-400">Margin</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.rpg}</div>
+          <div className="font-mono text-[10px] text-gray-400">RPG</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.apg}</div>
+          <div className="font-mono text-[10px] text-gray-400">APG</div>
+        </div>
+      </div>
+
+      {/* Shooting + defense row */}
+      <div className="grid grid-cols-3 md:grid-cols-5 gap-2 mb-8">
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.fgPct}%</div>
+          <div className="font-mono text-[10px] text-gray-400">FG%</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.threePct ? `${team.threePct}%` : '—'}</div>
+          <div className="font-mono text-[10px] text-gray-400">3PT%</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.ftPct}%</div>
+          <div className="font-mono text-[10px] text-gray-400">FT%</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.spg}</div>
+          <div className="font-mono text-[10px] text-gray-400">SPG</div>
+        </div>
+        <div className="rounded-lg text-center py-3 border border-gray-200 bg-white">
+          <div className="font-display text-duke-navy text-xl font-bold">{team.bpg}</div>
+          <div className="font-mono text-[10px] text-gray-400">BPG</div>
+        </div>
+      </div>
+
+      {/* Individual leaders by category */}
+      <h3 className="font-mono text-xs text-gray-500 uppercase tracking-wider mb-4">Individual Leaders</h3>
+      <div className="grid md:grid-cols-2 gap-4">
+        {categories.map(cat => {
+          const rows = grouped[cat];
+          if (!rows || rows.length === 0) return null;
+          const field = catFields[cat];
+          const unit = catUnits[cat];
+
+          return (
+            <div key={cat} className="rounded-lg border border-gray-200 bg-white overflow-hidden">
+              <div className="px-4 py-2 font-mono text-xs uppercase tracking-wider font-bold" style={{ background: '#001A57', color: '#C5A258' }}>
+                {catLabels[cat]}
+              </div>
+              <div className="divide-y divide-gray-100">
+                {rows.map((row, i) => {
+                  const player = playerMap[row.playerId];
+                  const nameEl = player && player.slug && player.status === 'done' ? (
+                    <Link href={`/players/${player.slug}/`} className="text-duke-navy hover:text-duke-gold transition-colors">
+                      {row.name}
+                    </Link>
+                  ) : (
+                    <span className="text-gray-700">{row.name}</span>
+                  );
+
+                  return (
+                    <div key={`${cat}-${i}`} className="flex items-center justify-between px-4 py-2">
+                      <div className="flex items-center gap-3">
+                        <span className="font-mono text-xs text-gray-300 w-4">{i + 1}</span>
+                        <span className="font-display text-sm font-semibold">{nameEl}</span>
+                      </div>
+                      <div className="flex items-center gap-3">
+                        <span className="font-mono text-sm font-bold text-duke-navy">
+                          {row[field]} <span className="text-gray-400 text-xs">{unit}</span>
+                        </span>
+                        {row.total && (
+                          <span className="font-mono text-xs text-gray-400 w-12 text-right">
+                            {row.total}
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 }
@@ -485,6 +624,7 @@ export default function SeasonPage({ team, roster }) {
       <section className="max-w-4xl mx-auto px-4 py-8">
         {activeTab === 'players' && <PlayersTab roster={roster} season={team.season} />}
         {activeTab === 'season' && <SeasonTab team={team} />}
+        {activeTab === 'stats' && <StatsTab stats={team.stats} roster={roster} />}
         {activeTab === 'gthc' && <GthcTab games={team.unc} />}
         {activeTab === 'thegame' && <TheGameTab game={team.theGame} />}
         {activeTab === 'march' && <MarchTab march={team.march} accTournament={team.accTournament} ncaaTournament={team.ncaaTournament} />}
