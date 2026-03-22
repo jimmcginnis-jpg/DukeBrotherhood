@@ -59,6 +59,127 @@
   ],
   "players": [
     {
+      "id": "gene_banks",
+      "slug": "gene-banks",
+      "era": "foundation",
+      "name": "Gene Banks",
+      "pos": "Forward",
+      "years": "1977–81",
+      "classOf": "1981",
+      "height": "6'7\"",
+      "tagline": "The first McDonald's All-American to choose Duke. The man who put the program on the map.",
+      "status": "stub",
+      "now": "",
+      "drafted": "2nd Rd, 28th — Spurs",
+      "stat": "2,079 pts • 16.8 ppg • 2x All-American • 1978 NCAA title game • ACC ROY",
+      "seasons": [
+        "1980-81"
+      ],
+      "hometown": "Philadelphia, PA",
+      "highSchool": "West Philadelphia HS",
+      "jersey": "20",
+      "weight": "215",
+      "rsci": "",
+      "dob": "1959-05-15",
+      "bio": {},
+      "sources": [],
+      "nba": {
+        "draftYear": 1981,
+        "draftRound": 2,
+        "draftPick": 28,
+        "draftTeam": "San Antonio Spurs",
+        "careerYears": "1981-87",
+        "games": 468,
+        "ppg": 11.3,
+        "rpg": 5.8,
+        "apg": 2.9,
+        "teams": [
+          {
+            "team": "San Antonio Spurs",
+            "seasons": [
+              "1981-82",
+              "1982-83"
+            ]
+          },
+          {
+            "team": "Chicago Bulls",
+            "seasons": [
+              "1983-84",
+              "1984-85"
+            ]
+          },
+          {
+            "team": "Houston Rockets",
+            "seasons": [
+              "1984-85"
+            ]
+          },
+          {
+            "team": "Detroit Pistons",
+            "seasons": [
+              "1985-86"
+            ]
+          }
+        ],
+        "highlights": [
+          {
+            "season": "1982-83",
+            "note": "Career-high 44 pts vs Los Angeles Lakers"
+          },
+          {
+            "season": "1977-78",
+            "note": "ACC Rookie of the Year"
+          },
+          {
+            "season": "1980-81",
+            "note": "First-team All-ACC, two-time All-American"
+          }
+        ],
+        "lastSeason": "1985-86",
+        "undrafted": false,
+        "overseas": [
+          {
+            "team": "Arimo Bologna",
+            "league": "Serie A (Italy)",
+            "seasons": [
+              "1988-89"
+            ]
+          },
+          {
+            "team": "Maccabi Rishon LeZion",
+            "league": "Israeli Premier League",
+            "seasons": [
+              "1989-90"
+            ]
+          },
+          {
+            "team": "Hapoel Herzliya",
+            "league": "Israeli Premier League",
+            "seasons": [
+              "1992-93"
+            ]
+          }
+        ],
+        "coaching": [
+          {
+            "team": "Washington Wizards",
+            "role": "Assistant Coach",
+            "seasons": [
+              "1990s"
+            ]
+          },
+          {
+            "team": "Bluefield State College",
+            "role": "Head Coach (Women's)",
+            "seasons": [
+              "1998"
+            ]
+          }
+        ],
+        "postCareer": ""
+      }
+    },
+    {
       "id": "taylor_v",
       "slug": "vince-taylor",
       "era": "foundation",
@@ -1256,6 +1377,7 @@
       "stat": "",
       "bio": {},
       "seasons": [
+        "1980-81",
         "1981-82"
       ],
       "nba": null,
@@ -1283,6 +1405,7 @@
       "stat": "",
       "bio": {},
       "seasons": [
+        "1980-81",
         "1981-82"
       ],
       "nba": null,
@@ -4207,7 +4330,8 @@
         "1994-95",
         "1995-96",
         "1996-97",
-        "1997-98"
+        "1997-98",
+        "1998-99"
       ],
       "nba": {
         "draftYear": 1999,
@@ -4483,6 +4607,7 @@
       "status": "done",
       "now": "Vice President / Home Lending Manager, JPMorgan Chase (Georgia); completed Duke degree 2006",
       "seasons": [
+        "1995-96",
         "1996-97",
         "1997-98"
       ],
@@ -6046,8 +6171,10 @@
       "status": "done",
       "now": "Assistant Coach, Los Angeles Clippers (promoted to full assistant 2024-25 under Tyronn Lue)",
       "seasons": [
+        "2000-01",
         "2001-02",
-        "2002-03"
+        "2002-03",
+        "2003-04"
       ],
       "drafted": "1st Rd, 20th — Boston Celtics (traded to Memphis Grizzlies)",
       "stat": "2 Duke seasons • 17.7/5.5 senior • All-ACC • 2x ACC All-Defensive • 20th pick • 624 NBA games • 2016 Champion",
@@ -6631,8 +6758,9 @@
         "now": "After earning his MBA from Wharton in 2013, Love moved into business and media. In July 2015, Vice Media announced that he would become editor-at-large for Vice Sports. He has since built a career in investment and consulting, becoming a partner at RON Transatlantic, an investment firm.\n\nLove’s post-White House life has also included public speaking, philanthropy, and maintaining the relationships that defined his Duke and Washington years. The Brotherhood connection runs deep: Shane Battier, his teammate on the 2001 championship team, was one of the NBA players at Obama’s 50th birthday game. The Duke network — from the basketball court to the Oval Office — has been a throughline in Love’s career.\n\nReggie Love’s story is unlike any other in the Brotherhood. He wasn’t the most talented player on any Duke team he played for. He never averaged more than a handful of points. He never made an NBA roster. But he won a national championship, captained a team, played two sports at a Power Five school, graduated with a degree in political science, became the personal aide to the President of the United States, earned an MBA from Wharton, and built a career that spans politics, media, and finance. He is the ultimate Duke two-sport, multiple-career success story — proof that the Brotherhood isn’t defined by what you do on the court. It’s defined by what you do with what Duke gives you."
       },
       "seasons": [
-        "2000-01",
         "2001-02",
+        "2002-03",
+        "2003-04",
         "2004-05"
       ],
       "nba": null,
