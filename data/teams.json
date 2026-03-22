@@ -1867,7 +1867,162 @@
           "title": "Carolina-Duke Rivalry — Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Carolina%E2%80%93Duke_rivalry"
         }
-      ]
+      ],
+      "stats": {
+        "team": {
+          "ppg": 82.2,
+          "oppPpg": 64.5,
+          "fgPct": 51.5,
+          "threePct": 37.0,
+          "ftPct": 73.2,
+          "rpg": 38.7,
+          "apg": 18.1,
+          "spg": 8.1,
+          "bpg": 4.5
+        },
+        "leaders": [
+          {
+            "name": "Christian Laettner",
+            "playerId": "laettner",
+            "category": "PTS",
+            "ppg": 21.5,
+            "total": 774
+          },
+          {
+            "name": "Bobby Hurley",
+            "playerId": "hurley",
+            "category": "PTS",
+            "ppg": 13.2,
+            "total": 475
+          },
+          {
+            "name": "Thomas Hill",
+            "playerId": "thill",
+            "category": "PTS",
+            "ppg": 14.0,
+            "total": 504
+          },
+          {
+            "name": "Grant Hill",
+            "playerId": "ghill",
+            "category": "PTS",
+            "ppg": 14.0,
+            "total": 504
+          },
+          {
+            "name": "Brian Davis",
+            "playerId": "bdavis",
+            "category": "PTS",
+            "ppg": 8.5,
+            "total": 306
+          },
+          {
+            "name": "Christian Laettner",
+            "playerId": "laettner",
+            "category": "REB",
+            "rpg": 7.9,
+            "total": 285
+          },
+          {
+            "name": "Grant Hill",
+            "playerId": "ghill",
+            "category": "REB",
+            "rpg": 5.7,
+            "total": 205
+          },
+          {
+            "name": "Brian Davis",
+            "playerId": "bdavis",
+            "category": "REB",
+            "rpg": 5.0,
+            "total": 180
+          },
+          {
+            "name": "Thomas Hill",
+            "playerId": "thill",
+            "category": "REB",
+            "rpg": 3.2,
+            "total": 115
+          },
+          {
+            "name": "Cherokee Parks",
+            "playerId": "parks",
+            "category": "REB",
+            "rpg": 2.9,
+            "total": 101
+          },
+          {
+            "name": "Bobby Hurley",
+            "playerId": "hurley",
+            "category": "AST",
+            "apg": 7.6,
+            "total": 274
+          },
+          {
+            "name": "Grant Hill",
+            "playerId": "ghill",
+            "category": "AST",
+            "apg": 2.2,
+            "total": 79
+          },
+          {
+            "name": "Thomas Hill",
+            "playerId": "thill",
+            "category": "AST",
+            "apg": 2.0,
+            "total": 72
+          },
+          {
+            "name": "Christian Laettner",
+            "playerId": "laettner",
+            "category": "AST",
+            "apg": 1.6,
+            "total": 58
+          },
+          {
+            "name": "Brian Davis",
+            "playerId": "bdavis",
+            "category": "AST",
+            "apg": 1.4,
+            "total": 50
+          },
+          {
+            "name": "Christian Laettner",
+            "playerId": "laettner",
+            "category": "BLK",
+            "bpg": 1.0,
+            "total": 36
+          },
+          {
+            "name": "Cherokee Parks",
+            "playerId": "parks",
+            "category": "BLK",
+            "bpg": 1.0,
+            "total": 34
+          },
+          {
+            "name": "Grant Hill",
+            "playerId": "ghill",
+            "category": "BLK",
+            "bpg": 0.6,
+            "total": 22
+          },
+          {
+            "name": "Brian Davis",
+            "playerId": "bdavis",
+            "category": "BLK",
+            "bpg": 0.5,
+            "total": 18
+          },
+          {
+            "name": "Antonio Lang",
+            "playerId": "lang",
+            "category": "BLK",
+            "bpg": 0.4,
+            "total": 14
+          }
+        ]
+      }
     },
     {
       "season": "1992-93",
@@ -3468,7 +3623,162 @@
           "title": "4. 2001 Duke — Mudville Analytics",
           "url": "https://mudvilleanalytics.com/acc-greatest-teams/4-2001-duke/"
         }
-      ]
+      ],
+      "stats": {
+        "team": {
+          "ppg": 84.4,
+          "oppPpg": 67.2,
+          "fgPct": 47.8,
+          "threePct": 39.1,
+          "ftPct": 72.5,
+          "rpg": 38.2,
+          "apg": 17.2,
+          "spg": 7.8,
+          "bpg": 4.1
+        },
+        "leaders": [
+          {
+            "name": "Jay Williams",
+            "playerId": "jwilliams",
+            "category": "PTS",
+            "ppg": 21.3,
+            "total": 841
+          },
+          {
+            "name": "Mike Dunleavy Jr.",
+            "playerId": "dunleavy",
+            "category": "PTS",
+            "ppg": 17.3,
+            "total": 623
+          },
+          {
+            "name": "Carlos Boozer",
+            "playerId": "boozer",
+            "category": "PTS",
+            "ppg": 18.2,
+            "total": 546
+          },
+          {
+            "name": "Chris Duhon",
+            "playerId": "duhon",
+            "category": "PTS",
+            "ppg": 8.3,
+            "total": 307
+          },
+          {
+            "name": "Dahntay Jones",
+            "playerId": "jones_d",
+            "category": "PTS",
+            "ppg": 6.3,
+            "total": 233
+          },
+          {
+            "name": "Carlos Boozer",
+            "playerId": "boozer",
+            "category": "REB",
+            "rpg": 8.2,
+            "total": 246
+          },
+          {
+            "name": "Mike Dunleavy Jr.",
+            "playerId": "dunleavy",
+            "category": "REB",
+            "rpg": 7.2,
+            "total": 259
+          },
+          {
+            "name": "Casey Sanders",
+            "playerId": "casey_sanders",
+            "category": "REB",
+            "rpg": 4.7,
+            "total": 174
+          },
+          {
+            "name": "Jay Williams",
+            "playerId": "jwilliams",
+            "category": "REB",
+            "rpg": 3.5,
+            "total": 138
+          },
+          {
+            "name": "Dahntay Jones",
+            "playerId": "jones_d",
+            "category": "REB",
+            "rpg": 3.5,
+            "total": 130
+          },
+          {
+            "name": "Jay Williams",
+            "playerId": "jwilliams",
+            "category": "AST",
+            "apg": 5.3,
+            "total": 209
+          },
+          {
+            "name": "Chris Duhon",
+            "playerId": "duhon",
+            "category": "AST",
+            "apg": 4.9,
+            "total": 181
+          },
+          {
+            "name": "Mike Dunleavy Jr.",
+            "playerId": "dunleavy",
+            "category": "AST",
+            "apg": 3.0,
+            "total": 108
+          },
+          {
+            "name": "Carlos Boozer",
+            "playerId": "boozer",
+            "category": "AST",
+            "apg": 1.2,
+            "total": 36
+          },
+          {
+            "name": "Dahntay Jones",
+            "playerId": "jones_d",
+            "category": "AST",
+            "apg": 1.1,
+            "total": 41
+          },
+          {
+            "name": "Casey Sanders",
+            "playerId": "casey_sanders",
+            "category": "BLK",
+            "bpg": 1.8,
+            "total": 67
+          },
+          {
+            "name": "Carlos Boozer",
+            "playerId": "boozer",
+            "category": "BLK",
+            "bpg": 0.8,
+            "total": 24
+          },
+          {
+            "name": "Mike Dunleavy Jr.",
+            "playerId": "dunleavy",
+            "category": "BLK",
+            "bpg": 0.6,
+            "total": 22
+          },
+          {
+            "name": "Dahntay Jones",
+            "playerId": "jones_d",
+            "category": "BLK",
+            "bpg": 0.5,
+            "total": 19
+          },
+          {
+            "name": "Jay Williams",
+            "playerId": "jwilliams",
+            "category": "BLK",
+            "bpg": 0.1,
+            "total": 4
+          }
+        ]
+      }
     },
     {
       "season": "2002-03",
@@ -4718,7 +5028,162 @@
           "title": "Carolina-Duke Rivalry — Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Carolina%E2%80%93Duke_rivalry"
         }
-      ]
+      ],
+      "stats": {
+        "team": {
+          "ppg": 79.4,
+          "oppPpg": 63.2,
+          "fgPct": 47.6,
+          "threePct": 38.2,
+          "ftPct": 76.1,
+          "rpg": 38.0,
+          "apg": 15.8,
+          "spg": 7.0,
+          "bpg": 3.8
+        },
+        "leaders": [
+          {
+            "name": "Jon Scheyer",
+            "playerId": "scheyer",
+            "category": "PTS",
+            "ppg": 18.2,
+            "total": 728
+          },
+          {
+            "name": "Kyle Singler",
+            "playerId": "singler",
+            "category": "PTS",
+            "ppg": 17.7,
+            "total": 707
+          },
+          {
+            "name": "Nolan Smith",
+            "playerId": "nsmith",
+            "category": "PTS",
+            "ppg": 17.4,
+            "total": 644
+          },
+          {
+            "name": "Lance Thomas",
+            "playerId": "lance_thomas",
+            "category": "PTS",
+            "ppg": 8.8,
+            "total": 352
+          },
+          {
+            "name": "Brian Zoubek",
+            "playerId": "zoubek",
+            "category": "PTS",
+            "ppg": 5.7,
+            "total": 228
+          },
+          {
+            "name": "Brian Zoubek",
+            "playerId": "zoubek",
+            "category": "REB",
+            "rpg": 7.6,
+            "total": 304
+          },
+          {
+            "name": "Kyle Singler",
+            "playerId": "singler",
+            "category": "REB",
+            "rpg": 7.0,
+            "total": 280
+          },
+          {
+            "name": "Lance Thomas",
+            "playerId": "lance_thomas",
+            "category": "REB",
+            "rpg": 5.4,
+            "total": 216
+          },
+          {
+            "name": "Miles Plumlee",
+            "playerId": "miplumlee",
+            "category": "REB",
+            "rpg": 3.7,
+            "total": 133
+          },
+          {
+            "name": "Mason Plumlee",
+            "playerId": "maplumlee",
+            "category": "REB",
+            "rpg": 3.0,
+            "total": 108
+          },
+          {
+            "name": "Jon Scheyer",
+            "playerId": "scheyer",
+            "category": "AST",
+            "apg": 4.9,
+            "total": 196
+          },
+          {
+            "name": "Nolan Smith",
+            "playerId": "nsmith",
+            "category": "AST",
+            "apg": 4.5,
+            "total": 167
+          },
+          {
+            "name": "Kyle Singler",
+            "playerId": "singler",
+            "category": "AST",
+            "apg": 2.0,
+            "total": 80
+          },
+          {
+            "name": "Lance Thomas",
+            "playerId": "lance_thomas",
+            "category": "AST",
+            "apg": 1.4,
+            "total": 56
+          },
+          {
+            "name": "Brian Zoubek",
+            "playerId": "zoubek",
+            "category": "AST",
+            "apg": 0.6,
+            "total": 24
+          },
+          {
+            "name": "Mason Plumlee",
+            "playerId": "maplumlee",
+            "category": "BLK",
+            "bpg": 0.9,
+            "total": 32
+          },
+          {
+            "name": "Miles Plumlee",
+            "playerId": "miplumlee",
+            "category": "BLK",
+            "bpg": 0.8,
+            "total": 29
+          },
+          {
+            "name": "Brian Zoubek",
+            "playerId": "zoubek",
+            "category": "BLK",
+            "bpg": 0.6,
+            "total": 24
+          },
+          {
+            "name": "Kyle Singler",
+            "playerId": "singler",
+            "category": "BLK",
+            "bpg": 0.5,
+            "total": 20
+          },
+          {
+            "name": "Ryan Kelly",
+            "playerId": "rkelly",
+            "category": "BLK",
+            "bpg": 0.5,
+            "total": 16
+          }
+        ]
+      }
     },
     {
       "season": "2010-11",
@@ -5740,7 +6205,162 @@
           "uncRank": 19,
           "story": "Tyus Jones delivered a huge second half as Duke shot 59% after the break to complete the season sweep. Jones orchestrated the offense with precision, finding Okafor and Winslow for baskets while hitting timely jumpers of his own. Justise Winslow's athleticism overwhelmed UNC's wings on both ends. The sweep — Duke's second in three years — sent the Blue Devils into the postseason as a legitimate national title contender. They would prove it, winning it all three weeks later in Indianapolis."
         }
-      ]
+      ],
+      "stats": {
+        "team": {
+          "ppg": 81.7,
+          "oppPpg": 65.5,
+          "fgPct": 48.7,
+          "threePct": 37.4,
+          "ftPct": 70.2,
+          "rpg": 37.2,
+          "apg": 14.6,
+          "spg": 6.7,
+          "bpg": 5.8
+        },
+        "leaders": [
+          {
+            "name": "Jahlil Okafor",
+            "playerId": "okafor",
+            "category": "PTS",
+            "ppg": 17.3,
+            "total": 658
+          },
+          {
+            "name": "Justise Winslow",
+            "playerId": "winslow",
+            "category": "PTS",
+            "ppg": 12.6,
+            "total": 479
+          },
+          {
+            "name": "Quinn Cook",
+            "playerId": "qcook",
+            "category": "PTS",
+            "ppg": 15.3,
+            "total": 582
+          },
+          {
+            "name": "Tyus Jones",
+            "playerId": "tjones",
+            "category": "PTS",
+            "ppg": 11.8,
+            "total": 449
+          },
+          {
+            "name": "Matt Jones",
+            "playerId": "matt_jones",
+            "category": "PTS",
+            "ppg": 6.5,
+            "total": 243
+          },
+          {
+            "name": "Jahlil Okafor",
+            "playerId": "okafor",
+            "category": "REB",
+            "rpg": 8.5,
+            "total": 323
+          },
+          {
+            "name": "Justise Winslow",
+            "playerId": "winslow",
+            "category": "REB",
+            "rpg": 6.5,
+            "total": 247
+          },
+          {
+            "name": "Amile Jefferson",
+            "playerId": "amile_jefferson",
+            "category": "REB",
+            "rpg": 4.6,
+            "total": 175
+          },
+          {
+            "name": "Quinn Cook",
+            "playerId": "qcook",
+            "category": "REB",
+            "rpg": 2.6,
+            "total": 99
+          },
+          {
+            "name": "Tyus Jones",
+            "playerId": "tjones",
+            "category": "REB",
+            "rpg": 2.5,
+            "total": 95
+          },
+          {
+            "name": "Tyus Jones",
+            "playerId": "tjones",
+            "category": "AST",
+            "apg": 5.6,
+            "total": 213
+          },
+          {
+            "name": "Quinn Cook",
+            "playerId": "qcook",
+            "category": "AST",
+            "apg": 4.3,
+            "total": 163
+          },
+          {
+            "name": "Justise Winslow",
+            "playerId": "winslow",
+            "category": "AST",
+            "apg": 2.0,
+            "total": 76
+          },
+          {
+            "name": "Jahlil Okafor",
+            "playerId": "okafor",
+            "category": "AST",
+            "apg": 1.4,
+            "total": 53
+          },
+          {
+            "name": "Matt Jones",
+            "playerId": "matt_jones",
+            "category": "AST",
+            "apg": 1.1,
+            "total": 39
+          },
+          {
+            "name": "Jahlil Okafor",
+            "playerId": "okafor",
+            "category": "BLK",
+            "bpg": 1.4,
+            "total": 53
+          },
+          {
+            "name": "Justise Winslow",
+            "playerId": "winslow",
+            "category": "BLK",
+            "bpg": 1.2,
+            "total": 46
+          },
+          {
+            "name": "Amile Jefferson",
+            "playerId": "amile_jefferson",
+            "category": "BLK",
+            "bpg": 1.0,
+            "total": 38
+          },
+          {
+            "name": "Marshall Plumlee",
+            "playerId": "marshplumlee",
+            "category": "BLK",
+            "bpg": 0.8,
+            "total": 25
+          },
+          {
+            "name": "Tyus Jones",
+            "playerId": "tjones",
+            "category": "BLK",
+            "bpg": 0.1,
+            "total": 4
+          }
+        ]
+      }
     },
     {
       "season": "2015-16",
@@ -7351,7 +7971,162 @@
           "uncRank": 8,
           "story": "The greatest game in the greatest rivalry, played on the greatest stage. Duke and UNC had met 257 times in 102 years but never in the NCAA Tournament. K's retirement and the brackets had conspired to produce the most anticipated college basketball game ever played. The first half was a slugfest — Duke led 37-34 at the break. In the second half, both teams played with an intensity that transcended normal basketball. With 1:47 left, Jeremy Roach drove for a layup to put Duke up 76-75. Then Caleb Love — the same guard who'd torched Duke at Cameron — pulled up from 30 feet and buried it: 78-76 UNC. Duke never led again. Final: North Carolina 81, Duke 77. K walked off the floor for the last time. UNC lost to Kansas in the championship two days later, leaving Duke fans with a question that will echo through decades: What if Love's three had been an inch to the left?"
         }
-      ]
+      ],
+      "stats": {
+        "team": {
+          "ppg": 80.0,
+          "oppPpg": 66.3,
+          "fgPct": 47.4,
+          "threePct": 35.7,
+          "ftPct": 72.5,
+          "rpg": 36.4,
+          "apg": 13.6,
+          "spg": 5.5,
+          "bpg": 5.3
+        },
+        "leaders": [
+          {
+            "name": "Paolo Banchero",
+            "playerId": "banchero",
+            "category": "PTS",
+            "ppg": 17.2,
+            "total": 671
+          },
+          {
+            "name": "Wendell Moore Jr.",
+            "playerId": "wendell_moore_jr",
+            "category": "PTS",
+            "ppg": 13.4,
+            "total": 536
+          },
+          {
+            "name": "Mark Williams",
+            "playerId": "mark_williams",
+            "category": "PTS",
+            "ppg": 11.2,
+            "total": 415
+          },
+          {
+            "name": "AJ Griffin",
+            "playerId": "ajgriffin",
+            "category": "PTS",
+            "ppg": 10.4,
+            "total": 406
+          },
+          {
+            "name": "Trevor Keels",
+            "playerId": "trevor_keels",
+            "category": "PTS",
+            "ppg": 11.5,
+            "total": 449
+          },
+          {
+            "name": "Mark Williams",
+            "playerId": "mark_williams",
+            "category": "REB",
+            "rpg": 7.4,
+            "total": 274
+          },
+          {
+            "name": "Paolo Banchero",
+            "playerId": "banchero",
+            "category": "REB",
+            "rpg": 7.8,
+            "total": 304
+          },
+          {
+            "name": "Theo John",
+            "playerId": "theo_john",
+            "category": "REB",
+            "rpg": 3.9,
+            "total": 148
+          },
+          {
+            "name": "Wendell Moore Jr.",
+            "playerId": "wendell_moore_jr",
+            "category": "REB",
+            "rpg": 5.3,
+            "total": 212
+          },
+          {
+            "name": "AJ Griffin",
+            "playerId": "ajgriffin",
+            "category": "REB",
+            "rpg": 3.9,
+            "total": 152
+          },
+          {
+            "name": "Wendell Moore Jr.",
+            "playerId": "wendell_moore_jr",
+            "category": "AST",
+            "apg": 4.4,
+            "total": 176
+          },
+          {
+            "name": "Paolo Banchero",
+            "playerId": "banchero",
+            "category": "AST",
+            "apg": 3.2,
+            "total": 125
+          },
+          {
+            "name": "Jeremy Roach",
+            "playerId": "jroach",
+            "category": "AST",
+            "apg": 3.0,
+            "total": 111
+          },
+          {
+            "name": "Trevor Keels",
+            "playerId": "trevor_keels",
+            "category": "AST",
+            "apg": 2.7,
+            "total": 105
+          },
+          {
+            "name": "AJ Griffin",
+            "playerId": "ajgriffin",
+            "category": "AST",
+            "apg": 1.0,
+            "total": 39
+          },
+          {
+            "name": "Mark Williams",
+            "playerId": "mark_williams",
+            "category": "BLK",
+            "bpg": 2.8,
+            "total": 104
+          },
+          {
+            "name": "Theo John",
+            "playerId": "theo_john",
+            "category": "BLK",
+            "bpg": 0.8,
+            "total": 30
+          },
+          {
+            "name": "Paolo Banchero",
+            "playerId": "banchero",
+            "category": "BLK",
+            "bpg": 0.9,
+            "total": 35
+          },
+          {
+            "name": "AJ Griffin",
+            "playerId": "ajgriffin",
+            "category": "BLK",
+            "bpg": 0.4,
+            "total": 16
+          },
+          {
+            "name": "Wendell Moore Jr.",
+            "playerId": "wendell_moore_jr",
+            "category": "BLK",
+            "bpg": 0.4,
+            "total": 16
+          }
+        ]
+      }
     },
     {
       "season": "2022-23",
